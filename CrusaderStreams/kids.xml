@@ -1,0 +1,17 @@
+﻿<item>
+<title>Aljazeera Kids Tv</title>
+<link>http://78.100.44.238/live-jscc/jscc/playlist.m3u8</link>
+<thumbnail>http://www.animationmagazine.net/wordpress/wp-content/uploads/Al-Jazeera-Childrens-Channel-150.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANARY KIDS</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f4qofs2W8kA</link>
+<thumbnail>http://www.spacesseo.com/wp-content/uploads/2013/04/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Baraem TV</title>
+<link>http://78.100.44.238/live-baraem/baraem/playlist.m3u8</link>
+<thumbnail>http://baraem-2.jcctv-cdn.net/baraem-ui/images/home/baraem-logo-n.png</thumbnail>
+</item>

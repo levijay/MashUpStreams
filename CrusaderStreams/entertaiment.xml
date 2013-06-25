@@ -1,0 +1,140 @@
+﻿<item>
+<title>MTV Lebanon (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-004/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chachaty Plus TV</title>
+<link>http://149.62.177.6:9001</link>
+<thumbnail>https://migoptv.googlecode.com/files/Chachaty.jpg</thumbnail>
+</item>
+
+<item>
+<title>Moga Comedy</title>
+<link>rtmp://46.165.196.36/live playpath=azsq879?id=149842 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq879/1/600/380</link>
+<thumbnail>http://4.bp.blogspot.com/_PhF2xiVgYV0/TC6igYIeXOI/AAAAAAAAAHE/1kGf2MMfgl8/s1600/moga-comedy.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Drama  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-023/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Max  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-014/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Action  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-012/playplist.m3u8</link>
+<thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rotana Cinema (Link 2)</title> 
+<link>http://149.62.177.6:9004</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Khaligia (Link 2)</title> 
+<link>http://149.62.177.6:9007</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Musica (Link 2)</title> 
+<link>http://149.62.177.50:9009</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 3</title>
+<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+<item>
+<title>MBC Action</title>
+<link>rtmp://mi3.gv.filmon.com:1935/live/_definst_/ playpath=369.high.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://desichannels.webnode.com/international/mbc-action/</link>
+<thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-013/playplist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC 2</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_ playpath=368.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15
+pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
+<thumbnail>http://3.bp.blogspot.com/-OcItiExH22A/T4MX4_5h-ZI/AAAAAAAAA-I/TVysRiTtgKw/s1600/ch2.2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Cinema</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=cinema</link>
+<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/07/Nile-Cinema-TV.png</thumbnail>
+</item>
+
+<item>
+<title>Nile Life</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=life</link>
+<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/07/Nile-Life-TV-Egypt.png</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon</title>
+<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
+<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+<item>
+<title>Melody Drama</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ygHfYFX5xnc</link>
+<thumbnail>http://www.n2hr.com/up/uploads/images/n2hrcom-c00ad54266.jpg</thumbnail>
+</item>
+
+<item>
+<title>EL BALAD DRAMA</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T1oJUSGjjD4</link>
+<thumbnail>http://www.arab-tvs.com/EgyptianTvs/images/ElBalad-Drama.JPG</thumbnail>
+</item>
+
+<item>
+<title>Rotana Music</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanamousicalive playpath=rotanamousica_360p swfUrl=http://mousica.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mousica.rotana.net/r/live-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Khalijia</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanakhalijialive playpath=rotanakhalijia_360p live=true timeout=15 swfUrl=http://khalijia.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://khalijia.rotana.net/r/live-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rotana_khalijia.png</thumbnail>
+</item>
+
+<item>
+<title>Rotana Cinema</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanacinemalive playpath=rotanacinema_360p live=true timeout=15 swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://cinema.rotana.net/r/live-tv</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/saudi-arabia/200-Rotana-Cinema-11.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Lebanon</title>
+<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mtv.com.lb/Player/654/451</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
+</item>
+
+<item>
+<title>LBC International(LBC Europe)</title>
+<link>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+<thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
+</item>

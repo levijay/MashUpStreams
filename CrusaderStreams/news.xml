@@ -1,0 +1,115 @@
+﻿<item>
+<title>Al Mayadeen (Link 3)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-011/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-002/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future   [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-006/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Al Manar HD (Link 3)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-001/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Mayadeen (Link 2)</title>
+<link>rtmp://almayadeen.fms-01.visionip.tv/live/ playpath=almayadeentv-almayadeen-live-16x9-SD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alekhbaria Syria (Link 6)</title>
+<link>mms://video.rtv.gov.sy/snews</link>
+<thumbnail>http://migoptv.googlecode.com/files/ekhbaria-syria.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alalam (Link 2)</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-al_alam-live-25f-4x3-SDh swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.alalam.ir/live/high</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 5)</title>
+<link>mmsh://video.rtv.gov.sy/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 3)</title>
+<link>rtsp://82.137.248.17:554/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 4)</title>
+<link>rtsp://82.137.248.17/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 2)</title>
+<link>mms://82.137.248.17/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alalam</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-al_alam-live-25f-4x3-SD</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA NEWS</title>
+<link>rtmp://ns9.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
+<thumbnail>http://www.alwaleedonline.com/News1/560019al-sharqiya_tv_logo11.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Mayadeen</title>
+<link>rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1371151836 live=true timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout</link>
+<thumbnail>http://3.bp.blogspot.com/-IOB9KcaUF4Q/UJb9e9T9jYI/AAAAAAAADtk/qaZeDGNGNuw/s1600/al_mayadeen_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Al Manar</title>
+<link>rtmp://38.96.148.200/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
+<thumbnail>http://mplbelgique.files.wordpress.com/2010/01/al-manar.jpg</thumbnail>
+</item>
+
+<item>
+<title>Syria TV</title>
+<link>http://149.62.177.6:9014</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah</title>
+<link>http://video.rtv.gov.sy/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Press TV</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.com&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15
+pageUrl=http://www.presstv.com/live.html</link>
+<thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Al Manar (Link 2)</title>
+<link>http://almanarlive.nanocdn.com:1935/live/almanar64/playlist.m3u8</link>
+<thumbnail>http://jira.salamworld.com/wp-content/uploads/2012/11/AL-MANAR.jpg</thumbnail>
+</item>

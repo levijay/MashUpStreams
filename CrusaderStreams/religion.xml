@@ -1,0 +1,68 @@
+﻿<item>
+<title>IQRAA Live</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv2/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv2.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>IQRAA AU ASIA</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv3/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv3.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>IQRAA AFRICA</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alkarma TV</title>
+<link>rtmp://flash.alkarmatv.com:1935/karmatv_na playpath=karmatv_na2 swfUrl=http://www.alkarmatv.com/liveplayer/player.swf live=true timeout=15 pageUrl=http://www.alkarmatv.com/watch-alkarma-na</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/AlKarma-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Hayat</title>
+<link>rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahme.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=SztU_CsuwGz67FqjMyILRzatq-RM4oFvQCnLyznGPiA.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTM2ODU3NDg3NCwicGFnZSI6eyJpZCI6IjE4NzI2OTY0Nzk2OTE1NyIsImxpa2VkIjpmYWxzZSwiYWRtaW4iOmZhbHNlfSwidXNlciI6eyJjb3VudHJ5IjoidXMiLCJsb2NhbGUiOiJlbl9VUyIsImFnZSI6eyJtaW4iOjAsIm1heCI6MTJ9fX0</link>
+<thumbnail>http://4.bp.blogspot.com/-GMfZbePIg7s/UVrJbMggvBI/AAAAAAAACgQ/tzvexdIcfnw/s320/Al+Hayat+TV+Live+(Egypt).jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Hayat 2</title>
+<link>rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahusa.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eopP6-Vw6RwvHu256k9MOUpQjLzOYkg.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTM2ODU3NDkxOSwicGFnZSI6eyJpZCI6IjE4NzI2OTY0Nzk2OTE1NyIsImxpa2VkIjpmYWxzZSwiYWRtaW4iOmZhbHNlfSwidXNlciI6eyJjb3VudHJ5IjoidXMiLCJsb2NhbGUiOiJlbl9VUyIsImFnZSI6eyJtaW4iOjAsIm1heCI6MTJ9fX0</link>
+<thumbnail>http://4.bp.blogspot.com/-GMfZbePIg7s/UVrJbMggvBI/AAAAAAAACgQ/tzvexdIcfnw/s320/Al+Hayat+TV+Live+(Egypt).jpg</thumbnail>
+</item>
+
+<item>
+<title>Noursat Al Shabab</title>
+<link>rtmp://fl1.viastreaming.net/nouralchabab playpath=livestream swfUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/nouralchabab&autostart=true live=true timeout=15 pageUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/nouralchabab&autostart=true</link>
+<thumbnail>http://blog.jumptv.com/.a/6a00d8341ce56253ef016767d8dc38970b-800wi</thumbnail>
+</item>
+
+<item>
+<title>Noursat</title>
+<link>rtmp://fl1.viastreaming.net/noursat playpath=livestream swfUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/noursat&autostart=true live=true timeout=15 pageUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/noursat&autostart=true</link>
+<thumbnail>http://svetomir.blox.pl/resource/Noursat.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Alfady TV</title>
+<link>rtmp://stream.truth-voice.net:1935/FadyLive playpath=FadyLive swfUrl=http://player.alfadytv.tv/player.swf live=true timeout=15 pageUrl=http://131.253.14.98/proxy.ashx?h=ercHUFraWx0Mtw2rHkQXBCeNmdqvf7Rs&a=http%3A%2F%2Falfadytv.tv%2Fwatchlive10%2F%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/s160x160/562205_301744929893639_729744324_a.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTV COPTIC TV</title>
+<link>rtmp://sc-lb1.streamcyclone.com/ctvch_live playpath=ctvch swfUrl=http://manage.streamcyclone.com/player/player.swf live=true timeout=15</link>
+<thumbnail>http://www.worldlanguagestv.com/logos/ctv-coptic.png</thumbnail>
+</item>
+
+<item>
+<title>Alghadeer  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://85.17.95.202/live/ playpath=alghadeer swfUrl=http://www.utechiraq.com/flash/1.swf live=true timeout=15 pageUrl=http://www.alghadeer.tv/livetv/</link>
+<thumbnail>http://www.saffar.org/media/lib/pics/1272563556.jpg</thumbnail>
+</item>
