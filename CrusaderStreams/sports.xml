@@ -1,0 +1,91 @@
+﻿<item>
+<title>JSC Sport Global  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-010/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
+</item>
+
+<item>
+<title>AD Sports</title>
+<link>rtmp://mi6.gv.filmon.com/live/_definst_/1760.high.stream</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
+</item> 
+
+<item>
+<title>Bahrain Sports</title>
+<link>rtmp://alayam.netromedia.net/btv3//btv3</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bahrain/113-Bahrain-TV-Sports.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Dubai Sports</title>
+<link>rtmp://mi3.gv.filmon.com/live/_definst_/79.high.stream</link>
+<thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
+</item> 
+
+<item>
+<title>Kuwait Plus</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch6.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1_plus.png</thumbnail>
+</item>
+
+<item>
+<title>Kuwait Sports</title>
+<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
+</item> 
+
+<item>
+<title>Oman Sports</title>
+<link>http://38.96.148.30:1935/live/omantv2/playlist.m3u8</link>
+<thumbnail>http://logovector.org/wp-content/uploads/logos/png/o/oman_football_assocation_logo.png</thumbnail>
+</item> 
+
+<item>
+<title>Saudi Sports</title>
+<link>rtmp://mi6.gv.filmon.com/live/_definst_/1781.high.stream</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>JSC +1</title>
+<link>http://141.8.244.56:1935/base/jsc1.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
+</item> 
+
+<item>
+<title>JSC +2</title>
+<link>http://141.8.244.56:1935/base/jsc2.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
+</item> 
+
+<item>
+<title>JSC +3</title>
+<link>http://141.8.244.56:1935/base/jsc3.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus3.png</thumbnail>
+</item> 
+
+<item>
+<title>JSC +4</title>
+<link>http://141.8.244.56:1935/base/jsc4.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
+</item>
+
+<item>
+<title>Iraqi Sports Channel</title>
+<link>http://212.7.196.74/sport</link>
+<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Al Kass</title>
+<link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
+<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aliraqya</title>
+<link>http://212.7.196.74/iraqia</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.jpg</thumbnail>
+</item>
