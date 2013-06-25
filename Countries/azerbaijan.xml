@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Azerbaijan TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>ATV Baku</title>
+<link>rtmp://85.132.53.51:1935/bakutv playpath=atv.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/atv/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/azad_tv_az.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>GunAz TV</title>
+<link>http://v1.webcasting.granicus.com/webcasting_gunaz</link>
+<thumbnail>http://wwitv.com/tvlogos/b1477.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ictimai TV</title>
+<link>rtmp://85.132.71.4:1935/bakutv playpath=itv.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/itv-wt-ads/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ictimai_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Yurd TV</title>
+<link>rtmp://85.132.71.4:1935/webtv playpath=yurdtv.sdp swfUrl=http://www.livetv.az/static/player/player.swf pageUrl=http://www.livetv.az/yurdtv/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/yy/yurd_tv_az.jpg</thumbnail>
+</item>
+
+
+
+</channel>

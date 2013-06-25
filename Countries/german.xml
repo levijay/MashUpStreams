@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>German TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>NDR</title>
+<link>http://webtv-aarh-7.stofa.dk:80/186_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL</title>
+<link>http://webtv-aarh-8.stofa.dk/187_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl_de.jpg</thumbnail>
+</item>
+
+<item>
+<title>VoX</title>
+<link>http://webtv-aarh-8.stofa.dk:80/190_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vox_de.jpg</thumbnail>
+</item>
+
+<item>
+<title>Das Erste</title>
+<link>http://webtv-aarh-6.stofa.dk:80/253_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL 2</title>
+<link>http://webtv-aarh-8.stofa.dk:80/188_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl2_de.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ZDF</title>
+<link>http://webtv-aarh-9.stofa.dk:80/256_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zdf_de.jpg</thumbnail>
+</item>
+
+</channel>

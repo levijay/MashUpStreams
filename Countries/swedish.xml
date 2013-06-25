@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Swedish TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>SVT2</title>
+<link>http://webtv-aarh-6.stofa.dk:80/274_01.m3u8?kivgiverkager=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/svt_2.jpg</thumbnail>
+</item>
+
+
+</channel>

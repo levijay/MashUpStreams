@@ -1,0 +1,298 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Indian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>PTC Punjabi  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/PTC-Punjabi.png</thumbnail>
+</item>
+
+
+<item>
+<title>B4U Plus</title>
+<link>rtmp://141.8.244.56/tv/ playpath=b4u_plus swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/06/B4U-PLUS-UAE-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Colors TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=colors.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>B4U Movies</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Zee Cinema (Link 2)</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true  timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx</link>
+<thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ZOOM TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk app=nwk playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15 timeout=15</link>
+</item>
+
+
+<item>
+<title>MTunes HD</title>
+<link>rtmp://141.8.244.56/base/ playpath=mtunes_hd.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://b.vimeocdn.com/ts/282/282/282282149_640.jpg</thumbnail>
+</item>
+
+<item>
+<title>9x Tashan HQ</title>
+<link>rtmp://cdn.nwk.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/9X-Tashan-TV-Logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony TV</title>
+<link>rtmp://46.246.124.25/live playpath=tvsony4 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvsony4&amp;vw=600&amp;vh=470&amp;domain=http://www.desistreams.tv/embed/sony_tv.php swfVfy=true live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_sab_tv_in.png</thumbnail>
+</item>
+
+<item>
+<title>Sony Sab TV</title>
+<link>rtmp://198.245.62.21:1935/live2 playpath=sab2.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf pageUrl=http://zonytvcom.info/saki/embed.php?live=sab2.stream&vw=600&vh=430</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
+</item>
+
+<item>
+<title>PTC Punjabi HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://deora.tv/images/ptc-punjabi-tv-live-streaming-channel-online-free.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTC chakde HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=chakdeptc swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc_chakde.png</thumbnail>
+</item>
+
+<item>
+<title>Alphaetc Punjabi HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=etcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG</thumbnail>
+</item>
+
+
+<item>
+<title>Sada</title>
+<link>rtmp://119.82.77.212/live playpath=sada swfUrl=http://www.xuuby.com/player/player4.swf live=true timeout=15 pageUrl=http://www.xuuby.com/show.php?chname=axn&width=520&height=370&a=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sada_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>B4U Music</title>
+<link>http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr398k.m3u8</link>
+<thumbnail>http://www.mediatalking.com/wp-content/uploads/2012/01/b4u_music-channel.png</thumbnail>
+</item>
+
+<item>
+<title>Web TV</title>
+<link>rtmp://5.63.148.45:1935/8060 playpath=8060 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://holygodtv.net/index.php/web-tv/video/featured/web-tv</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Sakshi TV</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:sakshi.smil/playlist.m3u8</link>
+<thumbnail>http://www.newtvworld.com/Images/sakshi_large.gif</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20110926123553/logopedia/images/b/be/Zee_Cinema_2005.png</thumbnail>
+</item>
+
+<item>
+<title>8XM TV</title>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDEzIDExOjAxOjMxIFBNJmhhc2hfdmFsdWU9R1BvRFpHMHdZVVhtZkd0dkpmTC92Zz09JnZhbGlkbWludXRlcz0y playpath=hamariweb-8xm swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/8xm_iframe.html live=true timeout=15
+pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-8xm&screen=true</link>
+<thumbnail>http://3.bp.blogspot.com/-1AtimJwGzIU/UNWzn6D6doI/AAAAAAAAAR8/WEkshKKiLMw/s1600/8xm-TV-Pakistan.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jeevan TV</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:jeevan_iphone.smil/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/Jeevan_TV.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Maa Music</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:maamusic.smil/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/_AcBUSVxs82w/TVU-K9xhstI/AAAAAAAAlgo/eyCWGQGM364/s1600/Maa_Music_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Maha TV</title>
+<link>
+http://cdn.m.yupptv.tv/liveorigin/smil:mahatv_iphone.smil/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_382v3kQFfNk/SzROf7qp2oI/AAAAAAAAVyg/TQBTmAiv93w/s400/mahaa+tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>ETV 2</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:etv2.smil/playlist.m3u8</link>
+<thumbnail>http://www.newtvworld.com/Images/etv2.gif</thumbnail>
+</item>
+
+<item>
+<title>HM TV</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:hmtv.smil/playlist.m3u8</link>
+<thumbnail>http://rajasekharonline.com/wp-content/uploads/2012/02/hmtv_logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Mumbai</title>
+<linkhttp://cdn.m.yuppcdn.net/liveorigin/smil:saharamumbai.smil/playlist.m3u8</link>
+<thumbnail>http://znn.india.com/Img/2010/12/22/sahara-b.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Samay</title>
+<linkhttp://cdn.m.yuppcdn.net/liveorigin/smil:saharasamaynew.smil/playlist.m3u8</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20111007145120/logopedia/images/f/f5/Sahara_Samay_National.png</thumbnail>
+</item>
+
+<item>
+<title>NDTV Hindi</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:ndtvhindi_iphone.smil/playlist.m3u8</link>
+<thumbnail>http://media2.intoday.in/btmt/images/stories/ndtv-logo_505_100212111531.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Up</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaup.smil/playlist.m3u8
+</link>
+<thumbnail>http://www.dellatecnica.com/images/client-logos/sahara-one-interiors-della-tecnica.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV5</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:tv5.smil/playlist.m3u8</link>
+<thumbnail>http://business.inquirer.net/files/2012/05/tv5.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNews</title>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:tnews.smil/playlist.m3u8</link>
+<thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Bihar</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharabihar.smil/playlist.m3u8</link>
+<thumbnail>http://www.samaylive.com/themes/sahara/images_olympics/livetvimages/sahara_bihar_75x50.gif</thumbnail>
+</item>
+
+<item>
+<title>Sahara Aalami</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaaalami.smil/playlist.m3u8</link>
+<thumbnail>http://www.indiantelevision.com/images20/aalami-sahara.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Madhya Pradesh</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamadhyap.smil/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
+<thumbnail>http://www.indiantvinfo.com/wp-content/uploads/2011/09/Star-Gold-New-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus</title>
+<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130521/800_1369165735.tshttp://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
+</item>
+
+<item>
+<title>AsianetMovie</title>
+<link>rtmp://50.7.128.147/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
+<thumbnail>http://keralamax.com/movies/wp-content/uploads/2012/07/Asianet-Movie-Channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Reporter</title>
+<link>rtmp://50.7.128.147/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/reporter-tv-live/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Reporter-TV-Channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mazhavil Manorama</title>
+<link>rtmp://50.7.128.148/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/mazhavil-manorama-live/</link>
+<thumbnail>http://www.spiderkerala.net/attachments/Resources/7927-211017-Mazhavil-Manorama-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Surya TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=surya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://keralaboxoffice.com/wp-content/uploads/2013/02/images11.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kiran TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=kirantv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.sunnetwork.in/ChannelLogo/32kiran1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kairali Tv</title>
+<link>rtmp://50.7.128.148/base2 playpath=tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kairali-tv-live/</link>
+<thumbnail>http://www.keralatv.in/wp-content/uploads/2010/09/Kairali-Tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asianet Middle East</title>
+<link>rtmp://50.7.128.148/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/Asianet-Middle-East.jpg</thumbnail>
+</item>
+
+<item>
+<title>Yes Indiavision</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
+<thumbnail>http://www.kerala.me/f_files/yes%20indiavision.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kaumudy TV</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kaumudy-tv-live/</link>
+<thumbnail>http://www.spiderkerala.net/attachments/Resources/8660-52352-Kaumudy-TV-Channel-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kappa TV</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=asia18.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kappa-tv/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kasthuri News 24</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=maha4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kasthuri-news-24-live/</link>
+<thumbnail>http://www.moneycontrol.com/news_image_files/2013/k/Kasturi_News_24_190.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kasthuri</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kasthuri-tv-live/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/kasthuri-tv.jpg</thumbnail>
+</item>
+
+</channel>

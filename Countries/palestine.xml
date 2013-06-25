@@ -1,0 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Palestinian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Al Quds</title>
+<link>http://196.205.23.142:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-KBETksdbRo4/UQeAGj-i0eI/AAAAAAAAq70/aFpIbT28KTw/s1600/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG</thumbnail>
+</item>
+
+<item>
+<title>Palestine Today</title>
+<link>rtmp://176.9.146.151/live/paltv/tv</link>
+<thumbnail>http://4.bp.blogspot.com/-Sueq2cYIIZk/UJ1F9_r4tqI/AAAAAAAAA4I/kz8u05qYi34/s1600/Palestine+today+TV+Channel+Frequency.png</thumbnail>
+</item> 
+
+
+</channel>

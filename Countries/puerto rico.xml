@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Puerto Rican TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>CDM</title> 
+<link>rtmp://cdnc.unored.com/cdm150 playpath=str.sdp swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/7330.htm</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/puerto-rico/106-CDM%5B6%5D.jpg</thumbnail>
+</item>
+
+
+</channel>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Mali TV CHANNELS</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>ORTM</title>
+<link>rtsp://178.238.86.24/ORTM?sid=E359F5870942E9F59DB646172D77E93E57C900056C39F7379634B6DB7921448D</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ortm_logo_2008.png/200px-Ortm_logo_2008.png</thumbnail>
+</item>
+
+
+</channel>

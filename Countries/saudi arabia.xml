@@ -1,0 +1,40 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Saudi Arabian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>IQRAA Live</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv2/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv2.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>IQRAA Africa</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Saudi Sports</title>
+<link>rtmp://mi6.gv.filmon.com/live/_definst_/1781.high.stream</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2013/03/Saudi-Sport-TV1-logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>IQRAA AU ASIA</title>
+<link>rtmp://fl1.viastreaming.net/iqraatv3/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv3.swf</link>
+<thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>TIYOOR AL JANA</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xnW8cqW-awE</link>
+<thumbnail>http://crealis-humour.com/wp-content/uploads/2013/01/toyoral-jannah1.png</thumbnail>
+</item>
+
+
+
+</channel>

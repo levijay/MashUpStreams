@@ -1,0 +1,185 @@
+<item>
+<title>ITV 1</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=itv1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=itv1&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/itv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC One</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=bbc11.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=bbc11&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/bbc1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Movies</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=fox_movies.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=fox_movies&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/fox_movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Movies</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=star_news66 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=star_news66&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/star_movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABC USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=abc9 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=abc9&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/abc.jpg</thumbnail>
+</item>
+
+<item>
+<title>ABC USA 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=abc_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=abc_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/abc.jpg</thumbnail>
+</item>
+
+<item>
+<title>CW USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=cwww swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=cwww&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/cw.jpg</thumbnail>
+</item>
+
+<item>
+<title>CW USA 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cw_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/cw.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBS USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cbsu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cbsu&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/cbs.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox USA</title>
+<link>rtmp://198.100.149.81/live/fxo7 playpath=fxo7.video swfUrl=http://www.islbroadcast.com/player/player.swf live=true timeout=15 pageUrl=http://www.islbroadcast.com/embed.php?n=fxo7&vw=980&vh=551</link>
+<thumbnail>http://www.desistreams.tv/images/fox.jpg</thumbnail>
+</item>
+
+<item>
+<title>FX USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=fx08 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=fx08&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/fx.gif</thumbnail>
+</item>
+
+<item>
+<title>FX USA 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=fx_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=fx_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/fx.gif</thumbnail>
+</item>
+
+<item>
+<title>HBO USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=hobusa swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=hobusa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/hbo.gif</thumbnail>
+</item>
+
+<item>
+<title>NBC USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nbc9 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=nbc9&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/nbc.png</thumbnail>
+</item>
+
+<item>
+<title>NBC USA 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=nbc_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=nbc_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/nbc.png</thumbnail>
+</item>
+
+<item>
+<title>Food Network</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=food_6 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=food_6&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/food_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bravo</title>
+<link>rtmpt://cdn.livecaster.tv/stream playpath=bravo9 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=bravo9&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/bravo.gif</thumbnail>
+</item>
+
+<item>
+<title>TBS USA</title>
+<link>rtmp://142.4.216.154/edge playpath=rp6zlxo29ob14q1 swfUrl=http://player.ilive.to/player_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=980&height=551&channel=40300&autoplay=true</link>
+<thumbnail>http://www.desistreams.tv/images/tbs.jpg</thumbnail>
+</item>
+
+<item>
+<title>USA Network</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=usa9 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=usa9&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/usahd.png</thumbnail>
+</item>
+
+<item>
+<title>USA Network 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=usa_network.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=usa_network&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/usahd.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=fox_news77 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=fox_news77&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/foxnews.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=32asuBUzU9 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=32asuBUzU9&vw=980&vh=551</link>
+<thumbnail>http://www.desistreams.tv/images/cartoon_network.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nickkp swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=nickkp&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/nickelodeon.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNBC USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=cnbcc swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=cnbcc&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/cnbc.png</thumbnail>
+</item>
+
+<item>
+<title>Lifetime USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=lifetime4 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=lifetime4&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/life_time.png</thumbnail>
+</item>
+
+<item>
+<title>Starz USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=starz.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=starz&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/starz_usa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=discoveryu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=discoveryu&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/discovery_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>rtmp://cdn.livecaster.tv/live playpath=bbcworldnews.stream swfUrl=http://www.wcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.wcast.tv/embed.php?u=bbcworldnews&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/bbc_world_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fashion TV</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=ftv.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=ftv1&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ftv.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNN Int.</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/cnn.gif</thumbnail>
+</item>
+
+<item>
+<title>Star World</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star_world.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=star_world&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/star_world.jpg</thumbnail>
+</item>

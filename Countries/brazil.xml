@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Brazilian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Live D Plus</title>
+<link>rtmp://tvflash.locaip.com.br/demaistv playpath=mp4:streamname.mp4 swfUrl=http://www.demaistv.com.br/video/video.swf live=true timeout=15
+pageUrl=http://www.demaistv.com.br/video/video.html</link>
+<thumbnail>CHANNEL LOGO</thumbnail>
+</item>
+
+<item>
+<title>Just TV</title>
+<link>rtmp://67.228.177.151:1935/live playpath=myStream.sdp swfUrl=http://www.justtv.com.br/player/aovivo/player.swf live=true timeout=15 pageUrl=http://www.justtv.com.br/player/aovivo/</link>
+<thumbnail>http://www.tvcidadepelotas.com.br/noticia/foto/f383cda4-bfa3-4106-b797-4b68692a385a/original/LOGO_TV_CIDADE_PELOTAS_3D_MESCLADO_.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Morena Live TV</title>
+<link>rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35 playpath=viamorena swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4050.htm</link>
+<thumbnail>CHANNEL LOGO</thumbnail>
+</item>
+
+</channel>

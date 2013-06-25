@@ -1,0 +1,15 @@
+﻿
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Cuban TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Cubana</title>
+<link>http://cubavision.cubasi.cu/Tvcubana</link>
+<thumbnail>http://findlogo.net/images/C/cubana%20logo.jpg</thumbnail>
+</item>
+
+
+</channel>

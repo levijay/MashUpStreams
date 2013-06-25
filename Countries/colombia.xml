@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Colombian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Telesantander Canal 21</title>
+<link>rtmp://wow.eleden.com:1935/livesantander playpath=livestream swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4936.htm</link>
+<thumbnail> </thumbnail>
+</item>
+
+</channel>

@@ -1,0 +1,131 @@
+<item>
+<title>Sky Sports 1</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sportsi1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports1&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/sky_sports1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sportsi2.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports2&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/sky_sports2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sky_sportsi3.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports3&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/sky_sports3.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBA TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nbu7 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=nbu7&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/nba.png</thumbnail>
+</item>
+
+<item>
+<title>Live Footy</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=espn.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=espn&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/espn.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo Super</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=13246540114814 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/embed.php?u=Geosuper&vw=600&vh=470</link>
+<thumbnail>http://www.desistreams.tv/images/geo_super.png</thumbnail>
+</item>
+
+<item>
+<title>PTV Sports</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=onlineptvsports swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=ptvsportsss1&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ptv_sports.PNG</thumbnail>
+</item>
+
+<item>
+<title>PTV Sports 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sportsptv swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sportsptv&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ptv_sports.PNG</thumbnail>
+</item>
+
+<item>
+<title>Ten Cricket</title>
+<link>rtmp://80.82.78.37/cast playpath=12377 swfUrl=http://95.211.219.184/player-licensed.swf live=true timeout=15 pageUrl=http://www.flashcast.tv/embed.php?live=tencricketyo&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ten_cricket.png</thumbnail>
+</item>
+
+<item>
+<title>Ten Cricket</title>
+<link>rtmp://80.82.78.37/cast playpath=454666h swfUrl=http://95.211.219.184/player-licensed.swf live=true timeout=15 pageUrl=http://www.flashcast.tv/embed.php?live=ten_cricktu&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ten_cricket.png</thumbnail>
+</item>
+
+<item>
+<title>Star Cricket</title>
+<link>rtmp://109.123.126.28/live playpath=starcricketnew?id=39362 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.ucaster.eu/embedded/starcricketnew/1/600/430</link>
+<thumbnail>http://www.desistreams.tv/images/star_cricket.png</thumbnail>
+</item>
+
+<item>
+<title>Star Cricket HQ</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=star_cricket&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/star_cricket.png</thumbnail>
+</item>
+
+<item>
+<title>Willow Cricket</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=willo8 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=willo8&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/willow_cricket.PNG</thumbnail>
+</item>
+
+<item>
+<title>Star Sports</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star_sports74.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=star_sports74&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/star_sports.png</thumbnail>
+</item>
+
+<item>
+<title>Ten Sports</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=1155200 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=TenSportsLive&vw=600&vh=470</link>
+<thumbnail>http://www.desistreams.tv/images/ten_sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ten Sports 2</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=ten_sports9.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=ten_sports9&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ten_sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>WWE TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=wwe2.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=wwe2&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/wwe.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony Six (IPL)</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sab_tv66 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=sab_tv66&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/sony_six.png</thumbnail>
+</item>
+
+<item>
+<title>JSC Sports +2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=jscu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=jscu&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/jsc+2.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN UK</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/espn_uk.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=espn_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/espn.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=bein_sport99.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=bein_sport99&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/bein_sport.jpeg</thumbnail>
+</item>

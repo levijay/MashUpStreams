@@ -1,0 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Jordanian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>AL Rai</title>
+<link>mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
+<thumbnail>http://www.kooora.com/images/channel_/alrai_tv.jpg</thumbnail>
+</item>
+
+</channel>

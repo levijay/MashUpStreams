@@ -1,0 +1,33 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Kuwait TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Kuwait 1</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch1.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1.png</thumbnail>
+</item>
+
+<item>
+<title>Kuwait 2</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch2.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_2.png</thumbnail>
+</item>
+
+
+<item>
+<title>Kuwait Sports</title>
+<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
+</item> 
+
+<item>
+<title>Kuwait Plus</title>
+<link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch6.sdp.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1_plus.png</thumbnail>
+</item>
+
+
+</channel>

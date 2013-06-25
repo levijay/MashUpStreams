@@ -1,0 +1,20 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Venezuelan TV Channels</name>
+<thumbnail></thumbnail>
+
+<item> 
+<title>Telesur En Vivo</title>
+<link>rtmp://movipbox2.streamguys.com/telesurweb playpath=telesurweb.stream swfUrl=http://www.telesurtv.net/el-canal/senal-en-vivo/++theme++telesur.theme/player.swf live=true timeout=15 pageUrl=http://www.telesurtv.net/el-canal/senal-en-vivo</link>
+<thumbnail>http://juandeacosta.com/radioytv/images/stories/telesur-2011-03-13-26938.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telearagua</title>
+<link>rtmp://edge.wms28.lorini.net/telearagua playpath=telearagua swfUrl=http://www.lorini.tv/flvplayer/FLVplayer_Custom.swf live=true timeout=15 pageUrl=http://www.telearagua.com/</link>
+<thumbnail></thumbnail>
+</item>
+
+
+</channel>

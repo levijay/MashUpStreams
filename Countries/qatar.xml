@@ -1,0 +1,143 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Qatar TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>JSC Sport Global  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-010/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>JSC +1 (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-611/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +2 (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-612/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +3 (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-613/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +4 (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-614/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +5  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-615/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus5.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +6  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-616/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus6.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +7  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-819/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus7.png</thumbnail>
+</item>
+
+
+<item>
+<title>JSC +8  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-820/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus8.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +9  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-821/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus9.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +10  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-822/playplist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus10.png</thumbnail>
+</item>
+
+
+<item>
+<title>Arryadia</title>
+<link>http://46.246.29.152/live/48010/playlist.m3u8?wowzasessionid=1056185617</link>
+<thumbnail>http://www.ifootz.com/wp-content/uploads/arryadia.jpg</thumbnail>
+</item>
+
+<item>
+<title>JSC +1</title>
+<link>http://141.8.244.56:1935/base/jsc1.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
+</item> 
+
+<item>
+<title>JSC +2</title>
+<link>http://141.8.244.56:1935/base/jsc2.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
+</item> 
+
+<item>
+<title>JSC +3</title>
+<link>http://141.8.244.56:1935/base/jsc3.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus3.png</thumbnail>
+</item> 
+
+<item
+<title>JSC +4</title>
+<link>http://141.8.244.56:1935/base/jsc4.stream/playlist.m3u8</link>
+<thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
+</item>
+
+
+<item>
+<title>Al Jazeera Sports</title>
+<link>http://110751-f.akamaihd.net/ajswebch350_1_500@s13848 reportingKey=eventId-840805_partnerId-2146&v=2.6.8&fp=WIN%2011,7,700,224&r=PRYKR&g=FEJOVJJUSLNA&primaryToken=1371681396_a3ea0d21218bd8a4e7ab479dfd90d164</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20120211112506/logopedia/images/3/39/Al_Jazeera_Sports.png</thumbnail>
+</item>
+
+<item>
+<title>Aljazeera Kids Tv</title>
+<link>http://78.100.44.238/live-jscc/jscc/playlist.m3u8</link>
+<thumbnail>http://www.animationmagazine.net/wordpress/wp-content/uploads/Al-Jazeera-Childrens-Channel-150.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Kass</title>
+<link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
+<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rayyan TV</title>
+<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx</link>
+<thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
+</item>
+
+<item>
+<title>Qatar TV</title>
+<link>http://78.100.44.238/live-qtv/qtv/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/01/Qatar_TV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Baraem TV</title>
+<link>http://78.100.44.238/live-baraem/baraem/playlist.m3u8</link>
+<thumbnail>http://baraem-2.jcctv-cdn.net/baraem-ui/images/home/baraem-logo-n.png</thumbnail>
+</item>
+
+</channel>

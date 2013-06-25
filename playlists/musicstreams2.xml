@@ -1,0 +1,354 @@
+<item>
+<title>MTV USA</title>
+<link>rtmp://edge.isearch.to/edge playpath=y96hrc1tcg0vtcg swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=658&height=470&channel=39948&autoplay=true</link>
+<thumbnail>http://s1.pic4you.ru/allimage/y2012/08-11/11703/2329520.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Heart TV</title>
+<link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo playpath=Heart swfUrl=http://heart.gcstatic.com/gusto/a/tv/swf/player.swf live=true timeout=15 pageUrl=http://www.heart.co.uk/tv/player/</link>
+<thumbnail>http://www.elky666.plus.com/logo/Sky%20Logos/Heart%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Capital TV</title>
+<link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo playpath=Capital swfUrl=http://capital.gcstatic.com/gusto/a/tv/swf/player.swf live=true timeout=15 pageUrl=http://www.capitalfm.com/tv/player/</link>
+<thumbnail>http://www.atvtoday.co.uk/wp-content/uploads/2012/10/capital-one.gif</thumbnail>
+</item>
+
+<item>
+<title>Vevo TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
+<thumbnail>https://twimg0-a.akamaihd.net/profile_images/3376013825/97ae39af04dfbd64c73b2ba51a722e1e.png</thumbnail>
+</item>
+
+<item>
+<title>The Country Network</title>
+<link>rtmp://cp76676.live.edgefcs.net:443/live playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 swfUrl=http://osmf.org/dev/1.6-sprint-3/StrobeMediaPlayback.swf live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Dance TV</title>
+<link>mms://onstreaming01.de.gtk.hu/dancetv</link>
+<thumbnail>http://b.vimeocdn.com/ps/420/078/4200785_300.jpg</thumbnail>
+</item>
+
+<item>
+<title>For Music Canale 613</title>
+<link>rtmp://wowza1.top-ix.org/quartaretetv1 playpath=formusicweb swfUrl=http://lihattv.us/scripts/videogallery.swf live=1 pageUrl=http://lihattv.us/?ch=it</link>
+<thumbnail>http://www.gingerdj.com/wp-content/uploads/2012/10/FOR-MUSIC-540x342.png</thumbnail>
+</item>
+
+<item>
+<title>IM1 MUSIC</title>
+<link>rtmp://im1.tv.flash.glb.ipercast.net/im1.tv-live/live1 live=true timeout=15</link>
+<thumbnail>http://i2.ytimg.com/vi/Ep0KXtncv2Q/mqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kiss TV</title>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live live=true timeout=15</link>
+<thumbnail>http://24.255.54.207:81/sites/default/files/kiss-tv-logo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>PIK TV</title>
+<link>rtmp://fms.pik-tv.com/live/piktv3pik3tv swfUrl=http://pik-tv.com/uppod.swf</link>
+<thumbnail>http://twimg0-a.akamaihd.net/profile_images/2158748139/fblogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Radio 105</title>
+<link>rtmp://fms.105.net:1935/live playpath=105Test1 live=true timeout=15</link>
+<thumbnail>http://www.105.net/gfx/lgo/radio-105-network.png</thumbnail>
+</item>
+
+<item>
+<title>Rock TV</title>
+<link>rtsp://93.114.43.3:1935/live/rockhd live=true timeout=15</link>
+<thumbnail>http://userserve-ak.last.fm/serve/_/76786366/Rock+Tv+Heavy+Rotation.jpg</thumbnail>
+</item>
+
+<item>
+<title>Slam TV</title>
+<link>rtmp://video.true.nl/slamtv/ playpath=slamtv live=true timeout=15</link>
+<thumbnail>http://www.logotypes101.com/logos/387/D7E51AFAB8B659F367649E5D41B4C271/slamtv.png</thumbnail>
+</item>
+
+<item>
+<title>Virgin</title>
+<link>rtmp://fms.105.net:1935/live playpath=virgin1 live=true timeout=15</link>
+<thumbnail>http://www.xtimeline.com/__UserPic_Large/4369/ELT200801201019128994435.JPG</thumbnail>
+</item>
+
+<item>
+<title>HANNEL V MUSIC</title>
+<link>rtmp://87.120.201.10/rtplive playpath=thevoice_live.stream swfUrl=http://thevoice.bg/js/thevoice_videostreem.swf pageUrl=http://thevoice.bg/stream</link>
+<thumbnail>http://s.thevoice.bg/img/logo.png</thumbnail>
+</item>
+
+<item>
+<title>VAVA</title>
+<link>rtmp://livestream2.tv-kino.net:1935/stream/ playpath=viva swfUrl=http://stream.tv-kino.net/player.swf live=1 pageUrl=http://www.tv-kino.net/stream/live/de/viva.html</link>
+<thumbnail>http://images.tv-kino.net/epg_icons/VIVA.png</thumbnail>
+</item>
+
+<item>
+<title>D MUSIC</title>
+<link>rtmp://ev.mm.uol.com.br/liverepeater/playpath=mtvcast_flash.sdp</link>
+<thumbnail>http://www.gazeteciler.com/data/news/260x198/1269267507-mtv-turkey-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>1MUSIC TV</title>
+<link>rtmp://80.232.172.37/rtplive/vlc.sdp</link>
+<thumbnail>http://www.1music.tv/img/logo.png</thumbnail>
+</item>
+
+<item>
+<title>40 WEB RADIO</title>
+<link>rtmp://fms.105.net:1935/live playpath=charts1 live=1</link>
+<thumbnail>http://www.unitedmusic.it/files/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BRIDGE TV</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3092 swfUrl=http://www.corbina.tv/flash/swf/player.swf</link>
+<thumbnail>http://bridgetv.ru/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>ANAL FLAMENCO</title>
+<link>http://server2.4rt.co.uk/cmusic-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/c_music_tv.png</thumbnail>
+</item>
+
+<item>
+<title>COUNTRY MUSIC TV</title>
+<link>rtmp://cp76676.live.edgefcs.net:443/live playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 swfUrl=http://osmf.org/dev/1.6-sprint-3/StrobeMediaPlayback.swf live=1</link>
+<thumbnail>http://newimages.bwwstatic.com/columnpic/cmt-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DANCETV HD test link 1</title>
+<link>http://stream01.gtk.hu/dancetv3</link>
+<thumbnail>http://www.dancetv.hu/dtvinclub/index_htm_files/49.png</thumbnail>
+</item>
+
+<item>
+<title>ANCETV</title>
+<link>rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/ playpath=web_850.stream swfUrl=http://static.staging.deluxemusic.tv.dl1.ipercast.net/theme/deluxemusic.tv/flash/player.swf pageUrl=http://deluxemusic.tv.staging.ipercast.net/?ContentId=349&policy=4b0e45e91a92e&PlaylistContent=0</link>
+<thumbnail>http://deluxemusic.tv/images/deluxe/DELUXE_TELEVISION_MUSIC_free_stream.png</thumbnail>
+</item>
+
+<item>
+<title>FIX HD</title>
+<link>mmsh://video.fixhd.tv:12000</link>
+<thumbnail>http://fixhd.tv/style-new/makosteszta.jpg</thumbnail>
+</item>
+
+<item>
+<title>RESH TV RU</title>
+<link>rtmp://149.11.34.6/live/gotica.stream</link>
+<thumbnail>http://lasteles.com/img/logo.png</thumbnail>
+</item>
+
+<item>
+<title>HIT MUSIC FR</title>
+<link>http://88.191.126.62:18002/</link>
+<thumbnail>http://www.hitmusictv.fr/LOGOHMTVOFFICIAL.png?v=137xqw1mv943ut</thumbnail>
+</item>
+
+<item>
+<title>IM1 beta</title>
+<link>rtmp://im1.tv.flash.glb.ipercast.net/im1.tv-live/ playpath=myspace.stream swfUrl=http://static.kitv.im1.tv.dl1.ipercast.net/theme/im1_html5/flash/player_5_10.swf live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/3/3c/IM1_Logo_2012.svg/571px-IM1_Logo_2012.svg.png</thumbnail>
+</item>
+
+<item>
+<title>IPER TV</title>
+<link>mmsh://mediatv2.topix.it/24Ipertv66</link>
+<thumbnail>http://www.iper.tv/images/logo_completo.gif</thumbnail>
+</item>
+
+<item>
+<title>JCTV link 2</title>
+<link>http://mfile.akamai.com/66239/live/reflector%3A41366.asx</link>
+<thumbnail>http://www.jctv.org/media/images/jctv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>JCTV</title>
+<link>mms://a1367.l6623941366.c66239.g.lm.akamaistream.net/D/1367/66239/v0001/reflector:41366</link>
+<thumbnail>http://www.jctv.org/media/images/jctv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>KISS TV</title>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live live=1</link>
+<thumbnail>http://www.247webtv.com/wp-content/uploads/2012/04/kiss_tv_logo.gif</thumbnail>
+</item>
+
+<item>
+<title>LABELLE TV</title>
+<link>mms://www.labelletv.com/labelleTV</link>
+<thumbnail>http://www.labelletv.com/images/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV CLASSICS RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=classicshd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=classics&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/onehd_classics.png</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV DANCE RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=dancehd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=dance&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/onehd_dance.png</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV JAZZ RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=jazzhd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=jazz&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/onehd_jazz.png</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV LIVEMIX RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=onehdhd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=one&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV POP RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=pophd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=dance&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/onehd_pop.png</thumbnail>
+</item>
+
+<item>
+<title>LIVEHD TV ROCK RO</title>
+<link>rtmpe://93.114.43.3:1935/live Playpath=rockhd swfUrl=http://livehd.tv/player/player.swf pageUrl=http://livehd.tv/index.php?stream=rock&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121</link>
+<thumbnail>http://www.livehd.tv/images/onehd_rock.png</thumbnail>
+</item>
+
+<item>
+<title>OBAS TV</title>
+<link>rtmp://musicbox.cdnvideo.ru/musicbox-live swfUrl=http://pro-tv.net/player/player.swf pageUrl=http://pro-tv.net/481-russian-musicbox.html playpath=musicbox.sdp live=true</link>
+<thumbnail>http://www.musicboxtv.ru/var/channels/images/1340118370.png</thumbnail>
+</item>
+
+<item>
+<title>A ONE ROCK</title>
+<link>mms://89.187.1.165/a1rock</link>
+<thumbnail>http://tvonsite.org/img/logotyp/a-one.jpg</thumbnail>
+</item>
+
+<item>
+<title>A ONE</title>
+<link>rtmp://a1tv.cdnvideo.ru/a1tv-live/ playpath=22 swfUrl=http://www.a1tv.ru/player/swf/player.swf live=1</link>
+<thumbnail>http://tvonsite.org/img/logotyp/a-one.jpg</thumbnail>
+</item>
+
+<item>
+<title>PARTY TV</title>
+<link>rtmpe://fms15.mediadirect.ro:80/live3?id=41340808&publisher=2/party live=1</link>
+<thumbnail>http://www.dolcetv.ro/img/tv_sigle/sigle_black/60.png</thumbnail>
+</item>
+
+<item>
+<title>ARTY TV</title>
+<link>rtmp://fms.pik-tv.com/live playpath=piktv3pik3tv swfUrl=http://pik-tv.com/players/uppod/up live=1</link>
+<thumbnail>http://pik-tv.com/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>PIC MUSIC TV SD</title>
+<link>rtmp://fms.pik-tv.com/live playpath=piktv2pik2tv swfUrl=http://pik-tv.com/players/uppod/up live=1</link>
+<thumbnail>http://pik-tv.com/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>RAC 105 TV</title>
+<link>rtmp://94.23.23.163/105TV playpath=directe swfUrl=http://www.rac105.cat/swf/player_t.swf?file=directe&streamer=rtmp://streaming.radiocat.net/lb-105TV&type=rtmp pageUrl=http://www.rac105.cat/swf/player_t.swf?file=directe&streamer=rtmp://streaming.radiocat.net/lb-105TV&type=rtmp</link>
+<thumbnail>http://www.rac105.cat/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>RADIO 105 web tv</title>
+<link>rtmp://fms.105.net:1935/live playpath=105Test1 live=1</link>
+<thumbnail>http://www.105.net/gfx/lgo/radio-105-network.png</thumbnail>
+</item>
+
+<item>
+<title>RETRO MUSIC CZ</title>
+<link>rtmp://91.103.163.202/live/retrotv swfUrl=http://www.retromusic.cz/thirdparty/jwplayer/player.swf live=1</link>
+<thumbnail>http://www.retromusic.cz/templates/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>RMC</title>
+<link>rtmp://fms.105.net:1935/live playpath=rmc2 live=1</link>
+<thumbnail>http://video.radiomontecarlo.net/images/rmc/logo_rmcvideo.gif</thumbnail>
+</item>
+
+<item>
+<title>OCK ONE</title>
+<link>rtmp://chanson.cdnvideo.ru/chanson-liveplaypath=shansontv.sdp</link>
+<thumbnail>http://www.shanson.tv/image/logo_stv_120913.png</thumbnail>
+</item>
+
+<item>
+<title>INGLE TV</title>
+<link>rtmp://176.241.109.70/StarTV/ playpath=livestream1 swfUrl=http://startv.com.ua/online/player.swf pageUrl=http://startv.com.ua/cms/online.html live=1</link>
+<thumbnail>http://startv.com.ua/img/logo.png</thumbnail>
+</item>
+
+<item>
+<title>STREET TV - High stream</title>
+<link>rtmp://stream.streetclip.tv:1935/live/high-stream</link>
+<thumbnail>http://www.streetclip.tv/fileadmin/Templates/Streetclip2011/images/streetclipTV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>STREET TV</title>
+<link>rtsp://stream.streetclip.tv:1935/live/low-streamplaypath=low-stream</link>
+<thumbnail>http://www.streetclip.tv/fileadmin/Templates/Streetclip2011/images/streetclipTV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>SUNRISE BG TV</title>
+<link>http://wtv.cores.biz/relay/sunrise.flv</link>
+<thumbnail>http://sunrisemusicbg.com/images/stories/loga/logo_sm100x75.png</thumbnail>
+</item>
+
+<item>
+<title>Tele Antilles</title>
+<link>rtsp://live240.impek.com/soleiltv</link>
+<thumbnail>http://www.impek.com/go/logo_tvantilles.jpg</thumbnail>
+</item>
+
+<item>
+<title>NLOVE TV</title>
+<link>http://212.79.96.134:8024</link>
+<thumbnail>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-vh_1_classic_europe.gif;jsessionid=8C3EE6423CDAE0F1CFE3E039AC043C04.node3</thumbnail>
+</item>
+
+<item>
+<title>Virgin</title>
+<link>rtmp://fms.105.net:1935/live playpath=virgin1 live=1</link>
+<thumbnail>http://video.virginradioitaly.it/gfx/lgs/virginradioitaly-header.png</thumbnail>
+</item>
+
+<item>
+<title>VOLNA TV RU</title>
+<link>rtmp://176.9.127.102/liveplaypath=myStream_1</link>
+<thumbnail>http://www.9volna.ru/img/front/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZONA M BG TV</title>
+<link>http://wtv.cores.biz/relay/zonam.mp4</link>
+<thumbnail>http://zonam.tv/images/logo.png</thumbnail>
+</item>
+ 

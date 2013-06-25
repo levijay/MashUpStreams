@@ -1,0 +1,113 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<name>Romainian TV Channels New Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+  <title>Antena 1</title>
+<link>http://86.105.253.79:9033/antena1.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antena1_ro.jpg</thumbnail>
+</item>
+
+<item>
+<title>6 TV</title>
+<link>http://89.149.7.178:8800/flv-audio-video/</link>
+<thumbnail>NO PICTURE</thumbnail>
+</item>
+
+
+<item>
+<title>JURNAL TV</title>
+<link>http://ch0.jurnaltv.md/channel0.flv</link>
+<thumbnail>http://www.jurnaltv.md/img/site/logo.jpg?id=2</thumbnail>
+</item>
+
+
+<item>
+<title>NOVA</title>
+<link>rtmp://86.123.165.135:1935/live/myStream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_tv_ro.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Minimax</title>
+<link>http://86.105.253.79:9038/minimax.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/minimax_ro.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRINITAS</title>
+<link>http://86.105.253.79:9136/trinitas.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/trinitas_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>NATIONAL 24 PLUS</title>
+<link>http://86.105.253.79:9132/n24plus.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/national_24_plus.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TOP SHOP RO</title>
+<link>http://46.108.8.42:24000</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/top_shop_tv_ro.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TV M</title>
+<link>http://tvm.ambra.ro</link>
+<thumbnail>NO PIC?! NOT FOUND ONE</thumbnail>
+</item>
+
+
+<item>
+<title>Moldova 1</title>
+<link>rtmp://212.0.211.109/live/livestream</link>
+<thumbnail>http://www.trm.md/img/site/trm.png</thumbnail>
+</item>
+
+
+<item>
+<title>1 TV</title>
+<link>http://1tv.ambra.ro</link>
+<thumbnail>NO PIC?! NOT FOUND ONE</thumbnail>
+</item>
+
+
+<item>
+<title>U TV</title>
+<link>http://82.76.249.77/utvedge/utvlive/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/u_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVR 1</title>
+<link>http://86.105.253.79:9031/tvr1.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr1_ro.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TVR 2</title>
+<link>http://86.105.253.79:9032/tvr2.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvr2_ro.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>NATIONAL TV</title>
+<link>http://86.105.253.79:9036/nationaltv.asf</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/ntv_ro.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ROMANIA TV</title>
+<link>http://rtvflash.smcmobile.ro:8010/rtv.flv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtv_ro.jpg</thumbnail>
+</item>
+
+</channel>

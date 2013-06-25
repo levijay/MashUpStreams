@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Tamil TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Star Vijay TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminiest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_vijay.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sun TV India</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suntv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_tv_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>KTV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=ktv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaya TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaya Movies</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/j_movie_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>Raj TV India</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Raj TV USA</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=rajtvus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Raj Digital Plus</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajdigitalplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_digital_plus.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mega 24</title>
+<link>rtmp://85.12.5.86:1939/base2 playpath=kalai7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-24-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_24_in.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mega TV</title>
+<link>rtmp://85.12.5.86:1939/base2 playpath=kalai6.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-tv-live/ timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_tv_in.jpg</thumbnail>
+</item>>
+
+<item>
+<title>Makkal TV</title>
+<link>rtmp://85.12.5.86:1940/base2 playpath=tamil20.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/makkal-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Sun Music</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=sunmusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_music.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaya Max Music</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamax swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>Raj Musix</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetelest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_musix.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mega Musiq</title>
+<link>rtmp://85.12.5.86:1939/base2 playpath=kalai8.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-musiq-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_musiq_in.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Jaya Plus (News)</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayaplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_plus.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thanthi TV (News)</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=ndtvhindu900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=214</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/thanthi_tv_in.jpg<thumbnail>
+</item>
+
+<item>
+<title>Polimer News</title>
+<link>rtmp://85.12.5.86:1940/base2 playpath=tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/polimer_news.png</thumbnail>
+</item>
+
+<item>
+<title>Lotus News</title>
+<link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://desichannels.webnode.com/hindi-channels/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lotus_news_in.jpg<thumbnail>
+</item>
+
+<item>
+<title>Raj News 24x7</title>
+<link>rtsp://cdn.m.yupptv.tv/liveorigin/rajnewstamil1 timeout=15</link>
+<thumbnail>http://www.yupptv.com/img/rajnews_tamil.png</thumbnail>
+</item>
+
+<item>
+<title>Moon TV</title>
+<link>rtmp://mstream.mslive.co.in/live playpath=kaga swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://livetvchannelsin.net/moontv.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/moon_tv_in.jpg</thumbnail>
+</item>
+
+</channel>

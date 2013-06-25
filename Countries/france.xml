@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&lng=fr&isp=all
+
+<channel>
+<name>France TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>M6 Suisse</title>
+<link>rtsp://178.238.86.23/M6Suisse?sid=57518DFFA5CA7D6DA54E8A9FF9DFD1668B5104250C31233702B4F603CD4180D5</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_ch.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV5MONDE</title>
+<link>rtsp://178.238.86.23/Oh-Africa?sid=EFFDD1CBADB62531D95A52D38103BDB2F37D0C49105D334B02B0B277BD35A811</link>
+<thumbnail>http://durban2012.fipf.org/sites/durban2012.fipf.org/files/tv5monde_logo_rvb_blanc.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Air TV</title>
+<link>rtmp://stream.air-tv.tv:1935/live/web2.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/airtv.png</thumbnail>
+</item>
+
+<item>
+<title>Aisne TV</title>
+<link>mms://ns6677.ovh.net/a260309640</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aisnetv.png</thumbnail>
+</item>
+
+<item>
+<title>APTV Martinique</title>
+<link>mms://vipmms9.yacast.net/aptv_live03</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aptvmartinique.png</thumbnail>
+</item>
+
+<item>
+<title>BFM TV</title>
+<link>mms://vipmms9.yacast.net/bfm_bfmtv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_tv.png</thumbnail>
+</item>
+
+<item>
+<title>BFM TV</title>
+<link>mms://live3.ipercast.net/darty.fr/bfmtv/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Boardriders TV</title>
+<link>rtsp://live240.impek.com/brtvhd</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/boardriders_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Calais TV</title>
+<link>mms://91.121.2.60/calaistv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/calaistv.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 3 Monde Tv</title>
+<link>rtsp://wmp.zonepro.com/canal3monde</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal3.png</thumbnail>
+</item>
+
+<item>
+<title>Canal savoir (Audio)</title>
+<link>mms://stream2.canal.qc.ca/enOndes_audio</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalsavoir.png</thumbnail>
+</item>
+
+<item>
+<title>Canal savoir (Bas dÃ©bit)</title>
+<link>mms://stream2.canal.qc.ca/enOndes_bas_debit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalsavoir.png</thumbnail>
+</item>
+
+<item>
+<title>Canal savoir (Haut dÃ©bit)</title>
+<link>mms://stream2.canal.qc.ca/enOndes_haut_debit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalsavoir(hautdã©bit).png</thumbnail>
+</item>
+
+<item>
+<title>Clap TV</title>
+<link>mms://rr93.diffusepro.com/rr93</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/clap_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Clap TV</title>
+<link>rtsp://rr93.diffusepro.com/rr93</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/clap_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Congo Planet tv</title>
+<link>mms://vworks.congoplanet.com/Congo_Planet_TV</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/congoplanet_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Congo Planet tv 2</title>
+<link>mms://vworks.congoplanet.com/Congo_Planete_TV_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/congoplanet_tv2.png</thumbnail>
+</item>
+
+<item>
+<title>France 24 FR</title>
+<link>mms://stream1.france24.yacast.net/f24_livefr</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/france24.png</thumbnail>
+</item>
+
+<item>
+<title>Grand Lille TV</title>
+<link>rtsp://str81.creacast.com/grandlilletv/high</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/grandlille_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Gulli</title>
+<link>http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gulli.png</thumbnail>
+</item>
+
+<item>
+<title>iTÃ©lÃ©</title>
+<link>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/itã©lã©.png</thumbnail>
+</item>
+
+<item>
+<title>L'Ã©quipe TV (Audio)</title>
+<link>mms://vipmms9.yacast.net/eqtv_equipeaudiolive</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/l'ã©quipetv(audio).png</thumbnail>
+</item>
+
+<item>
+<title>La tele</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/latele</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/latele.png</thumbnail>
+</item>
+
+<item>
+<title>La Une</title>
+<link>rtsp://rtmp.rtbf.be/livecast/laune</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/laune.png</thumbnail>
+</item>
+
+<item>
+<title>Leman bleu</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/naxoo</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/lemanbleu.png</thumbnail>
+</item>
+
+<item>
+<title>M6 boutique</title>
+<link>rtsp://flash3.ipercast.net/m6boutique.com-live/m6boutiquecom.stream_high</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6boutique.png</thumbnail>
+</item>
+
+<item>
+<title>Menup tv</title>
+<link>http://videos.mensup.fr/mensuptv/live/01.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/menuptv.png</thumbnail>
+</item>
+
+<item>
+<title>mirabelle tv</title>
+<link>rtsp://str81.creacast.com/mirabelletv/medium</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mirabelletv.png</thumbnail>
+</item>
+
+<item>
+<title>Night-mag.com</title>
+<link>http://stream.night-mag.com:8002/listen.pls</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/night-mag.com.png</thumbnail>
+</item>
+
+<item>
+<title>NRJ12</title>
+<link>rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nrj12.png</thumbnail>
+</item>
+
+<item>
+<title>NT 1</title>
+<link>mms://live3.ipercast.net/darty.fr/nt1/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nt1.png</thumbnail>
+</item>
+
+<item>
+<title>PTC</title>
+<link>http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc.png</thumbnail>
+</item>
+
+<item>
+<title>Quran French TV</title>
+<link>mms://isl1.islam4peace.com/quranfrenchtv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/qq/quranfrenchtv.png</thumbnail>
+</item>
+
+<item>
+<title>renault TV</title>
+<link>rtsp://rtv.fms6.visionip.tv/live/renault_tv-french-live-25f-16x9_3</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/renaulttv.png</thumbnail>
+</item>
+
+<item>
+<title>RKINGTV</title>
+<link>mms://rkingtv.diffusepro.com/rkingtv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rkingtv.png</thumbnail>
+</item>
+
+<item>
+<title>Rouge TV</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/rougetv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rougetv.png</thumbnail>
+</item>
+
+<item>
+<title>RTC TÃ©lÃ© LiÃ¨ge</title>
+<link>rtsp://rtc.webtvlive.eu:1935/live/rtc.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtctã©lã©liã¨ge.png</thumbnail>
+</item>
+
+<item>
+<title>SÃ©nat</title>
+<link>mms://vipmms9.yacast.net/senat_hemi_wm</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sã©nat.png</thumbnail>
+</item>
+
+<item>
+<title>SÃ‰NAT</title>
+<link>http://http5.senat.yacast.net/http/livehemiphone/file.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sã‰nat.png</thumbnail>
+</item>
+
+<item>
+<title>Tebeo</title>
+<link>rtsp://tebeo.e-declic.tv:1935/tebeo_live/myStream.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tebeo.png</thumbnail>
+</item>
+
+
+<item>
+<title>TÃ©lÃ© Bruxelles</title>
+<link>rtmp://46.105.119.61:1935/live/live.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tã©lã©bruxelles.png</thumbnail>
+</item>
+
+<item>
+<title>Teleplaisance</title>
+<link>mms://www.diffusepro.com/liveteleplaiz</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/teleplaisance.png</thumbnail>
+</item>
+
+<item>
+<title>Television Libre</title>
+<link>http://modulix.org:8000/libre.ogg</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/televisionlibre.png</thumbnail>
+</item>
+
+
+<item>
+<title>TELIM TV FR</title>
+<link>rtsp://telimvod.proximit.fr:1935/live/myStream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/telimtvfr.png</thumbnail>
+</item>
+
+
+<item>
+<title>TLL Tele Loire</title>
+<link>http://tll.diffusepro.com/index_mms.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tllteleloire.png</thumbnail>
+</item>
+
+
+<item>
+<title>tv sf</title>
+<link>mms://88.191.99.156:1755/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvsf.png</thumbnail>
+</item>
+
+<item>
+<title>TV web Lusophonie Parisienne</title>
+<link>mms://www.diffusepro.com/lusophonie</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvweblusophonieparisienne.png</thumbnail>
+</item>
+
+<item>
+<title>TV, FR, CA EnOndes Canal QC CA</title>
+<link>http://stream2.canal.qc.ca/enOndes_bas_debit</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv,fr,caenondescanalqcca.png</thumbnail>
+</item>
+
+<item>
+<title>TV7 (France)</title>
+<link>rtmp://88.191.94.248/livtv7vo/mystream700.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv7(france).png</thumbnail>
+</item>
+
+<item>
+<title>Tvcaraibe (Soleil TV)</title>
+<link>mms://soleiltv.impek.tv/soleiltv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvcaraibe(soleiltv).png</thumbnail>
+</item>
+
+<item>
+<title>TVM Est Parisien</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast/cineplume</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvmestparisien.png</thumbnail>
+</item>
+
+<item>
+<title>TVSF</title>
+<link>mms://stream.tvsf.fr/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvsf.png</thumbnail>
+</item>
+
+<item>
+<title>Vitamine TV</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/vitatv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vitaminetv.png</thumbnail>
+</item>
+
+<item>
+<title>Yvelines TV</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast/yveline1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/yy/yvelinestv.png</thumbnail>
+</item>
+
+
+</channel>

@@ -1,0 +1,16 @@
+type=video
+name=Baltimore Orioles Live Stream
+thumb=http://www.vettix.org/images/events/preview1988.jpg
+URL=rtmp://85.12.5.10:80/liverepeater playpath=18635 swfUrl=http://cdn.goodcast.org/player.swf live=1 timeout=15 swfVfy=1 pageUrl=http://goodcast.org/stream.php?id=18635&width=640&height=460
+player=default
+rating=-1.00
+#
+
+type=video
+name=Crusader Link
+thumb=http://www.vettix.org/images/events/preview1988.jpg
+URL=rtsp://176.31.234.158:1935/live/live
+player=default
+rating=-1.00
+#
+

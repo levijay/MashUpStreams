@@ -1,0 +1,164 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Bangladish TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>DHOOM MOVIES</title>
+<link>rtmp://cdn.m.yuppcdn.net:80/liveorigin/ playpath=dhoommovies3 swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://freetvall.com/video/H14GMRG4WGYN/Dhoom-Movies
+=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dhoom_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>DHOOM MUSIC</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv:80/nwk1 playpath=dhoommusic900 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/dhoommusic.aspx=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dhoom_music.png</thumbnail>
+</item>
+
+
+<item>
+<title>CHANNEL S UK</title>
+<link>rtmp://zzcast.com/tv playpath=channelsuk swfUrl=http://85.17.73.26/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=chsuk&vw=600&vh=400&domain=www.zzcast.com=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6d/Channel_S_logo.JPG</thumbnail>
+</item>
+
+<item>
+<title>Ekattor TV</title>
+<link>rtmp://188.122.91.25/cdnflashlive playpath=ekattor swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.mcaster.tv/channel/ekattor.php?live=ekattor&vw=660&vh=390</link>
+<thumbnail>http://3.bp.blogspot.com/-l_1uiceSdK8/UL1y0tVnrsI/AAAAAAAAEus/x8mO6Ndo2H8/s1600/71+tv+bangladesh.png</thumbnail>
+</item>
+
+<item>
+<title>News Time Bangala</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv:1935/nwk1 playpath=newstimebengal900 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/newstimebangala.aspx</link>
+<thumbnail>http://2.bp.blogspot.com/-gA13tUliPpE/TrdUvWVtQ6I/AAAAAAAAAMk/cXRXZUP8lrQ/s1600/News_Time_Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>Channel 16</title>
+<link>rtmp://85.17.73.8/cdnflashlive playpath=channel16 swfUrl=http://85.17.73.27/player/playe.swf live=true timeout=15 pageUrl=http://www.mcaster.tv/channel/channel16.php?live=ch16&vw=600&vh=400=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel_16_bd.png</thumbnail>
+</item>
+
+<item>
+<title>MY TV</title>
+<link>rtmp://62.212.82.97/cdnflashlive playpath=cdnmytv swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=sdfsdfgs&vw=600&vh=400&domain=www.jagobd.com
+</link>
+<thumbnail>http://demo123.net76.net/images/bd%20tv/my%20tv.png</thumbnail>
+</item>
+
+
+<item>
+<title>Channel 24</title>
+<link>rtmp://188.122.91.25/cdnflashlive playpath=channel241 swfUrl=http://85.17.73.27/player/playe.swf live=true timeout=15pageUrl=http://www.mcaster.tv/channel/channel24.php?live=channel24&vw=242&vh=200=true</link>
+<thumbnail>http://rootsbd.com/wp-content/uploads/2012/05/Channel24-TV-Bangladesh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 7</title>
+<link>rtmp://shenzhenrtmp.viddillions.com/jadooplus/ playpath=stream0095.stream swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15
+pageUrl=http://desichannels.webnode.com/bangladesh-channels/channel-24/</link>
+<thumbnail>http://www.alphacopiers.com.au/upload/Chanel%207%20logo(1).jpg</thumbnail>
+</item>
+
+<item>
+<title>GTV</title>
+<link>rtmp://69.1.72.29/jadooplus/stream0092.stream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EKATTOR TV</title>
+<link>rtmp://shenzhenrtmp.viddillions.com/jadooplus/ playpath=stream0094.stream swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15
+pageUrl=http://desichannels.webnode.com/bangladesh-channels/ekattor-tv/</link>
+<thumbnail>http://www.vultureday.org/images/logos/1343714837.jpg</thumbnail>
+</item>
+
+<item>
+<title>Desh TV</title>
+<link>rtmp://shenzhenrtmp.viddillions.com/jadooplus/ playpath=stream0093.stream swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15
+pageUrl=http://desichannels.webnode.com/bangladesh-channels/desh-tv/</link>
+<thumbnail>http://poplu.webs.com/photos/Organization-Logo/desh%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mohona TV</title>
+<link>rtmp://95.211.210.67/cdnflashlive playpath=mohonat1 swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=mohonatvs&vw=600&vh=400&domain=www.jagobd.com</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/mohona-tv-bangladesh-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bangla 21</title>
+<link>rtmp://62.212.82.97/cdnflashlive playpath=bangla21 swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=bangla21&vw=600&vh=400&domain=www.jagobd.com</link>
+<thumbnail>http://bangla21.tv/wp-content/uploads/2013/05/q.png</thumbnail>
+</item>
+
+
+<item>
+<title>NTV Bangla Live</title>
+<link>rtmp://5.152.213.74/ntvlive/ playpath=mp4:mystream.mp4 swfUrl=http://www.ntveurope.net/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ntveurope.net/ntvplayer.php=true</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/bangladesh/112-nTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 9</title>
+<link>rtmp://85.17.73.8/cdnflashlive playpath=9uks swfUrl=http://85.17.73.26/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=9chbd2s&vw=600&vh=400&domain=www.jagobd.com=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/channel9_bd.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sa TV</title>
+<link>rtmp://62.212.82.97/cdnflashlive playpath=satvs swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=satvs24&vw=600&vh=400&domain=www.jagobd.com</link>
+<thumbnail>http://bd24x7.com/wp-content/uploads/2012/04/S-A-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asian TV</title>
+<link>rtmp://188.122.91.25/cdnflashlive playpath=cdnasiantvs1 swfUrl=http://85.17.73.26/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=asiantvbd26&vw=600&vh=400&domain=www.zzcast.com=true</link>
+<thumbnail>http://3.bp.blogspot.com/-qoZfF5Tu63U/T-bFgz37oHI/AAAAAAAAAMk/i4ceqZvC82o/s1600/ASIAN-TV%2Bbangladesh.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ATN News</title>
+<link>rtmp://62.212.82.97/cdnflashlive playpath=atnnewscdn1atnnewscdn swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=atnnewsss&vw=600&vh=400</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/10/ATN-News-Bangladesh-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ATN Bangla TV</title>
+<link>http://host.deshichat.com/deshichat_tv.asx</link>
+<thumbnail>http://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rupashi Bangla</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv:1935/nwk1 playpath=rupashibangala900 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/rupashibangla.aspx</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/rupashi-bangla-tv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>R TV</title>
+<link>rtmp://95.211.210.67/cdnflashlive playpath=ch9bds swfUrl=http://95.211.201.123/player/playe.swf live=true timeout=15 pageUrl=http://www.zzcast.com/embed.php?u=rtvss5&vw=600&vh=400</link>
+<thumbnail>http://watchtv.co/wp-content/uploads/2012/07/rtv-live.jpg</thumbnail>
+</item>
+
+<item>
+<title>Somoy News</title>
+<link>rtmp://188.122.91.25/cdnflashlive playpath=cdnsomoy swfUrl=http://85.17.73.27/player/playe.swf live=true timeout=15 pageUrl=http://www.mcaster.tv/channel/somoynews.php?live=somoynews&vw=640&vh=377=true</link>
+<thumbnail>http://www.jagobd.com/wp-content/uploads/2012/09/Somoy+TV+logo1-300x239.jpg</thumbnail>
+</item>
+
+<item>
+<title>Diganta TV</title>
+<link>rtmp://62.212.82.97/cdnflashlive playpath=dtv swfUrl=http://95.211.201.123/player/playe.swf pageUrl=http://www.mcaster.tv/channel/bijoytv.php?live=ch16&vw=250&vh=180</link>
+<thumbnail>http://bdlivezone.com/Image/TVLogoBig/diganta_tv.png</thumbnail>
+</item>
+
+
+</channel>

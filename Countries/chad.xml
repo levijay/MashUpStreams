@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Chad TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Chad TV</title>
+<link>rtmp://217.114.200.24/tchad/ playpath=tchad swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b6135.htm</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_tchad.jpg</thumbnail>
+</item>
+
+
+<channel>

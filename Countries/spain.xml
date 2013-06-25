@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Spain TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Andorra TV</title>
+<link>mms://194.158.91.91/Atv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/andorra_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Astrocanal TV</title>
+<link>rtsp://flash3.todostreaming.es/telelinea1/mystream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astrocanal_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 13 Digital</title>
+<link>mms://wm.mad.interhost.com/OjosSolidariosTv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal13digital.png</thumbnail>
+</item>
+
+<item>
+<title>canal 53 bandaancha</title>
+<link>mms://streaming.uanl.mx/canal53bandaancha/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal53bandaancha.png</thumbnail>
+</item>
+
+<item>
+<title>CANAL DDIOCESANO</title>
+<link>rtmp://flash3.todostreaming.es/edesco/livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalddiocesano.png</thumbnail>
+</item>
+
+<item>
+<title>CLUB DIRECTO TV</title>
+<link>rtmp://87.106.183.39/live/myStream_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/clubdirectotv.png</thumbnail>
+</item>
+
+<item>
+<title>Ibiza Global Radio</title>
+<link>http://ibgr.001.oye.fm:8024</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/ibizaglobalradio.png</thumbnail>
+</item>
+
+<item>
+<title>IntereconomÃ­a Business</title>
+<link>rtmp://media.intereconomia.com/live/business2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/intereconomã­abusiness.png</thumbnail>
+</item>
+
+<item>
+<title>Intereconomia TV</title>
+<link>rtmp://media.intereconomia.com/live/intereconomiatv2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/intereconomiatv.png</thumbnail>
+</item>
+
+<item>
+<title>Kiss TV</title>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/kk/kisstv.png</thumbnail>
+</item>
+
+<item>
+<title>La 1</title>
+<link>rtmp://media.intereconomia.com/live/intereconomiatv1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/la1.png</thumbnail>
+</item>
+
+<item>
+<title>Mallorca 95.8 Das Inselradio</title>
+<link>http://stream.live-inselradio.com:8000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mallorca95.8dasinselradio.png</thumbnail>
+</item>
+
+<item>
+<title>Radio Exit</title>
+<link>http://radioexit.streaming-pro.com:8002/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/radioexit.png</thumbnail>
+</item>
+
+<item>
+<title>realmadrid tv</title>
+<link>http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/realmadridtv.png</thumbnail>
+</item>
+
+
+<item>
+<title>Solidaria TV</title>
+<link>rtsp://flash3.todostreaming.es/solidariatv/mystream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/solidariatv.png</thumbnail>
+</item>
+
+
+<item>
+<title>TPA 7</title>
+<link>http://live.rtpa.stream.flumotion.com/rtpa/tv.flv.m3u</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tpa7.png</thumbnail>
+</item>
+
+<item>
+<title>TV Almansa</title>
+<link>mms://89.29.128.6:7009</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvalmansa.png</thumbnail>
+</item>
+
+<item>
+<title>TV Canaria Net</title>
+<link>rtsp://streamrtvc.mad.idec.net/rtvc1/rtvc_1.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvcanarianet.png</thumbnail>
+</item>
+
+<item>
+<title>TV Huelva</title>
+<link>rtmp://flash3.todostreaming.es/huelvatv/livestream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvhuelva.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV Vida</title>
+<link>rtsp://flash3.todostreaming.es/radiovida/mobile</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvvida.png</thumbnail>
+</item>
+
+<item>
+<title>VIT Channel 1</title>
+<link>rtmp://87.106.244.74/live/myStream_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vitchannel1.png</thumbnail>
+</item>
+
+<item>
+<title>VIT Channel 2</title>
+<link>rtmp://87.106.219.140/live/myStream_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vitchannel2.png</thumbnail>
+</item>
+
+<item>
+<title>VIT Channel 3</title>
+<link>rtmp://87.106.232.7/live/myStream_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vitchannel3.png</thumbnail>
+</item>
+
+<item>
+<title>VIT Channel 4</title>
+<link>rtmp://87.106.220.67/live/myStream_2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vitchannel4.png</thumbnail>
+</item>
+
+</channel>

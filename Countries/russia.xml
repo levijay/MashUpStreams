@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Russian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Russia Alyaum</title>         
+<link>rtmp://94.23.62.156:1935/teledunet playpath=russia_alyaum swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&streamer=rtmp%3A//94.23.62.156%3A1935/teledunet&file=russia_alyaum&provider=rtmp&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/nessma_khadhra</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rt_arabic.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Russia Today English HD</title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-global-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=true timeout=15 pageUrl=http://rt.com/on-air/</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/Russia_today.jpg</thumbnail>
+</item>
+
+<item>
+<title>Priv’et Russia</title>
+<link>rtmp://62.213.111.221/en-stream/ playpath=primetime swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=true timeout=15 pageUrl=http://rt.com/on-air/privet-russia/</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Russia En Vivo (Espanol)</title>
+<link>rtmp://rt.fms.visionip.tv/live playpath=rt-enespanol-live-HD swfUrl=http://actualidad.rt.com/static/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://actualidad.rt.com/en_vivo</link>
+<thumbnail>http://i3.ytimg.com/i/2mtXUpAYLYJIZ2deSPhlqw/mq1.jpg?v=515bfd1a</thumbnail>
+</item>
+
+
+<item>
+<title>Футбол</title>
+<link>rtsp://178.238.89.53/chNashFootBall_est?sid=6F714D33A19AC58DC5827E7FE10F81AACFE19C757C1D57B71AB4B62F69F1F895</link>
+<thumbnail>http://www.scm.com.ua/m/mediacentre/fotos/Futbol_TV_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Fight Network</title>
+<link>rtsp://178.238.89.53/chFightNetwork?sid=73616DEFB98AD9CD651EE68FED6F81069701B0FD942137FFA64C9E53D9D96455</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/500px-tfn_logo.svg_.png</thumbnail>
+</item>
+
+<item>
+
+
+</channel>

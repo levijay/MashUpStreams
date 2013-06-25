@@ -1,0 +1,37 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Dominican TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Antena Latina Live</title>
+<link>rtmp://ss5.domint.net:1962/al_str/ playpath=antena swfUrl=http://ss5.domint.net/jwplayer6/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php</link>
+<thumbnail>http://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bajo Techo TV</title>
+<link>rtmp://173.244.205.76/live playpath=ALOJADO_TECHO swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b6351.htm</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Bajo_Techo_Tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>CDN 2</title>
+<link>rtmp://173.192.224.104/live playpath=ALOJADO_CDN2 swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/7469.htm</link>
+<thumbnail>http://eltecsa.com/logos/cdn-2-logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>CANAL 4</title>
+<link>rtmp://199.71.215.231:1935/live playpath=canal4 swfUrl=http://certvdominicana.com/institucional/live/canal4/reproductor/player.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/b4831-Canal-4.htm</link>
+<thumbnail>http://4.bp.blogspot.com/-Z_mcG9euuDY/UPw0_XEo4YI/AAAAAAAABnI/R-CllmJY0BY/s1600/repretel_4.png</thumbnail>
+</item>
+
+
+</channel>

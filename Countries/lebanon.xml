@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Lebanon TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Al Mayadeen (Link 3)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-011/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Lebanon (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-004/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-002/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future   [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-006/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Manar HD (Link 3)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-001/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tele Liban   [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-005/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_liban.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chachaty Plus TV</title>
+<link>http://149.62.177.6:9001</link>
+<thumbnail>https://migoptv.googlecode.com/files/Chachaty.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Al Mayadeen (Link 2)</title>
+<link>rtmp://almayadeen.fms-01.visionip.tv/live/ playpath=almayadeentv-almayadeen-live-16x9-SD</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon</title>
+<link>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.otv.com.lb/otvent/live.php</link>
+<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+<item>
+<title>Noursat Al Shabab</title>
+<link>rtmp://fl1.viastreaming.net/nouralchabab playpath=livestream swfUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/nouralchabab&autostart=true live=true timeout=15 pageUrl=http://fl1.viastreaming.net:8000/player/player.swf?file=livestream&type=rtmp&streamer=rtmp://fl1.viastreaming.net/nouralchabab&autostart=true</link>
+<thumbnail>http://blog.jumptv.com/.a/6a00d8341ce56253ef016767d8dc38970b-800wi</thumbnail>
+</item>
+
+<item>
+<title>Noursat</title>
+<link>rtmp://fl1.viastreaming.net/noursat playpath=livestream swfUrl=http://noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dnoursat%2Barabic%2Blive%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://noursat.tv/ar/receive-us.php&usg=ALkJrhiUZbCasalz4s6L1CC-Rp2AsOuqOQ</link>
+<thumbnail>http://svetomir.blox.pl/resource/Noursat.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Lebanon</title>
+<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mtv.com.lb/Player/654/451</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
+</item>
+
+<item>
+<title>Al Mayadeen</title>
+<link>rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1371151836 live=true timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout</link>
+<thumbnail>http://3.bp.blogspot.com/-IOB9KcaUF4Q/UJb9e9T9jYI/AAAAAAAADtk/qaZeDGNGNuw/s1600/al_mayadeen_tv.png</thumbnail>
+</item>
+
+<item>
+<title>LBC International(LBC Europe)</title>
+<link>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live</link>
+<thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Manar</title>
+<link>rtmp://38.96.148.200/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
+<thumbnail>http://mplbelgique.files.wordpress.com/2010/01/al-manar.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>NBN Lebanon</title>
+<link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
+</item>
+
+<item>
+<title>Al Manar (Link 2)</title>
+<link>http://almanarlive.nanocdn.com:1935/live/almanar64/playlist.m3u8</link>
+<thumbnail>http://jira.salamworld.com/wp-content/uploads/2012/11/AL-MANAR.jpg</thumbnail>
+</item>
+
+<item>
+<title>LB1 TV</title>
+<link>http://xlb1tvx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2012/11/LB1-TV.gif</thumbnail>
+</item>
+
+<item>
+<title>Al Hiwar</title>
+<link>http://209.236.66.43/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
+</item>
+
+</channel>

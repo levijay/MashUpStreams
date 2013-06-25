@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Philippines TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>abs-cbn</title>
+<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/abs_cbn.png</thumbnail>
+</item>
+
+<item>
+<title>DZRH-tv</title>
+<link>mms://bayantel-ss.dagupan.com/dzrhvideo/</link>
+<thumbnail>http://3.bp.blogspot.com/-tWXWjxfjRLs/T7X2y6Q0R6I/AAAAAAAAIxY/LAB80SCUnT4/s640/rhtv_dzrh_television1.png</thumbnail>
+</item>
+
+<item>
+<title>UNTV</title>
+<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/7975.htm live=true timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/_tQ0GPwzVplk/SzmTbRLZ4lI/AAAAAAAAAbw/y9tKfJMUM8g/s1600/UNTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Old Path</title>
+<link>rtmp://ocatv.mcgi.me/public playpath=247_en swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/6773-The-Old-Path.htm</link>
+<thumbnail>https://si0.twimg.com/profile_images/2504127228/zhm5k8snldst8rny7kbo.jpeg</thumbnail>
+</item>
+
+<item>
+<title>GMA Kapuso</title>
+<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=537&height=440&channel=44090&autoplay=true</link>
+<thumbnail>http://4.bp.blogspot.com/_uw-JSAs38vE/TNfVVT1FcsI/AAAAAAAAA4M/h06Tiz4Bb74/s400/gma-7-kapuso.jpg</thumbnail>
+</item>
+
+</channel>

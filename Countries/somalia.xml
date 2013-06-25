@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Somalian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>SNTV</title>
+<link>rtsp://178.238.86.23/SomaliTV?sid=E705C9BB65AEAD39818A6A1B896B1542ABD5F411687D9B532AB83AF7D5BD8069</link>
+<thumbnail>http://www.allgedo.com/newswire/wp-content/uploads/2012/05/SNTV-LOGO-300x184.jpg</thumbnail>
+</item>
+
+
+</channel>

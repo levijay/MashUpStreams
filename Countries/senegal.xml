@@ -1,0 +1,77 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Senegal TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Rai</title>
+<link>http://www.sunutv.com/asx/rai.asx</link>
+<thumbnail>http://www.ufficiostampa.rai.it/imageus/Rai_Tv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>LCF (Link 2)</title> 
+<link>rtmp://67.213.217.205:1935/8386 playpath=838611 swfUrl=http://www.sunu-tv.com/online/swf/player11.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/rts.html</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/RTS-Senegal.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>LCF</title>
+<link>rtsp://178.238.86.23/LCF?sid=F72DE1AB990EA52901926E3359732D5287055C214805EF6B7AF072D7797D1849</link>
+<thumbnail>http://www.ariase.com/media/television/logo-132x99/lcf.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Walf TV</title>
+<link>rtsp://178.238.86.23/WalfTV_est?sid=2FD915936D2A1DBDF50A8A47E137098A332184A52CD5D33F3ADCFE8FD5D18075</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/senegal/120-Walf-TV%5B01%5D.jpg</thumbnail>
+</item>
+
+<item>
+<title>RDV</title>
+<link>rtmp://67.213.217.205:1935/8386 playpath=838666 swfUrl=http://www.sunu-tv.com/online/swf/player6.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/rdv.html</link>
+<thumbnail>http://www.infosen.net/IMG/arton2176.jpg?1252584172</thumbnail>
+</item>
+
+<item>
+<title>Sen TV</title>
+<link>rtmp://67.213.217.205:1935/8386 playpath=838622 swfUrl=http://www.sunu-tv.com/online/swf/player2.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/sentv.html</link>
+<thumbnail>http://www.caseeworld.com/-le-monde-des-jeunes-/images/stories/sen%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Africa 7</title>
+<link>rtmp://67.213.217.205:1935/8386 playpath=838677 swfUrl=http://www.sunu-tv.com/online/swf/player7.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/africa7.html</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>2STV(Est) (Link 2)</title>
+<link>rtsp://178.238.86.23/2STV_EST?sid=970DC1EBDDB60DC1A94AC2335993EDB2039D6489700DB33BFAE082978D950041</link>
+<thumbnail>https://si0.twimg.com/profile_images/2226084337/Logo_2sTv_3D_mini.jpeg</thumbnail>
+</item>
+
+<item>
+<title>RTS 1</title>
+<link>rtsp://178.238.86.23/RTS1?sid=47793547593AC5FDD52E9E97A97769BEE7B19C95DCF1773F523CDE5BA1E1D815</link>
+<thumbnail>http://1.bp.blogspot.com/-U1ZRB-lebZg/Tqnbgl4n5aI/AAAAAAAACg0/LkesrxoCcqQ/s1600/TPA+logo+2011.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sen TV (Link 2)</title>
+<link>rtmp://67.213.217.205:1935/8386 playpath=838622 swfUrl=http://www.sunu-tv.com/online/swf/player2.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/sentv.html</link>
+<thumbnail>http://www.caseeworld.com/-le-monde-des-jeunes-/images/stories/sen%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TFM</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y6Vzt8mArtY</link>
+<thumbnail>http://actu-senegalaise.senego.com/wp-content/uploads/2012/03/tfm.jpg</thumbnail>
+</item>
+
+
+
+</channel>

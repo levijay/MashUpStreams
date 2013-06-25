@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Vietnam TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>DRT Dak Lak</title>
+<link>rtsp://118.69.161.10/Push</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dak_lak_tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Saigon TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf live=true timeout=15 pageUrl=http://www.saigontv.us/</link>
+<thumbnail>http://adslvnpt.com.vn/images/article/Saigon-TV-2.png</thumbnail>
+</item>
+
+<item>
+<title>Vietface TV</title>
+<link>rtmp://206.217.221.127/vietface/ playpath=vface_1 swfUrl=http://thvl.vn/vplayer.swf live=true timeout=15 pageUrl=http://nguoiviet.tv/vietface-tv/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/vietface_tv_us.png</thumbnail>
+</item>
+
+</channel>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Benin TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Canal3 Monde</title>
+<link>rtsp://178.238.86.23/Canal3Monde?sid=FFD55963950EF529F1D26A8BB1EB95FAFB158C1188A55B637248CAEFE5FD1839</link>
+<thumbnail>http://www.ariase.com/media/television/logo-132x99/canal3-monde.jpg</thumbnail>
+</item>
+
+
+</channel>

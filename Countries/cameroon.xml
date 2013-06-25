@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Cameroon TV CHANNELS</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>CRTV</title>
+<link>rtsp://178.238.86.23/CRTV?sid=97A10D0FE95275C5CD26FE6FA90FA1E627190C0DC4891737E284B6336159384D</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/cameroon/104-CRTV-Camaroon.jpg</thumbnail>
+</item>
+
+
+</channel>

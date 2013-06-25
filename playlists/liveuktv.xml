@@ -1,0 +1,252 @@
+http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
+
+
+# 1420668
+type=video
+name=The Active Channel
+thumb=http://www.lyngsat-logo.com/logo/tv/aa/active_channel.jpg
+URL=rtmp://d1yolrx8wdti.rtmphost.com/simulcast playpath=livestream pageURL=http://www.theactivechannel.com/live/ swfUrl=http://www.theactivechannel.com/flash/flowplayer.rtmp.swf live=true
+player=default
+rating=-1.00
+
+# 1562290
+type=video
+name=BBC One
+thumb=http://2.bp.blogspot.com/-w4CEJaOQbjo/TxWi1wFTEzI/AAAAAAAAE4I/GFVqPgD07us/s1600/portfolio_bbc1_01.jpg
+URL=http://proxy0.brussels.weepeetv.eu/bbc1/bbc1.m3u8
+player=default
+rating=-1.00
+
+# 1686111
+type=video
+name=BBC Two
+thumb=http://img-i.zeebox.com/images/bbc_two_logo_v3.png
+date=2013-04-03
+URL=rtmp://178.33.234.10/edge/jkgbg7vq8fcjgjl swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/45912/watch-live-Star_Movies-channel-for-free
+player=default
+rating=-1.00
+
+# 1562270
+type=video
+name=BBC News
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png
+URL=rtsp://media4.lsops.net/live/bbcnews_en_high.sdp
+player=default
+rating=-1.00
+
+# 1355544
+type=video
+name=BBC World News
+thumb=http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png
+URL=rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60
+player=default
+rating=-1.00
+
+# 1362656
+type=video
+name=Capital TV
+thumb=http://assets6.gcstatic.com/u/apps/asset_manager/uploaded/2012/41/capital-tv-website-assets-7-1349769087-article-0.jpg
+URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+player=default
+rating=-1.00
+
+# 1403127
+type=video
+name=Chelsea TV
+thumb=http://3.bp.blogspot.com/-LcQbeXyeh94/Tp_HVZVtxvI/AAAAAAAAAxs/jSnikrX7GwQ/s1600/chelsea-tv.jpg
+URL=rtmp://cp96798.live.edgefcs.net:443/live/ChelTV_Ch01_1000k@26291 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/f116/wrestle-zone-net-channel-5-a-105210/ live=1 timeout=10
+player=default
+rating=-1.00
+
+# 1518423
+type=video
+name=CNBC
+thumb=http://firemansbrew.com/templates/photos/CNBC_Logo.png
+URL=rtmp://media7.lsops.net/live/ playpath=cnbc_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.7/player.swf swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1370563
+type=video
+name=Dance TV
+thumb=http://www.lyngsat-logo.com/logo/tv/dd/dance_tv_hu.jpg
+URL=mms://onstreaming01.de.gtk.hu/dancetv
+player=default
+rating=-1.00
+
+# 1594293
+type=video
+name=ESPN
+thumb=http://www.livesoccertv.com/images/articles/espn.gif
+URL=rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430
+player=default
+rating=-1.00
+
+# 1681199
+type=video
+name=ESPN America
+thumb=http://www.novahd.cz/images/stanice/espn-america.jpg
+date=2013-03-30
+URL=http://cds-sr1.vmo2.sbb.rs/live/ramdisk/espn_slo/hls1/espn_slo_q4.m3u8
+player=default
+rating=-1.00
+
+# 1404942
+type=video
+name=Euro News
+thumb=http://channeldb.livestation.com/paperclip/channels/idents/1/original/euronews.jpg?1274973607
+URL=rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=en_video750_flash_all.sdp swfUrl=http://fr.euronews.net/media/player_live1_3.swf live=1 pageUrl=http://fr.euronews.net/media/player_live1_3.swf
+player=default
+rating=-1.00
+
+# 1404076
+type=video
+name=Euro Sport HD
+thumb=http://ing-sat.what.hu/images/logo-insert/satlogos/russia/384-EuroSport[1].jpg
+URL=http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
+player=default
+rating=-1.00
+
+# 1404077
+type=video
+name=Euro Sport 2 HD
+thumb=http://www.serbiacricket.com/site/images/58f38790-0695-47e7-996f-82678566478f(3).gif
+URL=http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
+player=default
+rating=-1.00
+
+# 1370557
+type=video
+name=France24 English
+thumb=http://en.kingofsat.net/jpg/france24-en.jpg
+URL=mms://stream1.france24.yacast.net/f24_liveen
+player=default
+rating=-1.00
+
+# 1362663
+type=video
+name=Heart TV
+thumb=http://b.vimeocdn.com/ts/353/436/353436218_640.jpg
+URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
+player=default
+rating=-1.00
+
+# 1667066
+type=video
+name=Motors TV
+thumb=http://www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
+URL=rtmp://198.7.58.79/edge playpath=motorstv swfUrl=http://s.zuuk.net/ply.swf pageUrl=http://www.zuuk.net/motorstv swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1552984
+type=video
+name=MTV
+thumb=http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg
+URL=rtsp://83.218.202.202:1935/live/wt_mtv.stream/
+player=default
+rating=-1.00
+
+# 1370550
+type=video
+name=NHK World HD
+thumb=http://yonasu.com/wp-content/uploads/NHK-World-iPhone-App.png
+URL=rtmp://ca-1.net.fivecool.org/nhkw pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=gwm
+player=default
+rating=-1.00
+
+# 1370801
+type=video
+name=Psychic Today TV
+thumb=http://profile.ak.fbcdn.net/hprofile-ak-snc6/187951_462650017113168_1724580699_n.jpg
+URL=rtmp://93.89.84.214/iptv_psychic_cc/livestream
+player=default
+rating=-1.00
+
+# 1362872
+type=video
+name=QVC
+thumb=http://blog.kellyhoppeninteractive.com/wp-content/uploads/2011/03/qvc-2.png
+URL=rtmp://cp79650.live.edgefcs.net/live/ playpath=QVCLive1@14308 swfUrl="http://www.qvcuk.com/ondemand/flowplayer.rtmp-3.1.3.swf" pageUrl="http://www.qvcuk.com/ondemand/livetv.html?cm_re=LN-_-OnQVCTV-_-QVCLive" swfVfy=true live=true timeout=10
+player=default
+rating=-1.00
+
+# 1506812
+type=video
+name=Sky News HD
+thumb=http://www.skyuser.co.uk/thumbnail.php?file=skynewshdlogo_878051757.jpg&size=article_large
+URL=rtmp://media7.lsops.net/live/ playpath=skynewsi_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.7/player.swf swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1370543
+type=video
+name=Sky Poker
+thumb=http://www.playroompoker.com/ImageUpload/sky_poker_big.gif
+URL=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=10
+player=default
+rating=-1.00
+
+# 1597764
+type=video
+name=Sky Sports 1
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-1-ident-2010/Sky%20Sports%201%20Ident%20201024.jpg
+URL=rtmp://37.220.34.198:1935/live playpath=ssds11a swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ssds11a&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1597766
+type=video
+name=Sky Sports 2
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
+URL=rtmp://37.220.34.198:1935/live playpath=ss22as swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ss22as&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1597767
+type=video
+name=Sky Sports 3
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-3-ident-2010/TVnewsroom-2010-01-24-20h56m28s206.jpg
+URL=rtmp://37.220.34.198:1935/live playpath=sdwwe3 swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=sdwwe3&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1597768
+type=video
+name=Sky Sports 4
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-4-ident-2010/Sky%20Sports%204%20Ident%20201012.jpg
+URL=rtmp://37.220.34.198:1935/live playpath=ss4gym swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ss4gym&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1597769
+type=video
+name=Sky Sports F1 HD
+thumb=http://www.touchline.tv/wp-content/uploads/2011/11/skyf1hd.jpg
+URL=rtmp://37.220.34.198:1935/live playpath=ssds11 swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ssds11&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1543727
+type=video
+name=Sky Sports News
+thumb=http://img.skysports.com/11/04/Others/500219.jpg
+URL=rtmp://89.248.172.239/live playpath=ssnewsas swfUrl=http://www.reyhq.com/player/player-licensed.swf pageUrl=http://www.reyhq.com/embed.php?live=ssnewsas&vw=620&vh=490 swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1592065
+type=video
+name=Sports Tonight
+thumb=http://sim.in.com/62/eb208a3c3b20508831b1ea9137c57476_ft_m.jpg
+URL=rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
+player=default
+rating=-1.00
+
+# 1667064
+type=video
+name=StreetClip TV
+thumb=http://www.tv14.net/wp-content/uploads/2010/06/Streetclip-TV.jpg
+URL=rtmp://stream.streetclip.tv:1935/live/high-stream
+player=default
+rating=-1.00

@@ -1,0 +1,89 @@
+<item>
+<title>Urdu 1</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=urdupk1 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=urdupk1&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/urdu_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ary News</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=arynews swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=arynews&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/ary_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo News</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=geonewsa swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=geonewsa&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/geo_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo News 2</title>
+<link>rtmp://live.wcast.tv/broadcast playpath=115517 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=geonews115&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/geo_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARY QTV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=qtv swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=qtv&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/qtv.png</thumbnail>
+</item>
+
+<item>
+<title>Hum TV</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=humtvj swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=humtvj&vw=600&vh=470</link>
+<thumbnail>http://www.desistreams.tv/images/hum_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Hum TV 2</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=115520 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=humtv2&vw=600&vh=470</link>
+<thumbnail>http://www.desistreams.tv/images/hum_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Geo Entertainment 2</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=ent1 swfUrlhttp://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=GeoTv&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/geo_entertainment.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ary Digital 2</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=111206 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=aryhq072&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ary_digital.jpg</thumbnail>
+</item>
+
+<item>
+<title>Masala TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=masalo swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=masalo&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/masala_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Express Entertainment</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=express5 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=express5&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/express_entertainment.png</thumbnail>
+</item>
+
+<item>
+<title>Express News</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=expressnewsi2 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=expressnewsi2&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/express_news.png</thumbnail>
+</item>
+
+<item>
+<title>Dubbed Movies</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=dubbedmovie swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=dubbedmovie&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/dubbed_movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTV Home</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=ptv_home.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=ptv_home&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/ptv_home.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=cartoonnet9.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=cartoonnet9&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/cartoon_network.jpg</thumbnail>
+</item>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Hungarian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title> M1 TV</title>
+<link>mms://streamer1.carnation.hu/mtvonlinem1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m1_ua.png</thumbnail>
+</item>
+
+
+<item>
+<title>Duna TV</title>
+<link>mms://80.249.172.28/dunatv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/duna_tv.png</thumbnail>
+</item>
+
+
+<item>
+<title>M2 TV</title>
+<link>mms://streamer1.carnation.hu/mtvonlinem2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/m2_ua.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ATV</title>
+<link>rtmp://flash0.atv.hu:443/live playpath=atvliveapple swfUrl=http://static.atv.hu/scripts/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://atv.hu/online live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/andina_tv_plus.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Duna II Autonomia</title>
+<link>mms://80.249.172.27/autonomia</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/duna_tv.png</thumbnail>
+</item>
+
+
+<item>
+<title>Melitta TV</title>
+<link>mms://stream01.gtk.hu/gil</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+
+<item>
+<title>BP TV</title>
+<link>mms://stream02.gtk.hu/bptv</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>Fehervar TV</title>
+<link>mms://stream01.gtk.hu/fehervar_tv</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+</channel>

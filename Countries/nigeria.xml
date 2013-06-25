@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Nigerian TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Loveworld</title>
+<link>http://78.129.146.199/Loveworld</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/LoveWorld-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Emmanuel TV</title>
+<link>http://emmanueltv-f.akamaihd.net/emmanueltv_hdlive_250@81880?apid=266500&v=2.11.2&fp=WIN%2011,7,700,202&r=QHHQB&g=RWIWSYPNDTLK</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Emmanuel-TV.jpeg</thumbnail>
+</item>
+
+
+<item>
+<title>NTA</title>
+<link>rtsp://178.238.86.23/NTA?sid=1F29E503F5DA8D5D45FAE2A7A127C96AAB410485AC159B1F3ACC9E8F8DD16095</link>
+<thumbnail>http://www.nigeriamasterweb.com/7mbebe/ntaLogo.jpg</thumbnail>
+</item>
+
+
+</channel>

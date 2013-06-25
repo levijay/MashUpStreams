@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Italian TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>TV 2000</title>
+<link>http://www.tv2000.it/player/jwpSilverBT/tv2000.asx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/archive/0/0d/20110729120547%21Logo_di_TV2000.png</thumbnail>
+</item>
+
+</channel>

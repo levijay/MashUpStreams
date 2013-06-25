@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Albania TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Vizion Plus</title>
+<link>rtmp://live.vizionplus.tv:1935/live playpath=livestream2 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf pageUrl=http://live.vizionplus.tv/IE/ timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vizion_plus.jpg</thumbnail>
+</item>
+
+
+
+</channel>

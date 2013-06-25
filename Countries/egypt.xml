@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Eygptian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Al Masriya   [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>hhttp://37.46.199.34:1935/hls/mux-udp-024/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_masriya_eg.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Cinema (Link 2)</title> 
+<link>http://149.62.177.6:9004</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Khaligia (Link 2)</title> 
+<link>http://149.62.177.6:9007</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Musica (Link 2)</title> 
+<link>http://149.62.177.50:9009</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>
+
+<item>
+<title>On TV</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mvbCLboCZDc</link>
+<thumbnail>http://egylab.ucoz.com/imge/on_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Nile Life</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=life</link>
+<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/07/Nile-Life-TV-Egypt.png</thumbnail>
+</item>
+
+<item>
+<title>Alfady TV</title>
+<link>rtmp://stream.truth-voice.net:1935/FadyLive playpath=FadyLive swfUrl=http://player.alfadytv.tv/player.swf live=true timeout=15 pageUrl=http://131.253.14.98/proxy.ashx?h=ercHUFraWx0Mtw2rHkQXBCeNmdqvf7Rs&a=http%3A%2F%2Falfadytv.tv%2Fwatchlive10%2F%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/s160x160/562205_301744929893639_729744324_a.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alkarma TV</title>
+<link>rtmp://flash.alkarmatv.com:1935/karmatv_na playpath=karmatv_na2 swfUrl=http://www.alkarmatv.com/liveplayer/player.swf live=true timeout=15 pageUrl=http://www.alkarmatv.com/watch-alkarma-na</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/AlKarma-TV.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>CTV Coptic TV</title>
+<link>rtmp://sc-lb1.streamcyclone.com/ctvch_live playpath=ctvch swfUrl=http://manage.streamcyclone.com/player/player.swf</link>
+<thumbnail>http://www.worldlanguagestv.com/logos/ctv-coptic.png</thumbnail>
+</item>
+
+<item>
+<title>CBC +2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8</link>
+<thumbnail>http://egylab.ucoz.com/tv/imge/cbc2channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Hayat</title>
+<link>rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahme.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=SztU_CsuwGz67FqjMyILRzatq-RM4oFvQCnLyznGPiA.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTM2ODU3NDg3NCwicGFnZSI6eyJpZCI6IjE4NzI2OTY0Nzk2OTE1NyIsImxpa2VkIjpmYWxzZSwiYWRtaW4iOmZhbHNlfSwidXNlciI6eyJjb3VudHJ5IjoidXMiLCJsb2NhbGUiOiJlbl9VUyIsImFnZSI6eyJtaW4iOjAsIm1heCI6MTJ9fX0</link>
+<thumbnail>http://4.bp.blogspot.com/-GMfZbePIg7s/UVrJbMggvBI/AAAAAAAACgQ/tzvexdIcfnw/s320/Al+Hayat+TV+Live+(Egypt).jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Hayat 2</title>
+<link>rtmp://media.islamexplained.com:1935/live/_definst_ playpath=mp4:ahusa.stream_240p swfUrl=http://islamexplained.com/portals/0/public/player.swf live=true timeout=15
+pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eopP6-Vw6RwvHu256k9MOUpQjLzOYkg.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTM2ODU3NDkxOSwicGFnZSI6eyJpZCI6IjE4NzI2OTY0Nzk2OTE1NyIsImxpa2VkIjpmYWxzZSwiYWRtaW4iOmZhbHNlfSwidXNlciI6eyJjb3VudHJ5IjoidXMiLCJsb2NhbGUiOiJlbl9VUyIsImFnZSI6eyJtaW4iOjAsIm1heCI6MTJ9fX0</link>
+<thumbnail>http://4.bp.blogspot.com/-GMfZbePIg7s/UVrJbMggvBI/AAAAAAAACgQ/tzvexdIcfnw/s320/Al+Hayat+TV+Live+(Egypt).jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rotana Music</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanamousicalive playpath=rotanamousica_360p swfUrl=http://mousica.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mousica.rotana.net/r/live-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Khalijia</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanakhalijialive playpath=rotanakhalijia_360p live=true timeout=15 swfUrl=http://khalijia.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://khalijia.rotana.net/r/live-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rotana_khalijia.png
+</thumbnail>
+</item>
+
+<item>
+<title>Rotana Aflam</title>
+<link>rtmp://95.211.168.142:1935/teledunet playpath=rotana_aflam swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&repeat=single&streamer=rtmp%3A//95.211.168.142%3A1935/teledunet&file=rotana_aflam&provider=rtmp&autostart=true&skin2=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/rotana_aflam</link>
+<thumbnail>http://3.bp.blogspot.com/-rLMbmKfmhMc/UKB0_Nd6YUI/AAAAAAAABl0/voG3pT5HdhI/s1600/rotana_aflam.png</thumbnail>
+</item> 
+
+<item>
+<title>Rotana Clip</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanacliplive/rotanaclip_360p</link>
+<thumbnail>http://watchtv.co/wp-content/uploads/2012/07/Rotana-Clip.jpg</thumbnail>
+</item> 
+
+
+<item>
+<title>Rotana Cinema</title>
+<link>rtmp://livestreaming4.itworkscdn.net/rotanacinemalive playpath=rotanacinema_360p live=true timeout=15 swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://cinema.rotana.net/r/live-tv</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/saudi-arabia/200-Rotana-Cinema-11.jpg</thumbnail>
+</item>
+
+<item>
+<title>Moga Comedy</title>
+<link>rtmp://46.165.196.36/live playpath=azsq879?id=149842 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq879/1/600/380</link>
+<thumbnail>http://4.bp.blogspot.com/_PhF2xiVgYV0/TC6igYIeXOI/AAAAAAAAAHE/1kGf2MMfgl8/s1600/moga-comedy.jpg</thumbnail>
+</item>
+
+<item>
+<title>EL NHAR TV</title> 
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=npuXEET_dMQ</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/al-nahar-channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Melody Drama</title> 
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ygHfYFX5xnc</link>
+<thumbnail>http://www.n2hr.com/up/uploads/images/n2hrcom-c00ad54266.jpg</thumbnail>
+</item>
+
+<item>
+<title>EL BALAD DRAMA</title> 
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T1oJUSGjjD4</link>
+<thumbnail>http://www.arab-tvs.com/EgyptianTvs/images/ElBalad-Drama.JPG</thumbnail>
+</item>
+
+</channel>

@@ -1,0 +1,1446 @@
+http://www.navixtreme.com/playlist/112567/live_tv_channels.plx
+
+
+
+# 1683188
+type=video
+name=FOX SPORT + HD (720p)
+date=2013-04-01
+URL=http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8
+player=default
+rating=-1.00
+
+# 1664802
+type=video
+name=Eurosport 1
+URL=http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
+player=default
+rating=-1.00
+
+# 1664803
+type=video
+name=Eurosport 2
+URL=http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
+player=default
+rating=-1.00
+
+# 1664806
+type=video
+name=Extreme sports
+URL=http://94.242.221.141/hls/a-lo/stream13.m3u8
+player=default
+rating=-1.00
+
+# 1664808
+type=video
+name=Russian Extreme
+URL=rtmp://194.63.143.117:80/live/_definst_ pageUrl=http://livetvstreaming.ucoz.com playpath=HDextremeCDN live=1
+player=default
+rating=-1.00
+
+# 1664819
+type=video
+name=Discovery Channel
+URL=http://94.242.221.141/hls/a-lo/stream141.m3u8
+player=default
+rating=-1.00
+
+# 1664822
+type=video
+name=France 24
+URL=http://94.242.221.141/hls/a-lo/stream125.m3u8
+player=default
+rating=-1.00
+
+# 1664826
+type=video
+name=A russian sport channel
+URL=http://94.242.221.141/hls/a-lo/stream121.m3u8
+player=default
+rating=-1.00
+
+# 1664831
+type=video
+name=Universal Channel
+URL=http://94.242.221.141/hls/a-lo/stream110.m3u8
+player=default
+rating=-1.00
+
+# 1664838
+type=video
+name=poccnr 2
+URL=http://94.242.221.141/hls/a-lo/stream10.m3u8
+player=default
+rating=-1.00
+
+# 1664843
+type=video
+name=CTC
+URL=http://94.242.221.141/hls/a-lo/stream23.m3u8
+player=default
+rating=-1.00
+
+# 1664845
+type=video
+name=MTV
+URL=http://94.242.221.141/hls/a-lo/stream24.m3u8
+player=default
+rating=-1.00
+
+# 1664852
+type=video
+name=Russian music channel
+URL=http://94.242.221.141/hls/a-lo/stream25.m3u8
+player=default
+rating=-1.00
+
+# 1664857
+type=video
+name=pepper Channel
+URL=http://94.242.221.141/hls/a-lo/stream26.m3u8
+player=default
+rating=-1.00
+
+# 1664861
+type=video
+name=2x2 russian tv
+URL=http://94.242.221.141/hls/a-lo/stream27.m3u8
+player=default
+rating=-1.00
+
+# 1664866
+type=video
+name=national geographic channel
+URL=http://94.242.221.141/hls/a-lo/stream50.m3u8
+player=default
+rating=-1.00
+
+# 1664870
+type=video
+name=Euronews
+URL=http://94.242.221.141/hls/a-lo/stream31.m3u8
+player=default
+rating=-1.00
+
+# 1664871
+type=video
+name=Cartoon Network
+URL=http://94.242.221.141/hls/a-lo/stream32.m3u8
+player=default
+rating=-1.00
+
+# 1664872
+type=video
+name=Animal Planet
+URL=http://94.242.221.141/hls/a-lo/stream34.m3u8
+player=default
+rating=-1.00
+
+# 1664875
+type=video
+name=aemckuutv old cartoons channel
+URL=http://94.242.221.141/hls/a-lo/stream35.m3u8
+player=default
+rating=-1.00
+
+# 1664878
+type=video
+name=Nickelodeon
+URL=http://94.242.221.141/hls/a-lo/stream36.m3u8
+player=default
+rating=-1.00
+
+# 1664879
+type=video
+name=Bloomberg
+URL=http://94.242.221.141/hls/a-lo/stream37.m3u8
+player=default
+rating=-1.00
+
+# 1664880
+type=video
+name=Discovery World
+URL=http://94.242.221.141/hls/a-lo/stream39.m3u8
+player=default
+rating=-1.00
+
+# 1664881
+type=video
+name=Mezzo
+URL=http://94.242.221.141/hls/a-lo/stream41.m3u8
+player=default
+rating=-1.00
+
+# 1664883
+type=video
+name=CBC Reality
+URL=http://94.242.221.141/hls/a-lo/stream42.m3u8
+player=default
+rating=-1.00
+
+# 1664887
+type=video
+name=VH1
+URL=http://77.91.77.22:6108/?sid=546c1bbc1b5786d3c62f2a8zec3c5205
+player=default
+rating=-1.00
+
+# 1664891
+type=video
+name=ABTO
+URL=http://94.242.221.141/hls/a-lo/stream46.m3u8
+player=default
+rating=-1.00
+
+# 1664896
+type=video
+name=Fighter Channel
+URL=http://94.242.221.141/hls/a-lo/stream47.m3u8
+player=default
+rating=-1.00
+
+# 1664897
+type=video
+name=TV1000
+URL=http://94.242.221.141/hls/a-lo/stream53.m3u8
+player=default
+rating=-1.00
+
+# 1664899
+type=video
+name=Viasat Explorer
+URL=http://94.242.221.141/hls/a-lo/stream56.m3u8
+player=default
+rating=-1.00
+
+# 1664904
+type=video
+name=Viasat History
+URL=http://94.242.221.141/hls/a-lo/stream57.m3u8
+player=default
+rating=-1.00
+
+# 1664909
+type=video
+name=Ice hockey channel
+URL=http://94.242.221.141/hls/a-lo/stream120.m3u8
+player=default
+rating=-1.00
+
+# 1665733
+type=video
+name=BBC World News
+URL=rtmp://live.ilive.to:1935/redirect/1kmj8d0b78n6w9m pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.sw
+player=default
+rating=-1.00
+
+# 1665736
+type=video
+name=RT News
+URL=http://94.242.221.141/hls/a-lo/stream140.m3u8
+processor=http://www.navixtreme.com/justme4u2c/processors/ESPN_Deportes.php
+player=default
+rating=-1.00
+
+# 1665740
+type=video
+name=Comedy Central
+URL=http://94.242.221.141/hls/a-lo/stream170.m3u8
+player=default
+rating=-1.00
+
+# 1665741
+type=video
+name=VH1 Classic
+URL=http://94.242.221.141/hls/a-lo/stream173.m3u8
+player=default
+rating=-1.00
+
+# 1665748
+type=video
+name=Cnopt 1 HD
+URL=http://94.242.221.141/hls/a-lo/stream175.m3u8
+player=default
+rating=5.00
+
+# 1665759
+type=video
+name=MTV Hits
+URL=http://94.242.221.141/hls/a-lo/stream153.m3u8
+processor=http://www.navixtreme.com/justme4u2c/processors/ESPN_Deportes.php
+player=default
+rating=-1.00
+
+# 1665764
+type=video
+name=Real Madrid  TV
+URL=http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8
+player=default
+rating=-1.00
+
+# 1665771
+type=video
+name=Cooking Channel
+URL=http://94.242.221.141/hls/a-lo/stream146.m3u8
+player=default
+rating=-1.00
+
+# 1665778
+type=video
+name=Zee TV
+URL=http://94.242.221.141/hls/a-lo/stream115.m3u8
+player=default
+rating=-1.00
+
+# 1665781
+type=video
+name=Jim Jam
+URL=http://94.242.221.141/hls/a-lo/stream108.m3u8
+player=default
+rating=-1.00
+
+# 1665786
+type=video
+name=S News
+URL=http://94.242.221.141/hls/a-lo/stream107.m3u8
+player=default
+rating=-1.00
+
+# 1665788
+type=video
+name=Action Tv 1000
+URL=http://94.242.221.141/hls/a-lo/stream106.m3u8
+player=default
+rating=-1.00
+
+# 1665791
+type=video
+name=Fashion Tv
+URL=http://94.242.221.141/hls/a-lo/stream104.m3u8
+player=default
+rating=-1.00
+
+# 1665793
+type=video
+name=Cartoon channel
+URL=http://94.242.221.141/hls/a-lo/stream94.m3u8
+player=default
+rating=-1.00
+
+# 1665796
+type=video
+name=Fox
+URL=http://94.242.221.141/hls/a-lo/stream89.m3u8
+player=default
+rating=-1.00
+
+# 1665797
+type=video
+name=AXN sci fi
+URL=http://94.242.221.141/hls/a-lo/stream87.m3u8
+player=default
+rating=-1.00
+
+# 1665798
+type=video
+name=MTV Dance
+URL=http://94.242.221.141/hls/a-lo/stream80.m3u8
+player=default
+rating=-1.00
+
+# 1665809
+type=video
+name=NAS FUTBOL
+URL=http://94.242.221.141/hls/a-lo/stream63.m3u8
+player=default
+rating=-1.00
+
+# 1665814
+type=video
+name=Travel +
+URL=http://94.242.221.141/hls/a-lo/stream55.m3u8
+player=default
+rating=-1.00
+
+# 1665821
+type=video
+name=CNN
+URL=rtmp://cp108476.live.edgefcs.net/live/cnn_1_800@45497 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+player=default
+rating=-1.00
+
+# 1665822
+type=video
+name=CBC Drama
+URL=http://94.242.221.141/hls/a-lo/stream33.m3u8
+player=default
+rating=-1.00
+
+# 1665827
+type=video
+name=1 tv
+URL=http://94.242.221.141/hls/a-lo/stream15.m3u8
+player=default
+rating=-1.00
+
+# 1665849
+type=video
+name=Dance TV Hungary
+URL=mms://dancetv.dyndns.org/dancetv
+player=default
+rating=-1.00
+
+# 1665850
+type=video
+name=Disney Channel
+URL=http://fms3.mediadirect.ro/live3/_definst_/disney/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1665851
+type=video
+name=Music channel 3
+URL=http://94.242.221.141/hls/a-lo/stream147.m3u8
+player=default
+rating=-1.00
+
+# 1665853
+type=video
+name=HTB
+URL=http://94.242.221.141/hls/a-lo/stream18.m3u8
+player=default
+rating=-1.00
+
+# 1665856
+type=video
+name=Ho tv
+URL=http://94.242.221.141/hls/a-lo/stream25.m3u8
+player=default
+rating=-1.00
+
+# 1666055
+type=video
+name=Sky sports 1
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3934
+player=default
+rating=-1.00
+
+# 1666063
+type=video
+name=Canal+ Sport HD Poland
+URL=rtmp://50.7.168.162:80/stream12?token=30/mystream?token=30
+player=default
+rating=-1.00
+
+# 1671568
+type=video
+name=Rai 1
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3976
+player=default
+rating=-1.00
+
+# 1671573
+type=video
+name=English Club TV
+URL=http://94.242.221.141/hls/a-lo/stream132.m3u8
+player=default
+rating=-1.00
+
+# 1671577
+type=video
+name=SPORT CH1
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3986
+player=default
+rating=-1.00
+
+# 1671579
+type=video
+name=SPORT CH2
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/4013
+player=default
+rating=-1.00
+
+# 1671580
+type=video
+name=SPORT CH3
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3934
+player=default
+rating=-1.00
+
+# 1671581
+type=video
+name=SPORT CH4
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/4003
+player=default
+rating=-1.00
+
+# 1671582
+type=video
+name=SPORT CH5
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3994
+player=default
+rating=-1.00
+
+# 1671583
+type=video
+name=SPORT CH6
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3903
+player=default
+rating=-1.00
+
+# 1671585
+type=video
+name=SPORT CH7
+URL=rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3976
+player=default
+rating=-1.00
+
+# 1671591
+type=video
+name=HUBEI SPORTS
+URL=http://218.202.219.67/channels/xjyx/JinBaoTiYu-Suma/flv:300k_flv
+player=default
+rating=-1.00
+
+# 1671594
+type=video
+name=SHANGHAI SPORTS
+URL=http://live-cdn1.smgbb.tv/channels/bbtv/ssty/flv:sd
+player=default
+rating=-1.00
+
+# 1671595
+type=video
+name=TENNIS
+URL=rtmp://live2.tdm.com.mo:80/tv/ch6.live
+player=default
+rating=-1.00
+
+# 1673260
+type=video
+name=NATIONAL GEOGRAPHIC WILD
+URL=http://94.242.221.141/hls/a-lo/stream112.m3u8
+player=default
+rating=-1.00
+
+# 1673261
+type=video
+name=Discovery ID
+URL=http://94.242.221.141/hls/a-lo/stream138.m3u8
+player=default
+rating=-1.00
+
+# 1675759
+type=video
+name=Sky Sports 1
+URL=rtmp://95.138.168.10/live/skysp1
+player=default
+rating=-1.00
+
+# 1675760
+type=video
+name=Sky Sports 2
+URL=rtmp://95.138.168.10/live/skysp2
+player=default
+rating=-1.00
+
+# 1675761
+type=video
+name=Sky Sports 3
+URL=rtmp://95.138.168.10/live/skysp3
+player=default
+rating=-1.00
+
+# 1675762
+type=video
+name=Sky Sports News
+URL=rtmp://95.138.168.10/live/skyspnews
+player=default
+rating=-1.00
+
+# 1675766
+type=video
+name=Comedy Central  English audio
+URL=rtmp://95.138.168.10/live/comedy
+player=default
+rating=-1.00
+
+# 1675769
+type=video
+name=SCI FI Universal
+URL=http://cds-se1.se.cds-sr1.vmo2.sbb.rs/live/ramdisk/scifi_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675770
+type=video
+name=Fox Life English audio
+URL=http://cds-se1.se.cds-sr1.vmo2.sbb.rs/live/disk/fox_life_srb/hls/hls-audio101_eng%3D64000-video%3D1400000.m3u8
+player=default
+rating=-1.00
+
+# 1675775
+type=video
+name=Animal Planet English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/animal_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675782
+type=video
+name=AXN  English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/axn_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675791
+type=video
+name=Cinestar  English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/cinestar_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675794
+type=video
+name=Cinestar  Action English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/cinestar_at_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675796
+type=video
+name=DISCOVERY CHANNEL English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/disk/discovery_srb/hls/hls-audio101_eng%3D64000-video%3D1400000.m3u8
+player=default
+rating=-1.00
+
+# 1675797
+type=video
+name=Discovery ID English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/disc_id_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675798
+type=video
+name=Fox Crime English audio
+URL=http://cds-se1.se.cds-sr1.vmo2.sbb.rs/live/disk/fox_crime_srb/hls/hls-audio101_eng%3D64000-video%3D1400000.m3u8
+player=default
+rating=-1.00
+
+# 1675799
+type=video
+name=Fox Movies English audio
+URL=http://cds-se1.se.cds-sr1.vmo2.sbb.rs/live/disk/fox_movies_srb/hls/hls-track_1%3D64000-video%3D1400000.m3u8
+player=default
+rating=-1.00
+
+# 1675802
+type=video
+name=GOLFKLUB
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/golf_klub_srb/hls/hls-track_1%3D64000-video%3D1440000.m3u8
+player=default
+rating=-1.00
+
+# 1675807
+type=video
+name=NATIONAL GEOGRAPHIC English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/disk/ngc_srb/hls/hls-audio101_eng%3D64000-video%3D1400000.m3u8
+player=default
+rating=-1.00
+
+# 1675812
+type=video
+name=MINIAX
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/minimax_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675821
+type=video
+name=TRAVEL CHANNEL English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/ramdisk/travel_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675822
+type=video
+name=Universal Channel English audio
+URL=http://cds-se1.se.cds-sr1.vmo2.sbb.rs/live/disk/universal_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1675823
+type=video
+name=Aljadeed HQ2
+URL=rtmp://aljadeedlive.itw-hosting.net/jadeedlive playpath=live_1 swfUrl=http://www.itworks-me.net/jadeed/player.swf live=1 pageUrl=http://www.itworks-me.net/jadeed/
+player=default
+rating=-1.00
+
+# 1675825
+type=video
+name=Baby TV Russia
+URL=https://dl.dropbox.com/s/m0duieakyi2r8w5/baby.m3u?token_hash=AAHmkPqJ_Q8weuj7gQvhyf4UsKoVwzdTL8e2KNxMIuep-A&dl=1
+player=default
+rating=-1.00
+
+# 1675829
+type=video
+name=ESPN UK
+URL=rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430 live=1
+player=default
+rating=-1.00
+
+# 1675834
+type=video
+name=Disney Junior
+URL=rtmp://178.33.229.39/edge playpath=2tag4dzgwof5ma2 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=38804/Disney_channel&autoplay=true live=1
+player=default
+rating=-1.00
+
+# 1675851
+type=video
+name=TNT US
+URL=rtmp://178.33.229.17/edge playpath=6ywadf790osnyxl pageUrl=http://www.ilive.to/view/45244/watch-live-TNT-channel-for-free swfUrl=http://static.ilive.to/jwplayer/player.swf
+player=default
+rating=-1.00
+
+# 1675852
+type=video
+name=CBC EAST US
+URL=rtmp://37.59.35.215/edge playpath=nx82e47g1025mdc swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/45469/watch-live-CBS-channel-for-free
+player=default
+rating=-1.00
+
+# 1675858
+type=video
+name=Sky Sports News HD (720p)
+URL=rtmp://109.163.236.88:1935/live/channel8
+player=default
+rating=-1.00
+
+# 1675879
+type=video
+name=HBO HD (720p)
+URL=http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8
+player=default
+rating=-1.00
+
+# 1675881
+type=video
+name=NAT GEO WILD English audio
+URL=http://211.79.36.141/iTV/segments/ch71/03.m3u8
+player=default
+rating=-1.00
+
+# 1675884
+type=video
+name=ESPN
+URL=rtmp://46.246.29.159:1935/stream playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php live=1
+player=default
+rating=-1.00
+
+# 1675885
+type=video
+name=ESPN 2
+URL=rtmp://live.ilive.to:1935/redirect/r0an48lzpf3fd6t pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.swf
+player=default
+rating=-1.00
+
+# 1675914
+type=video
+name=DOLCE SPORT
+URL=http://fms3.mediadirect.ro/live3/_definst_/dolcesporthd/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1675940
+type=video
+name=Filmbox HD
+URL=http://fms3.mediadirect.ro/live3/_definst_/filmboxhd/chunklistt.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1675946
+type=video
+name=TVR HD
+URL=http://fms3.mediadirect.ro/live3/_definst_/tvrhd/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1675964
+type=video
+name=RTL DE
+URL=http://webtv-aarh-8.stofa.dk:80/187_01.m3u8
+player=default
+rating=-1.00
+
+# 1675966
+type=video
+name=ARTE DE
+URL=http://webtv-aarh-8.stofa.dk:80/180_01.m3u8
+player=default
+rating=-1.00
+
+# 1675968
+type=video
+name=NDR DE
+URL=http://webtv-aarh-7.stofa.dk:80/186_01.m3u8
+player=default
+rating=-1.00
+
+# 1675970
+type=video
+name=3sat DE
+URL=http://webtv-aarh-8.stofa.dk:80/182_01.m3u8
+player=default
+rating=-1.00
+
+# 1675973
+type=video
+name=KIKA DE
+URL=http://webtv-aarh-8.stofa.dk:80/183_01.m3u8
+player=default
+rating=-1.00
+
+# 1675975
+type=video
+name=RTL 2 DE
+URL=http://webtv-aarh-8.stofa.dk:80/188_01.m3u8
+player=default
+rating=-1.00
+
+# 1675976
+type=video
+name=VOX DE
+URL=http://webtv-aarh-8.stofa.dk:80/190_01.m3u8
+player=default
+rating=-1.00
+
+# 1675980
+type=video
+name=SAT1 DE
+URL=http://webtv-aarh-8.stofa.dk:80/193_01.m3u8
+player=default
+rating=-1.00
+
+# 1675982
+type=video
+name=ARD DE
+URL=http://webtv-aarh-9.stofa.dk:80/179_01.m3u8
+player=default
+rating=-1.00
+
+# 1675983
+type=video
+name=ZDF DE
+URL=http://webtv-aarh-9.stofa.dk:80/184_01.m3u8
+player=default
+rating=-1.00
+
+# 1675984
+type=video
+name=SUPER RTL DE
+URL=http://webtv-aarh-9.stofa.dk:80/189_01.m3u8
+player=default
+rating=-1.00
+
+# 1675985
+type=video
+name=VIVA DE
+URL=http://webtv-aarh-9.stofa.dk:80/195_01.m3u8
+player=default
+rating=-1.00
+
+# 1675986
+type=video
+name=Fashion Box HD
+URL=http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+player=default
+rating=-1.00
+
+# 1675987
+type=video
+name=DOCU BOX HD
+URL=http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8
+player=default
+rating=-1.00
+
+# 1675988
+type=video
+name=FIGHT BOX HD
+URL=http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8
+player=default
+rating=-1.00
+
+# 1675997
+type=video
+name=Boomerang
+URL=http://fms3.mediadirect.ro/live3/_definst_/bomerang/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1675999
+type=video
+name=Cartoon Network stream 2
+URL=http://fms3.mediadirect.ro/live3/_definst_/cartoon/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1676000
+type=video
+name=Disney Channel stream 2
+URL=http://fms3.mediadirect.ro/live3/_definst_/disney/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1676001
+type=video
+name=Disney Junior Stream 2
+URL=http://fms3.mediadirect.ro/live3/_definst_/disneyjr/chunklist.m3u8?publisher=portaltv.ro
+player=default
+rating=-1.00
+
+# 1676003
+type=video
+name=NOVA SPORT HD
+URL=rtmp://wcdn31.nacevi.cz:80/nova-sport/nova-sport-288p.stream
+player=default
+rating=-1.00
+
+# 1676004
+type=video
+name=Nova Sports 3
+URL=rtmp://178.21.18.145/liveedge playpath=ch10-st7udj1dlgc swfUrl=http://cast4you.tv/p1.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch10-st7udj1dlgc&width=100%&height=95%
+player=default
+rating=-1.00
+
+# 1676008
+type=video
+name=Truesport HD (720P)
+URL=rtmp://58.97.57.150/live playpath=hd01 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+player=default
+rating=-1.00
+
+# 1676009
+type=video
+name=Truesport HD 2 (720P)
+URL=rtmp://58.97.57.150/live playpath=hd02 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+player=default
+rating=-1.00
+
+# 1676010
+type=video
+name=1 HD Russia (1080p)
+URL=http://77.91.77.22:6179/?sid=546c1bbc1b5786d3c62f2a8zec3c5205
+player=default
+rating=-1.00
+
+# 1676014
+type=video
+name=Animal Planet HD (720p)
+URL=rtmp://s01.webport.tv/promo2/ playpath=mtv swfUrl=http://futuboxhd.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.serbiaplus.com/
+player=default
+rating=-1.00
+
+# 1676033
+type=video
+name=NATGEO HD English audio
+URL=http://211.79.36.141/iTV/segments/ch70/03.m3u8
+player=default
+rating=-1.00
+
+# 1676035
+type=video
+name=NAT GEO WILD English audio
+URL=http://211.79.36.141/iTV/segments/ch71/03.m3u8
+player=default
+rating=-1.00
+
+# 1676882
+type=video
+name=ESPN AMERICA
+URL=http://cds-sr1.vmo2.sbb.rs/live/ramdisk/espn_slo/hls1/espn_slo_q4.m3u8
+player=default
+rating=-1.00
+
+# 1676883
+type=video
+name=PREMIERE LEAGUE LIVE
+URL=http://cds-se2.se.cds-sr1.vmo2.sbb.rs/live/ramdisk/ch3/test01/ch3_q2.m3u8
+player=default
+rating=-1.00
+
+# 1676885
+type=video
+name=HISTORY CHANNEL English audio
+URL=http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/disk/history_srb/hls/hls-track_1%3D64000-video%3D1340000.m3u8
+player=default
+rating=-1.00
+
+# 1677208
+type=video
+name=Aljazeera Sport 1
+URL=rtmp://www.teledunet.com/teledunet?id=darhoumiamine/aljazeera_sport_1
+player=default
+rating=-1.00
+
+# 1677220
+type=video
+name=Sky Sports 1 HD (720p)
+URL=rtmp://109.163.236.88:1935/live/channel1
+player=default
+rating=-1.00
+
+# 1677223
+type=video
+name=Aljazeera Sport 2
+URL=rtmp://www.teledunet.com/teledunet?id=darhoumiamine/aljazeera_sport_2
+player=default
+rating=-1.00
+
+# 1677229
+type=video
+name=Nova Sports
+URL=http://212.79.96.134:8023
+player=default
+rating=-1.00
+
+# 1677233
+type=video
+name=Chelsea TV
+URL=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.serbiaplus.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1
+player=default
+rating=-1.00
+
+# 1677906
+type=video
+name=Setanta
+date=2013-03-28
+URL=rtmp://212.7.206.66:1935/live/_definst_/dfewrtesd playpath=dfewrtesd swfUrl=http://cdn.yycast.com/player/player.swf pageurl=http://www.yycast.com/embed.php?fileid=dfewrtesd&vw=620&vh=490 live=true timeout=9
+player=default
+rating=-1.00
+
+# 1677909
+type=video
+name=Sport TV1
+date=2013-03-28
+URL=rtmp://46.246.29.130:1935/stream/Nu9rf0r52e3.stream pageUrl=http://www.04stream.com swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true
+player=default
+rating=-1.00
+
+# 1677910
+type=video
+name=Sport TV2
+date=2013-03-28
+URL=rtmp://173.192.200.78:443/kuyo playpath=sssa swfUrl=http://yukons.net/player.swf?streamer=rtmp://173.192.200.78:443/kuyo&file=sssa&autostart=true live=1 pageUrl=http://yukons.net
+player=default
+rating=-1.00
+
+# 1677921
+type=video
+name=ITV 4 UK
+date=2013-03-28
+URL=rtsp://live302.edge.filmon.com/live/101.high.stream
+player=default
+rating=-1.00
+
+# 1677932
+type=video
+name=ITV 2 UK
+date=2013-03-28
+URL=rtsp://live302.edge.filmon.com/live/67.high.stream
+player=default
+rating=-1.00
+
+# 1677934
+type=video
+name=ITV 1 UK
+date=2013-03-28
+URL=rtsp://live302.edge.filmon.com/live/11.high.stream
+player=default
+rating=-1.00
+
+# 1677936
+type=video
+name=Channel 4 More UK
+date=2013-03-28
+URL=rtsp://live304.edge.filmon.com/live/97.high.stream
+player=default
+rating=-1.00
+
+# 1677940
+type=video
+name=Sky Sports F1
+date=2013-03-28
+URL=rtmp://95.138.168.10/live/ playpath=skyspf1 swfUrl=http://www.serbiaplus.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.serbiaplus.com/sky-sports-f1-hd/
+player=default
+rating=-1.00
+
+# 1677947
+type=video
+name=Channel 5 UK
+date=2013-03-28
+URL=rtsp://live303.edge.filmon.com/live/22.high.stream
+player=default
+rating=-1.00
+
+# 1677979
+type=video
+name=BBC ONE UK
+date=2013-03-28
+URL=http://proxy0.brussels.weepeetv.eu/bbc1/bbc1.m3u8
+player=default
+rating=-1.00
+
+# 1677980
+type=video
+name=Lig Tv 2 HD
+date=2013-03-28
+URL=rtmp://109.202.102.9/freecastEdge playpath=liktv_token49399 swfUrl=http://www.freecast.in/swfs/player.swf pageUrl=http://www.freecast.in/embed.php?file=liktv&width=600&height=400 live=1
+player=default
+rating=-1.00
+
+# 1677985
+type=video
+name=Sky sports 1 HD / premier league channel (720p)
+date=2013-03-28
+URL=http://cds-se2.se.cds-sr1.vmo2.sbb.rs/live/ramdisk/ch3/test01/ch3_q3.m3u8
+player=default
+rating=-1.00
+
+# 1677993
+type=video
+name=Pik-TV HD (720p)
+date=2013-03-28
+URL=rtmp://fms.pik-tv.com/live/piktv3pik3tv
+player=default
+rating=-1.00
+
+# 1678005
+type=video
+name=Al Loloa HD
+date=2013-03-28
+URL=rtmp://www.teledunet.com/teledunet?id=darhoumiamine/al_loloa_hd
+player=default
+rating=-1.00
+
+# 1678023
+type=video
+name=sport1 hd
+date=2013-03-28
+URL=rtmp://livestream2.tv-kino.net:1935/stream/ playpath=ard swfUrl=http://stream.tv-kino.net/player.swf live=1 pageUrl=http://www.tv-kino.net/stream/live/de/ard-hd.html
+player=default
+rating=-1.00
+
+# 1678025
+type=video
+name=NBA TV
+date=2013-03-28
+URL=rtmp://91.236.115.70:1935/stream playpath=f2OI8s.stream swfUrl=http://cdn3.04stream.com/p/yui.swf live=1 pageUrl=http://www.04stream.com/ebb.phpturksatelit
+player=default
+rating=-1.00
+
+# 1678042
+type=video
+name=BBC TWO UK
+date=2013-03-28
+URL=rtmp://live.ilive.to:1935/redirect/jkgbg7vq8fcjgjl pageUrl=http://www.ilive.to swfUrl=http://static.ilive.to/jwplayer/player.swf
+player=default
+rating=-1.00
+
+# 1678079
+type=video
+name=Fox Sports
+date=2013-03-28
+URL=rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:espn.360p swfUrl=http://hayhaytv.vn/player/smartplayer.swf   token=na^tu12%28aqw pageUrl=http://hayhaytv.vn/livetv/fox-sports/-396E61.html live=true timeout=15
+player=default
+rating=-1.00
+
+# 1678080
+type=video
+name=CBL Classic HD Italy
+date=2013-03-28
+URL=http://streamlfree.live-onweb.com:51935/cblchannel/ch1/-11290293_quicklive/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1678129
+type=video
+name=SkyTG 24
+date=2013-03-28
+URL=rtmp://cp49989.live.edgefcs.net/live/streamRM1@2564
+player=default
+rating=-1.00
+
+# 1678165
+type=video
+name=N Premium
+date=2013-03-28
+URL=rtmp://50.7.168.162:80/stream1?token=30/mystream?token=30
+player=default
+rating=-1.00
+
+# 1678169
+type=video
+name=N Sport
+date=2013-03-28
+URL=rtmp://50.7.168.162:80/stream2?token=30/mystream?token=30
+player=default
+rating=-1.00
+
+# 1679149
+type=video
+name=CNBC-E
+date=2013-03-29
+URL=rtmp://origin2.nar.tv/dvrh264/cnbce/ playpath=mp4:cnbce swfUrl=http://www.yildiz.tv/dvr/dvrGoogle16.swf?v=1.6b live=1 pageUrl=http://www.yildiz.tv/
+player=default
+rating=-1.00
+
+# 1679151
+type=video
+name=Film 4 UK
+date=2013-03-29
+URL=rtmp://live4.gv.edge.filmon.com:1935/live/13.high.stream
+player=default
+rating=-1.00
+
+# 1679161
+type=video
+name=AXN HD (720p)
+date=2013-03-29
+URL=http://203.162.16.22/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8
+player=default
+rating=-1.00
+
+# 1679162
+type=video
+name=NBC US
+date=2013-03-29
+URL=rtmp://live.ilive.to:1935/redirect/q2bufwoa7lkxds3 pageUrl=http://www.ilive.to/ swfUrl=http://static.ilive.to/jwplayer/player.swf
+player=default
+rating=-1.00
+
+# 1679164
+type=video
+name=LiG 3 HD (720p)
+date=2013-03-29
+URL=rtmp://81.17.21.18/stream/ playpath=ui8h1w2B2i7.stream swfUrl=http://thecdn.04stream.com/p/ooolo1r.ates.swf live=r.ates pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
+player=default
+rating=-1.00
+
+# 1679166
+type=video
+name=LiG  TV HD
+date=2013-03-29
+URL=rtmp://81.17.21.18/stream/ playpath=ui8Y0Z5L2X0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1r.ates.swf live=r.ates pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
+player=default
+rating=-1.00
+
+# 1679167
+type=video
+name=Smart Spor
+date=2013-03-29
+URL=rtmp://81.17.21.18/stream/ playpath=ui8L2jH0k0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1r.ates.swf live=r.ates pageUrl=http://www.04stream.com/ebb.php?adsp&width=600&height=460
+player=default
+rating=-1.00
+
+# 1679652
+type=video
+name=Canal+1
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+player=default
+rating=-1.00
+
+# 1679653
+type=video
+name=Canal+2
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1040/02.m3u8
+player=default
+rating=-1.00
+
+# 1679654
+type=video
+name=Canal+3
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1050/02.m3u8
+player=default
+rating=-1.00
+
+# 1679655
+type=video
+name=Canal+4
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1300/02.m3u8
+player=default
+rating=-1.00
+
+# 1679657
+type=video
+name=Canal+5
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1060/02.m3u8
+player=default
+rating=-1.00
+
+# 1679659
+type=video
+name=Canal+8
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+player=default
+rating=-1.00
+
+# 1679660
+type=video
+name=Canal+17
+date=2013-03-29
+URL=http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+player=default
+rating=-1.00
+
+# 1679662
+type=video
+name=Nederland 3 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/ned3
+player=default
+rating=-1.00
+
+# 1679665
+type=video
+name=101 TV DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/101tv-bb
+player=default
+rating=-1.00
+
+# 1679666
+type=video
+name=Best 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/best24-bb
+player=default
+rating=-1.00
+
+# 1679667
+type=video
+name=Cultura 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/cultura24-bb
+player=default
+rating=-1.00
+
+# 1679668
+type=video
+name=HollandDoc 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/hollanddoc24-bb
+player=default
+rating=-1.00
+
+# 1679670
+type=video
+name=Humor TV DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/humortv24-bb
+player=default
+rating=-1.00
+
+# 1679671
+type=video
+name=Journaal 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/nos/journaal24-bb
+player=default
+rating=-1.00
+
+# 1679673
+type=video
+name=Politiek 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/nos/politiek24-bb
+player=default
+rating=-1.00
+
+# 1679674
+type=video
+name=Zappelin 24 DUTCH
+date=2013-03-29
+URL=http://livestreams.omroep.nl/npo/familie24-bb
+player=default
+rating=-1.00
+
+# 1679678
+type=video
+name=Sport 1 DE
+date=2013-03-29
+URL=rtmp://cp108478.live.edgefcs.net/live/sport1_1_800@45517 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+player=default
+rating=-1.00
+
+# 1679680
+type=video
+name=AT5 DUTCH
+date=2013-03-29
+URL=rtmp://82.94.228.201/live pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=live1.stream
+player=default
+rating=-1.00
+
+# 1679683
+type=video
+name=TV OOST DUTCH
+date=2013-03-29
+URL=mms://media.rtvoost.nl/TVOost
+player=default
+rating=-1.00
+
+# 1681405
+type=video
+name=Dolce Sport 2
+date=2013-03-30
+URL=rtmp://fms3.mediadirect.ro/live3/_definst_/ pageUrl=http://mediadirect.ro/ swfUrl=http://static1.mediadirect.ro/player-preload/swf/dolce_sport_293/player.swf playpath=dolcesport2
+player=default
+rating=-1.00
+
+# 1681408
+type=video
+name=GMG FOOTBALL
+date=2013-03-30
+URL=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgfoot live=1
+player=default
+rating=-1.00
+
+# 1681409
+type=video
+name=GMG SPORT 2
+date=2013-03-30
+URL=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport2 live=1
+player=default
+rating=-1.00
+
+# 1681410
+type=video
+name=GMG SPORT 1
+date=2013-03-30
+URL=rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr%2FdvrH.swf%3Fv%3D1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
+player=default
+rating=-1.00
+
+# 1681418
+type=video
+name=WORLD TRAVEL CHANNEL HD
+date=2013-03-30
+URL=rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+player=default
+rating=-1.00
+
+# 1681419
+type=video
+name=ENERGY TV
+date=2013-03-30
+URL=rtmp://50.7.28.146/live/lacajatvenergy swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.castamp.com live=1
+player=default
+rating=-1.00

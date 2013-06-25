@@ -1,0 +1,41 @@
+<name>Live Tv Channels 1         [COLOR red]Updated 6/11/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/generallivetv.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>149</mode>
+
+<name>Live Tv Channels 2         [COLOR red]Updated 4/3/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/generallivetv2.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>149</mode>
+
+<name>Live Tv Channels 3         [COLOR red]Updated 4/9/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/generallivetv3.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>168</mode>
+
+<name>Live UK TV Channels         [COLOR red]Updated 4/4/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/liveuktv.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>141</mode>
+
+<name>Sky Sports Channels         [COLOR red]Updated 4/10/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/skysports.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>140</mode>
+
+<name>Live Sports Channels</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/livesports2.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>158</mode>
+
+<name>XBMC TV</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/xbmctv.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>142</mode>
+
+<name>Arabic TV Channels         [COLOR red]Updated 5/8/2013[/COLOR]</name>
+<link>https://nkjtvt.googlecode.com/svn/trunk/playlists/arabic.xml</link>
+<thumbnail>hh</thumbnail>
+<mode>158</mode>
+
+

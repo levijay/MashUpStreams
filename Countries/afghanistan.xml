@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Afghanistan TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Pash Ashna TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://a1327.m.akastream.net:80/7/1327/2110/973023381/voice.download.akamai.com/2110/wm/voa/sca/pash/video/PASH_ASHNATV1400vb0523.wmv?WMCache=0</link>
+<thumbnail>http://www.zahistations.com/images/logo/6027VOA%20Pash%20Ashna%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pasho TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/10839762/streams/live/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/62/Pashtotv_logo.jpg/150px-Pashtotv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tolo News</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sUPPM72tdb0</link>
+<thumbnail>http://www.warrierfilms.com/wp-content/uploads/2011/06/tolo_news_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arezu TV</title>
+<link>rtmp://arezutv-live.cdn.ngenix.net/live/rtmp.stream playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf pageUrl=http://arezuonlinetv.com/</link>
+<thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
+</item>
+
+<item>
+<title>S.A.TV</title>
+<link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.satvlive.com/ timeout=15</link>
+<thumbnail>http://wwitv.com/tvlogos/b6512.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ariana TV </title>
+<link>http://62.27.87.54:4441/AfghanGbRlivestream</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Noor TV</title>
+<link>rtmp://ustreamlivefs.fplive.net/ustream3live-live/ playpath=stream_live_1_1_1738126 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://3.bp.blogspot.com/-hJ4PQEu3B_8/T_2OaTou78I/AAAAAAAAAPY/2oMyVqnMFu4/s1600/noor_tv_uk.png</thumbnail>
+</item>
+
+<item>
+<title>Farsi1 Tv</title>
+<link>http://ASX.JahanTV.Com/farsi1.asx</link>
+<thumbnail>http://1.bp.blogspot.com/-h5-6ClktD1w/TZd4ENr5yiI/AAAAAAAAIMk/jMNw2O4CnII/s1600/50413_68874909976_341214_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Shamshad</title>
+<link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/shamshad.php</link>
+<thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
+</item>
+
+
+<item>
+<title>GLWIZ</title>
+<link>http://38.117.88.155/homepage?TICKET=c962144dfc2aff89b4da88ed9fb02700%7c90491473</link>
+<thumbnail>http://www.arabiciptv.org/GLwiz/glwiz.jpg</thumbnail>
+</item>
+
+<item>
+<title>SA-TV</title>
+<link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/sa-tv.php</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SATVLogo.gif/220px-SATVLogo.gif</thumbnail>
+</item>
+
+<item>
+<title>Tamadon TV Live</title>
+<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15
+pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tamadon_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTA</title>
+<link>http://62.27.87.54:4442/AfghanGbRlivestream</link>
+<thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tolo TV</title>
+<link>http://62.27.87.54:4453/AfghanGbRlivestream</link>
+<thumbnail>http://steppesinsync.files.wordpress.com/2011/09/tolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>1TV</title>
+<link>http://62.27.87.54:4458/AfghanGbRlivestream</link>
+<thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
+</item>
+
+</channel>

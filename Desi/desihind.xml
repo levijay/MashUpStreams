@@ -1,0 +1,173 @@
+<item>
+<title>Star Plus</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=plusii swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=plusii&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/star_plus.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus HD</title>
+<link>rtmp://93.174.93.66/app playpath=hdplus swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=hdplus&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/star_plus_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Plus HD2</title>
+<link>embed/star_plushd22.php</link>
+<thumbnail>http://desistreams.tv/images/star_plus_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony TV</title>
+<link>rtmp://93.174.93.66/app playpath=hdsony swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=hdsony&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/sony_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sony TV HD</title>
+<link>embed/sony_tvhd.php</link>
+<thumbnail>http://desistreams.tv/images/sonyhd.gif</thumbnail>
+</item>
+
+<item>
+<title>Colors HD</title>
+<link>rtmp://93.174.93.66/app playpath=colorsdtv swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=colorsdtv&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/colors_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Zee TV</title>
+<link>embed/zeetv_hd.php</link>
+<thumbnail>http://desistreams.tv/images/zee_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee TV</title>
+<link>embed/zee_tv.php</link>
+<thumbnail>http://desistreams.tv/images/zee_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>embed/zee_cinema.php</link>
+<thumbnail>http://desistreams.tv/images/zee_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=star_gold66 swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=star_gold66&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/star_gold.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold HD</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=stargold_hd.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=stargold_hd&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/stargold_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Sab TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sabtvhq2.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=sabtvhq2&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/sab_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Colors</title>
+<link>embed/colors.php</link>
+<thumbnail>http://desistreams.tv/images/colors.jpg</thumbnail>
+</item>
+
+<item>
+<title>Colors HQ</title>
+<link>embed/colors_hq.php</link>
+<thumbnail>http://desistreams.tv/images/colors.jpg</thumbnail>
+</item>
+
+<item>
+<title>Life OK HQ</title>
+<link>embed/lifeok_high.php</link>
+<thumbnail>http://desistreams.tv/images/life_ok.jpg</thumbnail>
+</item>
+
+<item>
+<title>Set Max</title>
+<link>embed/set_max11.php</link>
+<thumbnail>http://desistreams.tv/images/set_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee TV</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/zee_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=zee_cinema98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=zee_cinema98&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/zee_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>B4u Movies</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430</link>
+<thumbnail>http://desistreams.tv/images/b4u_movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gemini TV</title>
+<link>embed/gemini_tv.php</link>
+<thumbnail>http://desistreams.tv/images/gemini_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gemini Movies</title>
+<link>embed/gemini_movies.php</link>
+<thumbnail>http://desistreams.tv/images/gemini_movies.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Utsav</title>
+<link>embed/star_utsav.php</link>
+<thumbnail>http://desistreams.tv/images/star_utsav.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Vijay</title>
+<link>embed/star_vijay.php</link>
+<thumbnail>http://desistreams.tv/images/star_vijay.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAA TV</title>
+<link>embed/maa_tv.php</link>
+<thumbnail>http://desistreams.tv/images/maa_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>SUN TV</title>
+<link>embed/sun_tv.php</link>
+<thumbnail>http://desistreams.tv/images/sun_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery Hindi</title>
+<link>embed/discovery_hindi.php</link>
+<thumbnail>http://desistreams.tv/images/discovery_hindi.jpg</thumbnail>
+</item>
+
+<item>
+<title>Brit Asia</title>
+<link>embed/brit_asia.php</link>
+<thumbnail>http://desistreams.tv/images/brit_asia.jpg</thumbnail>
+</item>
+
+<item>
+<title>Asianet Movies</title>
+<link>embed/asianet_movies.php</link>
+<thumbnail>http://desistreams.tv/images/asianet_movies.png</thumbnail>
+</item>
+
+<item>
+<title>Asianet East</title>
+<link>embed/asianet_east.php</link>
+<thumbnail>http://desistreams.tv/images/asianet_east.jpg</thumbnail>
+</item>

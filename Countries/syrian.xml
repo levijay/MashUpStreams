@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Syrian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Alekhbaria Syria (Link 6)</title>
+<link>mms://video.rtv.gov.sy/snews</link>
+<thumbnail>http://migoptv.googlecode.com/files/ekhbaria-syria.jpg</thumbnail>
+</item>
+
+<item>
+<title>Syria TV</title>
+<link>http://149.62.177.6:9014</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Addounia TV</title>
+<link>rtmp://95.211.184.203/oflaDemo playpath=samalive swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live</link>
+<thumbnail>http://www.6rrb.net/tv/files/image/ADDOUNIA25879.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sama Syria</title>
+<link>rtmp://176.31.234.158:1935/live playpath=live swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.freetv247.com/content/sama-syria-online-tv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah</title>
+<link>http://video.rtv.gov.sy/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 2)</title>
+<link>mms://82.137.248.17/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 3)</title>
+<link>rtsp://82.137.248.17:554/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 4)</title>
+<link>rtsp://82.137.248.17/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Ekhbariya Al Soriyah (Link 5)</title>
+<link>mmsh://video.rtv.gov.sy/snews</link>
+<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
+</item>
+
+
+</channel>

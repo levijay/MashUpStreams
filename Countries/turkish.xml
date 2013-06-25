@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Turkish TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>NTV</title>
+<link>mms://85.111.3.55/ntv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/90/NTV_%28Turkey%29_logo.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC-E</title>
+<link>mms://85.111.3.55/cnbce</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png</thumbnail>
+</item>
+
+
+
+</channel>

@@ -1,0 +1,66 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Iraqian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Alghadeer  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://85.17.95.202/live/ playpath=alghadeer swfUrl=http://www.utechiraq.com/flash/1.swf live=true timeout=15 pageUrl=http://www.alghadeer.tv/livetv/</link>
+<thumbnail>http://www.saffar.org/media/lib/pics/1272563556.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Iraqi Media Network</title>
+<link>mms://212.7.196.74/iraqia</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
+<title>Iraqi Sports Channel</title>
+<link>http://212.7.196.74/sport</link>
+<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Aliraqya</title>
+<link>http://212.7.196.74/iraqia</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA DRAMA</title>
+<link>rtmp://ns9.indexforce.com/highres playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
+<thumbnail>http://en.kingofsat.net/jpg/alsharqiya-drama.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA NEWS</title>
+<link>rtmp://ns9.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
+<thumbnail>http://www.alwaleedonline.com/News1/560019al-sharqiya_tv_logo11.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>BAGHDAD SAT</title>
+<link>rtmp://212.7.196.88/live playpath=baghdad swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15</link>
+<thumbnail>http://playbolo.tv/pics/BagdadChannel-big.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>AL SUMARIYA</title>
+<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
+<thumbnail>http://www.linktv.org/sitecontent/mosaic_broadcasters/alsumariya.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL FORAT</title>
+<link>rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256</link>
+<thumbnail>http://www.ashura.tv/live-tv/al-forat-tv/logo.jpg</thumbnail>
+</item>
+
+
+</channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Tunsian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Nessma</title>  
+<link>mms://193.95.93.146/nessma</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nessma_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tunisia TV</title>
+<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/07/tunisia-tv1-television-tunisienne-gratuite-en-direct-streaming.png</thumbnail>
+</item>
+
+
+</channel>

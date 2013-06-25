@@ -1,0 +1,2 @@
+main.addLink('OTV Bangla','rtmp://cdn.livecaster.tv/stream playpath=otv_bangla.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=otv_bangla&vw=600&vh=430','http://www.desistreams.tv/images/otv_bangla.gif')
+            main.addLink('Tarang Bangla','rtmp://cdn.livecaster.tv/stream playpath=tarang_bangla.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true timeout=15 pageUrl=http://www.livecaster.tv/embed.php?u=tarang_bangla&vw=600&vh=430','http://www.desistreams.tv/images/tarang_bangla.gif')

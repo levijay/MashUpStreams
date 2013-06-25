@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Angolian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>TPA</title>
+<link>rtsp://178.238.86.23/TPA?sid=A785E98315AE1D3941A26A2B495BE59A3BD5A431E875EB530AD81A0F255DD029</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+</channel>

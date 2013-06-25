@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Iranian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Alalam</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-al_alam-live-25f-4x3-SD</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alalam (Link 2)</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-al_alam-live-25f-4x3-SDh swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.alalam.ir/live/high</link>
+<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Press TV</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.com&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15
+pageUrl=http://www.presstv.com/live.html</link>
+<thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
+</item>
+
+</channel>

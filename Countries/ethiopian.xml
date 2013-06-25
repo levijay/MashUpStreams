@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Ethiopian TV Channels</name>
+<thumbnail></thumbnail>
+
+
+rtmp://213.55.98.102:1935/live playpath=livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf  live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
+
+<item>
+<title>Erta</title>
+<link>rtmp://213.55.98.102:1935/live playpath=livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b3485.htm</link>
+<thumbnail>http://blogs.rnw.nl/medianetwork/files/2011/05/erta-logo.gif</thumbnail>
+</item>
+
+
+<item>
+<title>ETV</title>
+<link>rtsp://media3.vixtream.net/etvlive/etv.stream</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV  Oromiyaa</title>
+<link>rtsp://media3.vixtream.net/etvlive/oromiyaa.stream</link>
+<thumbnail>http://www.andebet.com/livetv/img/tvologotran.png</thumbnail>
+</item>
+
+<title>ETV Network</title>
+<link>rtsp://178.238.86.23/etvnetwork?sid=8B315D331D0A41DD9542121F55CFA13AD3E1A82DC4BDD33FDEAC1ECFCD293C25</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/95/ETV_Netwok.png</thumbnail>
+</item>
+
+
+<item>
+<title>ETV (Link 2)</title>
+<link>rtsp://178.238.86.23/ETV?sid=D795D94B05FEDD09513A0AAB195B4512ABA564E118AD9B83BA08AA67F56D7039</link>
+<thumbnail>http://2.bp.blogspot.com/-uMX-mcKtZQc/UBPUIX5Ys4I/AAAAAAAAvVA/AyBb_vhtap4/s1600/etv+logo.jpg</thumbnail>
+</item>
+
+
+
+</channel>

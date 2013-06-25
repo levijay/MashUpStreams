@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Sri Lanka TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Rupavahini Live</title>
+<link>rtmp://dammika.flashwebtown.com:1935/slrc playpath=myStream.sdp swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b2131.htm</link>
+<thumbnail>http://4.bp.blogspot.com/-d7YaGTubXW4/T-mnF-2TDCI/AAAAAAAAAXM/rn8Sw3bBThQ/s1600/rupavahini-logo-sri-lanka-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>ITN</title>
+<link>rtmp://mediacp.comcities.com:1935/itn-cdn playpath=default.stream swfUrl=http://cdn.itnlanka.com/itn.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b2130.htm</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/ITN-TV-Channel-Sri-Lanka-Lo.png</thumbnail>
+</item>
+
+<item>
+<title>Derana TV</title>
+<link>rtmp://cp1.serverse.com/deranalive playpath=deranalive swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15
+pageUrl=http://wwitv.com/tv_channels/b1565.htm</link>
+<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/derana-tv-live-online-srilanka-logo.jpg</thumbnail>
+</item>
+
+
+</channel>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>UAE TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>MBC Drama  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>         
+<link>http://37.46.199.34:1935/hls/mux-udp-023/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Action (Link 2)</title>         
+<link>rtmp://95.211.168.142:1935/teledunet playpath=mbc_action swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&streamer=rtmp%3A//95.211.168.142&streamer=rtmp%3A//91.121.193.131%3A1935/teledunet&file=mbc_action&provider=rtmp&skin=bekle/bekle.xml%3A1935/teledunet&file=mbc_action_t2&provider=rtmp&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/mbc_action</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_action.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dubai TV</title>
+<link>rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/dmilivedubaitv_3</link>
+<thumbnail>http://onlinetvmaster.com/wp-content/uploads/2012/07/Dubai-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>AD Sports</title>
+<link>rtmp://mi6.gv.filmon.com/live/_definst_/1760.high.stream</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
+</item> 
+
+<item>
+<title>Dubai Sports  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://mi3.gv.filmon.com/live/_definst_/79.high.stream</link>
+<thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
+</item> 
+
+
+<item>
+<title>CANARY KIDS</title> 
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f4qofs2W8kA</link>
+<thumbnail>http://www.spacesseo.com/wp-content/uploads/2013/04/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC Action  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-012/playplist.m3u8</link>
+<thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Max  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title> 
+<link>http://37.46.199.34:1935/hls/mux-udp-014/playplist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 3</title>
+<link>rtmp://5.63.144.244/live playpath=azsq1299?id=149841 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq1299/1/600/380</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/07/mbc3-channel-streaming1.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+
+<item>
+<title>MBC  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-013/playplist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 2</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_ playpath=368.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15
+pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
+<thumbnail>http://3.bp.blogspot.com/-OcItiExH22A/T4MX4_5h-ZI/AAAAAAAAA-I/TVysRiTtgKw/s1600/ch2.2.jpg</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Abu Dhabi</title>
+<link>http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-dAw9BYeOndY/ULLabmZTUNI/AAAAAAAABtM/8CMlkpM-Wjg/s1600/natgeochannelabudhabi.png</thumbnail>
+</item>
+
+
+</channel>

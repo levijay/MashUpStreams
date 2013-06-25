@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Ghanian TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Adom TV</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6hovNtl1H00</link>
+<thumbnail>http://www.multitvworld.com/newworld/_images/adomtv_logo.png</thumbnail>
+</item>
+
+</channel>

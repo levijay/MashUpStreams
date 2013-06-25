@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>Burkina Faso TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>RTB</title>
+<link>rtsp://178.238.86.23/RTB?sid=0F913D8FC932DDB51DB6BEEF51BFF1A62739A4ED04F987E77AB406534199103D</link>
+<thumbnail>http://snc2012.afronaute.info/files/2012/03/Logo-RTB.jpg</thumbnail>
+</item>
+
+
+</channel>

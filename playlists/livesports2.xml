@@ -1,0 +1,195 @@
+background=http://www.rovest.com/images/cms_uploads/Image/picture%20of%20balls.jpg
+title=Live Sports
+http://www.navixtreme.com/playlist/113662/live_sports.plx
+
+<item>
+<title>Nova Sports 1</title>
+<link>rtmp://rtmp.stream4.tv:1935/liverepeater/_definst_/3976</link>
+<thumbnail>http://4.bp.blogspot.com/-t881KZVqrlU/T5XmhynuebI/AAAAAAAAFhw/Qu0a5UsSrPM/s1600/nova_sports1%5B1%5D.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS Plus HD 720</title>
+<link>http://113.160.49.34/lives/origin01/bts-foxhd.isml/bts-foxhd.m3u8</link>
+<thumbnail>http://www.essmediaguide.com/images/channels-logo-foxsports_plus_hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>GMG SPORT 1 - Georgia</title>
+<link>rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgfoot live=1</link>
+<thumbnail>http://www.commersant.ge/eng/uploads/images/5974295956GMG.jpg</thumbnail>
+</item>
+
+<item>
+<title>GMG SPORT 2 - Georgia</title>
+<link>rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1</link>
+<thumbnail>http://www.commersant.ge/eng/uploads/images/5974295956GMG.jpg</thumbnail>
+</item>
+
+<item>
+<title>GMG SPORT 3 - Georgia</title>
+<link>rtmp://edge8-2.eu.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport2 live=1</link>
+<thumbnail>http://www.commersant.ge/eng/uploads/images/5974295956GMG.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport Italia 24 - Italy</title>
+<link>rtmp://live.cdnplayer.com:1935/live413/solocalciolive</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/thumb/f/f9/Sportitalia_24_2011.jpg/260px-Sportitalia_24_2011.jpg</thumbnail>
+</item>
+
+<item>
+<title>JSC +1</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv165.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +2</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv166.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus2.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +3</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv167.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus3.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +5</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv150.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus5.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +6</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv151.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus6.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +7</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv152.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus7.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +8</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv154.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus8.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +9</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv155.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus9.png</thumbnail>
+</item>
+
+<item>
+<title>JSC +10</title>
+<link>http://wpc.6d40.edgecastcdn.net/806D40/Wowza3/live-origin/gtv157.stream/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_sport_plus10.png</thumbnail>
+</item>
+
+<item>
+<title>Fightbox HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://www.satelity.ellano.sk/odkaz_image/FightBOX_HD.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN UK</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430</link>
+<thumbnail>http://www.livesoccertv.com/images/articles/espn.gif</thumbnail>
+</item>
+
+<item>
+<title>ESPN Plus Brazil</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_plus_andina.png</thumbnail>
+</item>
+
+<item>
+<title>Pro-Wrestling</title>
+<link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20110320232233/wweallstars/images/e/e5/WWE.png</thumbnail>
+</item>
+
+<item>
+<title>Pro-Wrestling Wrestlemania Marathon</title>
+<link>rtmp://178.33.234.10/edge/85118qsretq8nq6 swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/45912/watch-live-Star_Movies-channel-for-free</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20110320232233/wweallstars/images/e/e5/WWE.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.undisputedfightmag.com/wp-content/uploads/2012/01/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://staroetv.su/_ph/3/932774936.png</thumbnail>
+</item>
+
+<item>
+<title>Extreme sports</title>
+<link>http://94.242.221.141/hls/a-lo/stream13.m3u8</link>
+<thumbnail>http://www.skymedia.co.uk/_downloads/50/ex_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Duna TV (Hungary)</title>
+<link>rtmp://91.82.85.45:1935/relay5 playpath=volex_03 swfUrl=http://wdsonline.gdsinfo.com/cdn_player/jw_player_3_16/mediaplayer.swf live=1</link>
+<thumbnail>http://i.picresize.com/images/2013/04/07/QZEhc.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Poker</title>
+<link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=10</link>
+<thumbnail>http://www.playroompoker.com/ImageUpload/sky_poker_big.gif</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1</link>
+<thumbnail>http://www.hot.net.il/UploadedImages//04_2011/espn_510_150_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>rtmp://50.7.28.234/flash playpath=12024 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://sawlive.tv/embed/watch/ODk5ZWM3NWI2NDEwOjllNjU3NDc2Njk3MjY1NzQzMjozODgyZDU1N2NhMjRhMmU3ZW/ExOTlmNzMzMDEzYjVhMTYxMjQxNTBlOjQxYmZkY2RkMTM3MGMzNmY2OGExZjU1ZGUzM2I4MGY4</link>
+<thumbnail>http://i50.tinypic.com/3179s7m.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBA TV</title>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://www.mytinyphone.com/uploads/users/sexy_boy/401426.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV</link>
+<thumbnail>http://www.yes.tv/image/logo/chelseatv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>ro Wrestling TVdate=2013-04-08</title>
+<link>rtmp://cp93704.live.edgefcs.net:443/live/redbull2@21839 playpath=redbull2@21839 swfurl=http://www.shadownet.ro/webplayer/player1.swf live=1 pageurl=http://www.1tv4u.net/Redbull</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/red_bull_tv.png</thumbnail>
+</item>
+
+<item>
+<title>MOTORS TV</title>
+<link>rtmp://198.7.58.79/edge playpath=motorstv swfUrl=http://s.zuuk.net/ply.swf pageUrl=http://www.zuuk.net/motorstv swfVfy=true live=true</link>
+<thumbnail>http://photos.evo.co.uk/images/front_picture_library_UK/dir_438/car_photo_219341_7.jpg</thumbnail>
+</item>
