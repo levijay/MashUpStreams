@@ -165,11 +165,6 @@ pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
 <thumbnail>http://3.bp.blogspot.com/-OcItiExH22A/T4MX4_5h-ZI/AAAAAAAAA-I/TVysRiTtgKw/s1600/ch2.2.jpg</thumbnail>
 </item>
 
-<item>
-<title>Nile Cinema</title>
-<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=cinema</link>
-<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/07/Nile-Cinema-TV.png</thumbnail>
-</item>
 
 <item>
 <title>Nile Life</title>
@@ -213,11 +208,6 @@ pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/saudi-arabia/200-Rotana-Cinema-11.jpg</thumbnail>
 </item>
 
-<item>
-<title>MTV Lebanon</title>
-<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mtv.com.lb/Player/654/451</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
-</item>
 
 <item>
 <title>LBC International(LBC Europe)</title>
