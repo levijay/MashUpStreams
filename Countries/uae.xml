@@ -4,6 +4,12 @@
 <name>UAE TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>MBC Max (Link 2)</title>
+<link>http://37.46.199.34:1935/hls/mux-udp-304/playplist.m3u8</link>
+<thumbnail>http://www.waleg.com/images/mbc-max-nlogo.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>MBC Drama  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>         
