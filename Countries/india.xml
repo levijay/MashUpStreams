@@ -5,6 +5,30 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Survana</title>
+<link>rtmp://94.242.228.36:1935/live2 playpath=suvarna.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=suvarna.stream&vw=600&vh=450</link>
+<thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ETV Kannada</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=etvkn.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=etvkn.stream&vw=600&vh=450</link>
+<thumbnail>http://3.bp.blogspot.com/-NA3nOBKdwC0/UHpjjAutXcI/AAAAAAAAI_U/UQ-1-0Qdq48/s320/ETV+Kannada+Live+Streaming.jpg</thumbnail>
+</item>
+
+<item>
+<title>Udaya TV</title>
+<link>rtmp://94.242.228.36:1935/live2 playpath=udaya.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=udaya.stream&vw=600&vh=450</link>
+<thumbnail>http://tvshows.sulekha.com/tvimages/udaya-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zee Kannada</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=zeek.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=zeek.stream&vw=600&vh=430</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20100704150057/logopedia/images/4/4f/Zee_Kannada.png</thumbnail>
+</item>
+
+<item>
 <title>PTC Punjabi  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
 <link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/PTC-Punjabi.png</thumbnail>
