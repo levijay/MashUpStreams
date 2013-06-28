@@ -1,12 +1,12 @@
 ﻿<item>
-<title>JSC Sport Global  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://37.46.199.34:1935/hls/mux-udp-010/playplist.m3u8</link>
+<title>JSC Sport Global  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-010/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
 </item>
 
 <item>
-<title>Nile Sports  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://37.46.199.34:1935/hls/mux-udp-332/playplist.m3u8</link>
+<title>Nile Sports  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-332/playplist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-NIile-Sports-Egypt-Live.png</thumbnail>
 </item>
 
@@ -55,26 +55,26 @@
 
 
 <item>
-<title>JSC +1</title>
-<link>http://141.8.244.56:1935/base/jsc1.stream/playlist.m3u8</link>
+<title>JSC +1  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-611/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
 </item> 
 
 <item>
-<title>JSC +2</title>
-<link>http://141.8.244.56:1935/base/jsc2.stream/playlist.m3u8</link>
+<title>JSC +2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-612/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
 </item> 
 
 <item>
-<title>JSC +3</title>
-<link>http://141.8.244.56:1935/base/jsc3.stream/playlist.m3u8</link>
+<title>JSC +3  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-613/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus3.png</thumbnail>
 </item> 
 
 <item>
-<title>JSC +4</title>
-<link>http://141.8.244.56:1935/base/jsc4.stream/playlist.m3u8</link>
+<title>JSC +4  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-614/playplist.m3u8/link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
