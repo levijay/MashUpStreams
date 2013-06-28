@@ -1,28 +1,145 @@
 http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
 
 
-# 1420668
+# 1873915
 type=video
-name=The Active Channel
-thumb=http://www.lyngsat-logo.com/logo/tv/aa/active_channel.jpg
-URL=rtmp://d1yolrx8wdti.rtmphost.com/simulcast playpath=livestream pageURL=http://www.theactivechannel.com/live/ swfUrl=http://www.theactivechannel.com/flash/flowplayer.rtmp.swf live=true
+name=Motors TV
+thumb=http://www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
+date=2013-06-27
+URL=rtmp://199.189.110.172/stream playpath=motorestv?id=96499 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ conn=S:OK
 player=default
 rating=-1.00
 
-# 1562290
+# 1869915
 type=video
-name=BBC One
-thumb=http://2.bp.blogspot.com/-w4CEJaOQbjo/TxWi1wFTEzI/AAAAAAAAE4I/GFVqPgD07us/s1600/portfolio_bbc1_01.jpg
-URL=http://proxy0.brussels.weepeetv.eu/bbc1/bbc1.m3u8
+name=ITV1
+thumb=http://idents.org/lightbox/ITV1xmas10big.jpg
+date=2013-06-23
+URL=rtmp://146.185.19.140/live playpath=okletsgo1x?id=3370 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf LIVE=1 pageUrl=http://www.ezcast.tv/embedded/okletsgo1x/1/650/435 conn=S:OK
 player=default
 rating=-1.00
 
-# 1686111
+# 1869914
 type=video
-name=BBC Two
-thumb=http://img-i.zeebox.com/images/bbc_two_logo_v3.png
-date=2013-04-03
-URL=rtmp://178.33.234.10/edge/jkgbg7vq8fcjgjl swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/45912/watch-live-Star_Movies-channel-for-free
+name=ITV3
+thumb=http://i215.photobucket.com/albums/cc260/Mister-Link/ITV3Breakbumper.jpg
+date=2013-06-23
+URL=rtmp://212.7.212.37:1935/live/_definst_ playpath=okletsgo6k swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo6k&vw=650&vh=450
+player=default
+rating=-1.00
+
+# 1869911
+type=video
+name=Channel 5
+thumb=http://dl.dropbox.com/u/103894968/navi-x/tv/logos/channel5.png
+date=2013-06-23
+URL=rtmp://85.12.5.153:1935/live/_definst_ playpath=okletsgo5s swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo5s&vw=650&vh=450
+player=default
+rating=-1.00
+
+# 1869910
+type=video
+name=Five Star
+thumb=http://www.comedy.co.uk/images/channels/5star.jpg
+date=2013-06-23
+URL=rtmp://146.185.25.228/live playpath=okletsgo7g?id=2723 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/okletsgo7g/1/650/450 conn=S:OK
+player=default
+rating=-1.00
+
+# 1866594
+type=video
+name=Speed Auction TV
+thumb=http://www.tv14.net/wp-content/uploads/2010/10/Speed-Auction-TV.jpg
+date=2013-06-22
+URL=rtmp://wowza04.sharp-stream.com/speedauctiontv/speedauctiontv
+player=default
+rating=-1.00
+
+# 1840312
+type=video
+name=ESPN
+thumb=http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg
+URL=http://46.246.29.151/live/48005/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1840311
+type=video
+name=E4 +1
+thumb=http://www.seeklogo.com/images/E/E4_1-logo-66D35B8861-seeklogo.com.gif
+URL=http://mi6.gv.filmon.com:1935/live/1657.high.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1834578
+type=video
+name=ESPN America
+thumb=http://www.novahd.cz/images/stanice/espn-america.jpg
+URL=rtmp://80.82.78.30/liveedge/ playpath=ch3-elfrztsusea swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch3-elfrztsusea&width=100%&height=95% --live
+player=default
+rating=-1.00
+
+# 1794017
+type=playlist
+name=Live TV Channels
+thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
+URL=http://www.navixtreme.com/playlist/81940/live_tv_channels.plx
+player=default
+rating=-1.00
+
+# 1799719
+type=playlist
+name=Music Channels
+thumb=http://img.ehowcdn.com/article-new/ehow/images/a06/t5/ne/music-bedroom-ideas-1.1-800x800.jpg
+URL=http://www.navixtreme.com/playlist/81920/music_channels.plx
+player=default
+rating=-1.00
+
+# 1799718
+type=playlist
+name=News Channels
+thumb=http://4.bp.blogspot.com/-LiS66aYtN3Q/UJzyYn_vQcI/AAAAAAAAJ0U/uJHhNfRpCAo/s400/Breaking%2BNews.jpg
+URL=http://www.navixtreme.com/playlist/81914/news_channels.plx
+player=default
+rating=1.00
+
+# 1799722
+type=playlist
+name=Shopping Channels
+thumb=http://static.mybanktracker.com/bank-news/wp-content/uploads/2009/11/burning-money.jpg
+URL=http://www.navixtreme.com/playlist/81928/shopping_channels.plx
+player=default
+rating=-1.00
+
+# 1799720
+type=playlist
+name=TV Shows 24/7 High Quality Only
+thumb=http://cortlandproducecashandcarry.com/yahoo_site_admin/assets/images/quality_logo.474218_std.jpg
+URL=http://www.navixtreme.com/playlist/84246/tv_shows_247_high_quality_onl
+player=default
+rating=-1.00
+
+# 1799723
+type=playlist
+name=VEETLE
+thumb=http://eclipse.tv/streams/veetle.png
+URL=http://www.navixtreme.com/cgi-bin/json2plx.cgi?url=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3D70a37623f85b83d9e3c769a6a6463b13%26_render%3Djson
+player=default
+rating=-1.00
+
+# 1755565
+type=video
+name=4 Music
+thumb=http://www.thecmuwebsite.com/wp-content/uploads/2010/2/4music.jpg
+URL=rtsp://mi1.gv.filmon.com:1935/live/_definst_/95.high.stream
+player=default
+rating=-1.00
+
+# 1755599
+type=video
+name=Five USA
+thumb=http://about.channel5.com/files/imagecache/t3_featureImage/images/template3/5usa_ourbrands_mainimage_v1.gif
+URL=http://mi7.gv.filmon.com:1935/live/845.low.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -38,7 +155,15 @@ rating=-1.00
 type=video
 name=BBC World News
 thumb=http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png
-URL=rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60
+URL=rtsp://media4.lsops.net/live/bbcworld1_en_veryhigh.sdp
+player=default
+rating=-1.00
+
+# 1789224
+type=video
+name=Bid TV
+thumb=http://www.lyngsat-logo.com/logo/tv/bb/bid_tv.jpg
+URL=rtmp://wowza04.sharp-stream.com/bidtv/bidtv
 player=default
 rating=-1.00
 
@@ -50,6 +175,30 @@ URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
 player=default
 rating=-1.00
 
+# 1755606
+type=video
+name=CBS Drama
+thumb=http://www.skymedia.co.uk/_images/cbs-drama_reflection.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1805.low.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1804593
+type=video
+name=CBS Reality
+thumb=http://www.lyngsat-logo.com/logo/tv/cc/cbs_reality.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1808.high.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1755608
+type=video
+name=CBS Reality +1
+thumb=http://www.lyngsat-logo.com/logo/tv/cc/cbs_reality.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1811.low.stream/playlist.m3u8
+player=default
+rating=-1.00
+
 # 1403127
 type=video
 name=Chelsea TV
@@ -58,44 +207,19 @@ URL=rtmp://cp96798.live.edgefcs.net:443/live/ChelTV_Ch01_1000k@26291 swfUrl=http
 player=default
 rating=-1.00
 
-# 1518423
+# 1704442
 type=video
-name=CNBC
-thumb=http://firemansbrew.com/templates/photos/CNBC_Logo.png
-URL=rtmp://media7.lsops.net/live/ playpath=cnbc_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.7/player.swf swfVfy=true live=true
-player=default
-rating=-1.00
-
-# 1370563
-type=video
-name=Dance TV
-thumb=http://www.lyngsat-logo.com/logo/tv/dd/dance_tv_hu.jpg
-URL=mms://onstreaming01.de.gtk.hu/dancetv
-player=default
-rating=-1.00
-
-# 1594293
-type=video
-name=ESPN
-thumb=http://www.livesoccertv.com/images/articles/espn.gif
-URL=rtmp://live.ukcast.tv/broadcast playpath=espn_uk.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=espn_uk&vw=600&vh=430
-player=default
-rating=-1.00
-
-# 1681199
-type=video
-name=ESPN America
-thumb=http://www.novahd.cz/images/stanice/espn-america.jpg
-date=2013-03-30
-URL=http://cds-sr1.vmo2.sbb.rs/live/ramdisk/espn_slo/hls1/espn_slo_q4.m3u8
+name=Dave
+thumb=http://www.the-medium-is-not-enough.com/images/DAVE_campaign.jpg
+URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/370.high.stream
 player=default
 rating=-1.00
 
 # 1404942
 type=video
 name=Euro News
-thumb=http://channeldb.livestation.com/paperclip/channels/idents/1/original/euronews.jpg?1274973607
-URL=rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=en_video750_flash_all.sdp swfUrl=http://fr.euronews.net/media/player_live1_3.swf live=1 pageUrl=http://fr.euronews.net/media/player_live1_3.swf
+thumb=http://www.broadbandtvnews.com/wp-content/uploads/2009/06/euronews.jpg
+URL=http://fw01.livem3u8.me.totiptv.com/live//3F35C4428A0D4004A38FF0ADBA7664F4.m3u8?bitrate=800
 player=default
 rating=-1.00
 
@@ -105,13 +229,29 @@ name=Euro Sport HD
 thumb=http://ing-sat.what.hu/images/logo-insert/satlogos/russia/384-EuroSport[1].jpg
 URL=http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
 player=default
-rating=-1.00
+rating=4.00
 
 # 1404077
 type=video
 name=Euro Sport 2 HD
 thumb=http://www.serbiacricket.com/site/images/58f38790-0695-47e7-996f-82678566478f(3).gif
 URL=http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
+player=default
+rating=4.00
+
+# 1770630
+type=video
+name=Food Network
+thumb=http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/200px-Food_Network.svg.png
+URL=http://mi7.gv.filmon.com:1935/live/20.high.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1769090
+type=video
+name=Food Network +1
+thumb=http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/200px-Food_Network.svg.png
+URL=rtmp://mi7.gv.filmon.com:1935/live/1829.high.stream
 player=default
 rating=-1.00
 
@@ -131,11 +271,43 @@ URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
 player=default
 rating=-1.00
 
-# 1667066
+# 1788343
 type=video
-name=Motors TV
-thumb=http://www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
-URL=rtmp://198.7.58.79/edge playpath=motorstv swfUrl=http://s.zuuk.net/ply.swf pageUrl=http://www.zuuk.net/motorstv swfVfy=true live=true
+name=ITV Choice
+thumb=http://www.melita.com/wp-content/uploads/2013/03/itv-choice.jpg
+URL=http://fw01.livem3u8.me.totiptv.com/live//e36b99bcd26648af9db2261785c77b7a.m3u8?bitrate=800
+player=default
+rating=-1.00
+
+# 1755585
+type=video
+name=ITV1 +1
+thumb=http://www.lyngsat-logo.com/logo/tv/ii/itv_uk_yorkshire_west_plus1.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1817.low.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1755586
+type=video
+name=ITV2 +1
+thumb=http://i3.squidoocdn.com/resize/squidoo_images/-1/lens18525010_1316121463itv2_plus1.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1820.low.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1755587
+type=video
+name=ITV3 +1
+thumb=http://satellitetveurope.co.uk/IMAGES/astra2/itv3_plus1.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1823.low.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1755588
+type=video
+name=ITV4 +1
+thumb=http://www.lyngsat-logo.com/logo/tv/ii/itv4_plus1.jpg
+URL=http://mi7.gv.filmon.com:1935/live/1826.low.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -150,8 +322,24 @@ rating=-1.00
 # 1370550
 type=video
 name=NHK World HD
-thumb=http://yonasu.com/wp-content/uploads/NHK-World-iPhone-App.png
+thumb=http://www.persiangulfstudies.com/news/NHK-World-Logo.jpg
 URL=rtmp://ca-1.net.fivecool.org/nhkw pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=gwm
+player=default
+rating=-1.00
+
+# 1704441
+type=video
+name=Pick TV
+thumb=http://skyidents.com/resources/pick%20tv%20sting%20b.jpg.opt387x212o0,0s387x212.jpg
+URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/371.high.stream
+player=default
+rating=-1.00
+
+# 1755564
+type=video
+name=Price Drop TV
+thumb=http://img.dooyoo.co.uk/GB_EN/175/shopping/offline-shopping-misc/price-drop-tv.jpg
+URL=rtmp://sharprouter.sharp-stream.com:1935/pricedroptv/_definst_/pricedroptv
 player=default
 rating=-1.00
 
@@ -159,7 +347,7 @@ rating=-1.00
 type=video
 name=Psychic Today TV
 thumb=http://profile.ak.fbcdn.net/hprofile-ak-snc6/187951_462650017113168_1724580699_n.jpg
-URL=rtmp://93.89.84.214/iptv_psychic_cc/livestream
+URL=rtsp://ovh.firestormmedia.tv:1935/iptv_psychic_cc/livestream
 player=default
 rating=-1.00
 
@@ -171,11 +359,99 @@ URL=rtmp://cp79650.live.edgefcs.net/live/ playpath=QVCLive1@14308 swfUrl="http:/
 player=default
 rating=-1.00
 
+# 1704439
+type=video
+name=Really
+thumb=http://www.guerillascope.co.uk/Portals/129/really-tvadvertisinglogo.jpg
+URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/372.high.stream
+player=default
+rating=-1.00
+
+# 1828488
+type=video
+name=Showcase TV
+thumb=http://sharetv.org/images/networks/showcase.jpg
+URL=http://goo.gl/DHp1c
+player=default
+rating=-1.00
+
+# 1828489
+type=video
+name=Showcase TV 2
+thumb=http://sharetv.org/images/networks/showcase.jpg
+URL=http://goo.gl/cDkk0
+player=default
+rating=-1.00
+
+# 1830719
+type=video
+name=Sky Movies Action & Adventure (Click Twice)
+thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_action.png_1683959914.png
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_action.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830721
+type=video
+name=Sky Movies Comedy (Click Twice)
+thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_comedy.png_686887561.png
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_comedy.stream pageUrl=http://synx.tv/ swfUrl=http://playep.jwpcdn.com/6/4/jwr.flash.swf
+player=default
+rating=-1.00
+
+# 1830729
+type=video
+name=Sky Movies Crime & Thriller (Click Twice)
+thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_crime.png_686887561.png
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_thriller.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830727
+type=video
+name=Sky Movies Drama & Romance (Click Twice)
+thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_drama_romance_hd.jpg
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_drama.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830724
+type=video
+name=Sky Movies Family (Click Twice)
+thumb=http://www.skymedia.co.uk/_downloads/889/Sky-Movies-HD-Family.png
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_family.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830722
+type=video
+name=Sky Movies Premiere (Click Twice)
+thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_hd.jpg
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_premier.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830725
+type=video
+name=Sky Movies Scifi & Horror (Click Twice)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror_hd.png
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_horror.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
+# 1830730
+type=video
+name=Sky Movies Select (Click Twice)
+thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.jpg
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_select.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+player=default
+rating=-1.00
+
 # 1506812
 type=video
 name=Sky News HD
 thumb=http://www.skyuser.co.uk/thumbnail.php?file=skynewshdlogo_878051757.jpg&size=article_large
-URL=rtmp://media7.lsops.net/live/ playpath=skynewsi_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.7/player.swf swfVfy=true live=true
+URL=http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800
 player=default
 rating=-1.00
 
@@ -189,33 +465,33 @@ rating=-1.00
 
 # 1597764
 type=video
-name=Sky Sports 1
+name=Sky Sports 1 (Click Twice)
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-1-ident-2010/Sky%20Sports%201%20Ident%20201024.jpg
-URL=rtmp://37.220.34.198:1935/live playpath=ssds11a swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ssds11a&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_1.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
 player=default
 rating=-1.00
 
 # 1597766
 type=video
-name=Sky Sports 2
+name=Sky Sports 2 (Click Twice)
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
-URL=rtmp://37.220.34.198:1935/live playpath=ss22as swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ss22as&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_2.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
 player=default
 rating=-1.00
 
 # 1597767
 type=video
-name=Sky Sports 3
+name=Sky Sports 3 (Click Twice)
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-3-ident-2010/TVnewsroom-2010-01-24-20h56m28s206.jpg
-URL=rtmp://37.220.34.198:1935/live playpath=sdwwe3 swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=sdwwe3&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_3.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
 player=default
 rating=-1.00
 
 # 1597768
 type=video
-name=Sky Sports 4
+name=Sky Sports 4 (Click Twice)
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-4-ident-2010/Sky%20Sports%204%20Ident%20201012.jpg
-URL=rtmp://37.220.34.198:1935/live playpath=ss4gym swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ss4gym&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_4.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
 player=default
 rating=-1.00
 
@@ -223,7 +499,7 @@ rating=-1.00
 type=video
 name=Sky Sports F1 HD
 thumb=http://www.touchline.tv/wp-content/uploads/2011/11/skyf1hd.jpg
-URL=rtmp://37.220.34.198:1935/live playpath=ssds11 swfUrl=http://livego.tv/player/player-licensed.swf pageUrl=http://livego.tv/embed.php?live=ssds11&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://46.246.29.152:1935/live playpath=48006 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.tv/embed2.php?u=eccbc87e4b294e6cdc2c9154dfc741880c4374b66ae4da3b7fbb&t=1371313991007&vw=640&vh=460
 player=default
 rating=-1.00
 
@@ -231,7 +507,7 @@ rating=-1.00
 type=video
 name=Sky Sports News
 thumb=http://img.skysports.com/11/04/Others/500219.jpg
-URL=rtmp://89.248.172.239/live playpath=ssnewsas swfUrl=http://www.reyhq.com/player/player-licensed.swf pageUrl=http://www.reyhq.com/embed.php?live=ssnewsas&vw=620&vh=490 swfVfy=true live=true
+URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_news.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
 player=default
 rating=-1.00
 
@@ -248,5 +524,37 @@ type=video
 name=StreetClip TV
 thumb=http://www.tv14.net/wp-content/uploads/2010/06/Streetclip-TV.jpg
 URL=rtmp://stream.streetclip.tv:1935/live/high-stream
+player=default
+rating=-1.00
+
+# 1770632
+type=video
+name=Travel Channel +1
+thumb=http://www.logotypes101.com/logos/494/CA253A81F705426DC912B7957E5C84A1/Travel_Channel44.png
+URL=http://mi5.gv.filmon.com:1935/live/842.high.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+# 1755566
+type=video
+name=VIVA
+thumb=http://www.lyngsat-logo.com/logo/tv/vv/viva_uk.jpg
+URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/8.high.stream
+player=default
+rating=-1.00
+
+# 1706445
+type=video
+name=Wildlife Channel
+thumb=http://www.window2win.com/wildlifechannel/images/wildlife-channel.jpg
+URL=http://rs4wms.i2ic.com/wlc_2500
+player=default
+rating=-1.00
+
+# 1768855
+type=video
+name=Yesterday
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/200px-Yesterday_logo_2012.svg.png
+URL=rtmp://mi4.gv.filmon.com:1935/live/1039.high.stream
 player=default
 rating=-1.00
