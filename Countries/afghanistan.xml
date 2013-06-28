@@ -4,6 +4,12 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>Bidari TV   [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtsp://bidari.streamwebtown.com/bidaritv</link>
+<thumbnail>http://www.glwiz.com/web/epg/images/cim_303556.png</thumbnail>
+</item>
+
 
 <item>
 <title>Zhwandon TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>

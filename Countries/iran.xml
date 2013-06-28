@@ -24,4 +24,17 @@ pageUrl=http://www.presstv.com/live.html</link>
 <thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
 </item>
 
+<item>
+<title>Iran Media   [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://live.iransima.ir/live playpath=tamasha-udp-500k.stream swfUrl=http://www.iransima.ir/mediaplayer-5.10-viral/player.swf</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Tanet Cima TV   [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://tanet-cima-tv.wm.llnwd.net/tanet_cima_tv</link>
+<thumbnail></thumbnail>
+</item>
+
+
 </channel>
