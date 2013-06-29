@@ -11,5 +11,11 @@
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/cameroon/104-CRTV-Camaroon.jpg</thumbnail>
 </item>
 
+<item>
+<title>Cam News 24  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://strfla5.streamakaci.com:1935/camnews24?ovpfv=2.1.6 playpath=camnews24 swfUrl=http://lb.streamakaci.com/streamakaci/library/AkamaiMultiPlayer.swf pageUrl=http://lb.streamakaci.com/camnews24/</link>
+<thumbnail>http://www.camnews24.com/fr/images/stories/Kmer/camnews24tv.jpg</thumbnail>
+</item>
+
 
 </channel>
