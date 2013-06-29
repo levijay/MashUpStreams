@@ -163,8 +163,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 
 <item>
 <title>Maha TV</title>
-<link>
-http://cdn.m.yupptv.tv/liveorigin/smil:mahatv_iphone.smil/playlist.m3u8</link>
+<link>http://cdn.m.yupptv.tv/liveorigin/smil:mahatv_iphone.smil/playlist.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/_382v3kQFfNk/SzROf7qp2oI/AAAAAAAAVyg/TQBTmAiv93w/s400/mahaa+tv.jpg</thumbnail>
 </item>
 
@@ -182,13 +181,13 @@ http://cdn.m.yupptv.tv/liveorigin/smil:mahatv_iphone.smil/playlist.m3u8</link>
 
 <item>
 <title>Sahara Mumbai</title>
-<linkhttp://cdn.m.yuppcdn.net/liveorigin/smil:saharamumbai.smil/playlist.m3u8</link>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamumbai.smil/playlist.m3u8</link>
 <thumbnail>http://znn.india.com/Img/2010/12/22/sahara-b.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sahara Samay</title>
-<linkhttp://cdn.m.yuppcdn.net/liveorigin/smil:saharasamaynew.smil/playlist.m3u8</link>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharasamaynew.smil/playlist.m3u8</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20111007145120/logopedia/images/f/f5/Sahara_Samay_National.png</thumbnail>
 </item>
 
