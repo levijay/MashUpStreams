@@ -24,9 +24,8 @@
 </item>
 
 <item>
-<title>Sama Syria  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://95.211.184.203:1935/live playpath=live swfUrl=http://www.sama-tv.net/player.swf live=true timeout=15 pageUrl=http://www.sama-tv.net/index.php?page=live
-</link>
+<title>Sama Syria  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://95.211.184.203:1935/live playpath=live swfUrl=http://www.sama-tv.net/player.swf live=true timeout=15 pageUrl=http://www.sama-tv.net/index.php?page=live</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
 </item>
 
