@@ -4,53 +4,249 @@
 <name>Tamil TV Channels</name>
 <thumbnail></thumbnail>
 
-
 <item>
-<title>Star Vijay TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminiest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_vijay.jpg</thumbnail>
+<title>Sun TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://85.12.5.35/vl/_definst_ playpath=tvsun454 swfUrl=http://www.veemi.com/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.veemi.com/embed.php?v=tvsun454&vw=600&vh=470&domain=desistreams.tv</link>
+<thumbnail>http://www.newtvworld.com/Images/SUN-TV.JPG</thumbnail>
 </item>
 
 <item>
-<title>Sun TV India</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suntv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_tv_in.jpg</thumbnail>
+<title>Imayam TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=true timeout=15 pageUrl=http://www.iwaystream.com/remote2/robinson/</link>
+<thumbnail>http://1.bp.blogspot.com/-kmkafEtDj84/TmYI_Z2thGI/AAAAAAAAEWQ/4FsCENqe-vs/s1600/imayam_tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>KTV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=ktv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<title>ISAIARUVI TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://maaya.live-s.cdn.bitgravity.com/cdn-live2-b3/_definst_/maaya/secure/live/feed031/chunklist.m3u8?wowzasessionid=1370027538&e=0&h=ba8250f77c8a7e2a82f5e926ea04f4ae</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Isaiaruvi-TV-Tamil-Logo1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Jaya TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_tv.jpg</thumbnail>
+<title>Puthiya Thalaimurai TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://bglive-a.bitgravity.com/ngmcpl/secure/live/feed01?e=0&h=84a2c0e53390e7c26f9bdc71f87ae183&file=http://bglive-a.bitgravity.com/ngmcpl/secure/live/feed01?e=0&h=84a2c0e53390e7c26f9bdc71f87ae183&start=0</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f8/Puthiya_Thalaimurai_TV_Logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>Jaya Movies</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/j_movie_in.jpg</thumbnail>
+<title>KALAIGNAR SEITHIGAL  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://maaya.live-s.cdn.bitgravity.com/cdn-live2-b1/_definst_/maaya/secure/live/feed034/chunklist.m3u8?wowzasessionid=1233551959&e=0&h=dcf7f33fc88efae1152aaabaaac95539</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Raj TV India</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.jpg</thumbnail>
+<title>Tamil Movies Channel  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chkollywoodlive/2011/06/11/c68f344c-ed6c-48a1-b3f1-5e6f6ed5801f swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false live=true timeout=15 pageUrl=http://livetvchannelsfree.com/tamiltiraitv.html</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/KTV-Tamil-India-Logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>Raj TV USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=rajtvus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.jpg</thumbnail>
+<title>Kalaignar Seithigal TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://maaya.live-s.cdn.bitgravity.com/cdn-live2-b1/_definst_/maaya/secure/live/feed034/playlist.m3u8?e=0&h=dcf7f33fc88efae1152aaabaaac95539</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Raj Digital Plus</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajdigitalplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_digital_plus.jpg</thumbnail>
+<title>Vasantham TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vasantham_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Vijay  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=star_vijay.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_vijay&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Star-Vijay.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sun Music  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://94.242.228.36:1935/live2 playpath=sunm.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=sunm.stream&vw=600&vh=430</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Sun-Music-Tamil-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sathiyam TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://semc.live.fmp.firesky.tv/20075E/ playpath=sathiyamnews swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/sathiyamtv.html</link>
+<thumbnail>http://4.bp.blogspot.com/_0g3ZvMt146w/TCHIJxKRVYI/AAAAAAAAA0c/jc8LoCiM8po/s320/Sathiyam-TV-Sathiyam+Tamil+Channel.JPG</thumbnail>
+</item>
+
+<item>
+<title>Minnal TV Movies  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://94.242.228.36:1935/live2 playpath=sunm.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=sunm.stream&vw=600&vh=430</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Minnal-TV-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Angel TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://stream.sin1.swiftserve.com/live/angeltv playpath=atvarchive swfUrl=http://edge.sin1.swiftserve.com/angeltv/angeltvlfd/flowplayer/flowplayer-3.2.7.swf live=true timeout=15 pageUrl=http://edge.sin1.swiftserve.com/angeltv/angeltvlfd/flowplayer/bwcheckangeltv-mid.html</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/angel-tv-logo-1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>KTV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=ktv.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ktv&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/KTV-Tamil-India-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Deekshana TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://mobile.mslive.co.in:2121/live/ playpath=gdee swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/deekshanatv.html</link>
+<thumbnail>http://bhoomtv.in/images/deekshana.jpg</thumbnail>
+</item>
+
+<item>
+<title>Lotus News  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/lotusnews.html</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/lotus_news_in.png</thumbnail>
+</item>
+
+<item>
+<title>7 S Music TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=mp4:trans/dv15/mogulus-user-files/ch7smusic/2013/01/11/1aa2a1ea-753c-49e0-bd5a-68f149d67f34.mp4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false live=true timeout=15 pageUrl=http://livetvchannelsfree.com/7smusic.html</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/7s-music-logo-1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rainbow TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://mms1.rrsat-internet.tv:8088/rainbow_high</link>
+<thumbnail>http://www.worldscreen.com/img/worldscreenings/videos/rainbow_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Murasu TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://captain-f.akamaihd.net/captaintv1_1_1@s80532?primaryToken=1357128101_8a743ca3f91597f2620e85961c27b1e3&v&fp&r&g</link>
+<thumbnail>http://2.bp.blogspot.com/-ejSaJ3ua-Ow/T-aK0jpvgfI/AAAAAAAACzg/IqxO3wAZ1e0/s1600/murasu+tv+logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Max Vision  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://live.wmncdn.net/maxvisiontv/ playpath=0436bc9f1f7f12102a0beab2111cc846.sdp swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://livetvchannelsfree.com/maxvision.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/max_vision.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sathiyam TV (Link 2)  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
+<thumbnail>http://4.bp.blogspot.com/_0g3ZvMt146w/TCHIJxKRVYI/AAAAAAAAA0c/jc8LoCiM8po/s320/Sathiyam-TV-Sathiyam+Tamil+Channel.JPG</thumbnail>
+</item>
+
+<item>
+<title>Captain TV News  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-news/</link>
+<thumbnail>http://3.bp.blogspot.com/-09TDYL4LvtU/UD3thWbGVtI/AAAAAAAAKL4/8rK4lWdqCfA/s1600/Captain-news-Source.png</thumbnail>
+</item>
+
+<item>
+<title>Puthiya Thalaimurai TV (Link 2)  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
+<thumbnail>http://www.watchtv.co/wp-content/themes/broadcast/thumb.php?src=http://www.watchtv.co/wp-content/uploads/2012/05/Puthiya-Thalaimurai-TV.jpg&w=581&h=252&zc=1&q=100</thumbnail>
+</item>
+
+<item>
+<title>GTV SPV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Gtv-Spv-TV-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Seithigal  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/seithigal-live/</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Polimer TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
+<thumbnail>http://www.mysixer.com/wp-content/uploads/2011/12/polimer-tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Murasu TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
+<thumbnail>http://2.bp.blogspot.com/-ejSaJ3ua-Ow/T-aK0jpvgfI/AAAAAAAACzg/IqxO3wAZ1e0/s1600/murasu+tv+logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Captain TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-live/</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/captain-tv-logo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vasanth TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/vasanth-tv-live/</link>
+<thumbnail>http://www.tamiltheepam.com/wp-content/uploads/hungred-post-thumbnail/images/live/Vasanth-TV-Live-Vasanth%20TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chithiram  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/chithiram-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_chithiram.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sri Sankara TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil27.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sri-sankara-tv/</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/09/SRI-SANKARA-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Makkal  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil20.stream  swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/makkal-live/</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/09/Makkal-TV-live.png</thumbnail>
+</item>
+
+<item>
+<title>Kalaignar TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
+<thumbnail>http://sinthupuram.com/blog/livetamiltvs_files/kalaignartvew1.png</thumbnail>
+</item>
+
+<item>
+<title>Sirippoli  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai3.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/sirippoli-tv/</link>
+<thumbnail>http://www.watchlivetvstreaming.com/wp-content/uploads/2012/02/Sirippoli-TV-Watch-Online.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Dheeran TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
+<thumbnail>http://1.bp.blogspot.com/-dRTi_R6CV74/T8ch2_36hYI/AAAAAAAAADo/93v2thZmuA0/s200/dheeran-tv+bg+MANISAT+(2).png</thumbnail>
+</item>
+
+<item>
+<title>DD Podhigai  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=dd10.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/cc/DD_Podhigai.jpg/101px-DD_Podhigai.jpg</thumbnail>
+</item>
+
+<item>
+<title>Isai Aruvi  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_isai_aruvi.jpg</thumbnail>
+</item>
+
+<item>
+<title>MKTV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil26.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/mktv-live/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mk_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel UFX  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=tamil6.stream  swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf  pageUrl=http://tamiltv.tv/channel-ufx-live/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/0/07/Logo_of_Channel_UFX.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>7s Music Live (Link 2)  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=hmtv5.stream  swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf  pageUrl=http://tamiltv.tv/7s-music-live/</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/7-S-music-TV-Tamil-Logo1.jpg</thumbnail>
 </item>
 
 <item>
@@ -73,40 +269,9 @@
 
 
 <item>
-<title>Sun Music</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=sunmusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_music.jpg</thumbnail>
-</item>
-
-<item>
-<title>Jaya Max Music</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamax swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_max.jpg</thumbnail>
-</item>
-
-<item>
-<title>Raj Musix</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetelest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/raj_musix.jpg</thumbnail>
-</item>
-
-<item>
 <title>Mega Musiq</title>
 <link>rtmp://85.12.5.86:1939/base2 playpath=kalai8.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/mega-musiq-live/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mega_musiq_in.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Jaya Plus (News)</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayaplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/jaya_plus.jpg</thumbnail>
-</item>
-
-<item>
-<title>Thanthi TV (News)</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=ndtvhindu900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=214</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/thanthi_tv_in.jpg<thumbnail>
 </item>
 
 <item>
