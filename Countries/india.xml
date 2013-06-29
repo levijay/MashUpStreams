@@ -180,7 +180,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 <item>
-<title>Sahara Mumbai</title>
+<title>NDTV</title>
 <link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharamumbai.smil/playlist.m3u8</link>
 <thumbnail>http://znn.india.com/Img/2010/12/22/sahara-b.jpg</thumbnail>
 </item>
@@ -199,8 +199,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 
 <item>
 <title>Sahara Up</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaup.smil/playlist.m3u8
-</link>
+<link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharaup.smil/playlist.m3u8</link>
 <thumbnail>http://www.dellatecnica.com/images/client-logos/sahara-one-interiors-della-tecnica.jpg</thumbnail>
 </item>
 
