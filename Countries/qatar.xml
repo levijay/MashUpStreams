@@ -12,25 +12,25 @@
 
 
 <item>
-<title>JSC +1 (Link 2)</title>
+<title>JSC +1 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-611/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +2 (Link 2)</title>
+<title>JSC +2 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-612/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +3 (Link 2)</title>
+<title>JSC +3 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-613/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +4 (Link 2)</title>
+<title>JSC +4 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-614/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
@@ -103,6 +103,12 @@
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
+<item>
+<title>Rayyan TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx
+</link>
+<thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
+</item>
 
 <item>
 <title>Al Jazeera Sports</title>
@@ -120,12 +126,6 @@
 <title>Al Kass</title>
 <link>http://78.100.44.238/live-kass/kass/playlist.m3u8</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rayyan TV</title>
-<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx</link>
-<thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
 </item>
 
 <item>

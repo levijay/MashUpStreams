@@ -1,5 +1,6 @@
 ﻿<item>
-<title>LB1 TV</title>
-<link>http://xlb1tvx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<title>LB1 TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://212-68.livestream.com/mogulus-stream-edge/lb1tv playpath=rtmp://212-94.livestream.com/affiliateStream/lb1tv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6cÈ9766573747265616d2e636f6d2f6d6f67756c75732f6c623174762f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xCCCCCC&mute=false&iconColorOver=0xE7E7E7&time=&jsEnabled=false&color=0x000000&autoPlay=true live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/lb1tv?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC
+</link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2012/11/LB1-TV.gif</thumbnail>
 </item>

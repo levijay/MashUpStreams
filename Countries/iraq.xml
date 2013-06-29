@@ -4,12 +4,6 @@
 <name>Iraqian TV Channels</name>
 <thumbnail></thumbnail>
 
-<item>
-<title>Alghadeer  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://85.17.95.202/live/ playpath=alghadeer swfUrl=http://www.utechiraq.com/flash/1.swf live=true timeout=15 pageUrl=http://www.alghadeer.tv/livetv/</link>
-<thumbnail>http://www.saffar.org/media/lib/pics/1272563556.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Iraqi Media Network</title>

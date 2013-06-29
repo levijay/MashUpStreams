@@ -5,15 +5,15 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>MBC Max (Link 2)</title>
-<link>http://37.46.199.34:1935/hls/mux-udp-304/playplist.m3u8</link>
+<title>MBC Max (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-304/playplist.m3u8</link>
 <thumbnail>http://www.waleg.com/images/mbc-max-nlogo.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>MBC Drama  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>         
-<link>http://37.46.199.34:1935/hls/mux-udp-023/playplist.m3u8</link>
+<link>http://96.44.147.10:1935/hls/mux-udp-023/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
@@ -24,20 +24,15 @@
 </item>
 
 <item>
-<title>Dubai TV</title>
-<link>rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/dmilivedubaitv_3</link>
-<thumbnail>http://onlinetvmaster.com/wp-content/uploads/2012/07/Dubai-TV.jpg</thumbnail>
-</item>
-
-<item>
 <title>AD Sports</title>
 <link>rtmp://mi6.gv.filmon.com/live/_definst_/1760.high.stream</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Abu_dhabi_sports.png</thumbnail>
 </item> 
 
 <item>
-<title>Dubai Sports  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://mi3.gv.filmon.com/live/_definst_/79.high.stream</link>
+<title>Dubai Sports  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://dmiLiveDubaiSports.flash.internapcdn.net/dmiLiveDubaiSports/live_1 playpath=dmilivedubaisports_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=ttp://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaisports
+</link>
 <thumbnail>http://www.dmi.ae/common/images/theme/nationalday2012/dubaisports_logo.png</thumbnail>
 </item> 
 
@@ -51,13 +46,13 @@
 
 <item>
 <title>MBC Action  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://37.46.199.34:1935/hls/mux-udp-012/playplist.m3u8</link>
+<link>http://96.44.147.10:1935/hls/mux-udp-012/playplist.m3u8</link>
 <thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC Max  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title> 
-<link>http://37.46.199.34:1935/hls/mux-udp-014/playplist.m3u8</link>
+<link>http://96.44.147.10:1935/hls/mux-udp-014/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
 </item>
 
@@ -70,15 +65,8 @@
 
 <item>
 <title>MBC  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://37.46.199.34:1935/hls/mux-udp-013/playplist.m3u8</link>
+<link>http://96.44.147.10:1935/hls/mux-udp-013/playplist.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 2</title>
-<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_ playpath=368.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15
-pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
-<thumbnail>http://3.bp.blogspot.com/-OcItiExH22A/T4MX4_5h-ZI/AAAAAAAAA-I/TVysRiTtgKw/s1600/ch2.2.jpg</thumbnail>
 </item>
 
 <item>

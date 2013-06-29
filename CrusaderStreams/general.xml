@@ -1,18 +1,18 @@
 ﻿<item>
-<title>Tele Liban  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Tele Liban</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-005/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_liban.jpg</thumbnail>
 </item>
 
 <item>
-<title>CBC +2</title>
-<link>http://flash88.ustream.tv/sjc-uhs04/streams/httpflv/ustreamVideo/12794820/streams/live_1_1368350805_261101477.flv?start=86227</link>
+<title>CBC +2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-506/playlist.m3u8</link>
 <thumbnail>http://egylab.ucoz.com/tv/imge/cbc2channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Masriya  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>hhttp://96.44.147.10:1935/hls/mux-udp-024/playplist.m3u8</link>
+<link>http://96.44.147.10:1935/hls/mux-udp-024/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_masriya_eg.jpg</thumbnail>
 </item>
 
@@ -20,18 +20,6 @@
 <title>Tunisia TV</title>
 <link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
 <thumbnail>http://referenceur-tv.com/wp-content/uploads/2009/07/tunisia-tv1-television-tunisienne-gratuite-en-direct-streaming.png</thumbnail>
-</item>
-
-<item>
-<title>Dubai TV</title>
-<link>rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/dmilivedubaitv_3</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/11/Dubai-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>EL NHAR TV</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=npuXEET_dMQ</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/al-nahar-channel.jpg</thumbnail>
 </item>
 
 <item>
@@ -71,20 +59,22 @@
 </item>
 
 <item>
-<title>NBN Lebanon  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>NBN Lebanon</title>
 <link>rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15 pageUrl=http://www.watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
 </item>
 
 <item>
-<title>Addounia TV</title>
-<link>rtmp://95.211.184.203/oflaDemo playpath=samalive swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live</link>
+<title>Addounia TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://95.211.184.203/live playpath=donia swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live
+</link>
 <thumbnail>http://www.6rrb.net/tv/files/image/ADDOUNIA25879.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sama Syria</title>
-<link>rtmp://176.31.234.158:1935/live playpath=live swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.freetv247.com/content/sama-syria-online-tv</link>
+<title>Sama Syria  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://95.211.184.203:1935/live playpath=live swfUrl=http://www.sama-tv.net/player.swf live=true timeout=15 pageUrl=http://www.sama-tv.net/index.php?page=live
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
 </item>
 
@@ -98,18 +88,6 @@
 <title>Kuwait 1</title>
 <link>http://62.215.183.1/Segments/HLS_TS/rtpencoder/ch1.sdp.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1.png</thumbnail>
-</item>
-
-<item>
-<title>Al Baghdadia 1</title>
-<link>http://albaghdadia.lsops.net/live/smil:albaghda_ar.smil/playlist.m3u8</link>
-<thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Baghdadia 2</title>
-<link>http://albaghdadia.lsops.net/live/smil:albaghda2_ar.smil/playlist.m3u8</link>
-<thumbnail>http://www.canarab.com/images/Logo/bagdadia2.png</thumbnail>
 </item>
 
 <item>
@@ -137,8 +115,9 @@
 </item>
 
 <item>
-<title>Rayyan TV</title>
-<link>http://78.100.44.238/live-rayyantv/rtv/playlist.m3u8</link>
+<title>Rayyan TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx
+</link>
 <thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
 </item>
 

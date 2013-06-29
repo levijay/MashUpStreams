@@ -126,13 +126,6 @@
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/AlKarma-TV.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>CTV Coptic TV</title>
-<link>rtmp://sc-lb1.streamcyclone.com/ctvch_live playpath=ctvch swfUrl=http://manage.streamcyclone.com/player/player.swf</link>
-<thumbnail>http://www.worldlanguagestv.com/logos/ctv-coptic.png</thumbnail>
-</item>
-
 <item>
 <title>CBC +2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8</link>
