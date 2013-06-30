@@ -259,5 +259,110 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 
+posted by mo
+
+<item>
+<title>Abbtak TV</title>
+<link>rtmp://77.92.87.245:1935/live/ playpath=abbtakkLive.stream swfUrl=http://www.abbtakk.tv/wp-content/plugins/ultimate-coming-soon-page/inc/template/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.abbtakk.tv/</link>
+<thumbnail>http://www.pakistanmediaupdates.com/wp-content/uploads/2013/04/abb-takk.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARY Digital</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=aryd.stream swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=aryd.stream</link>
+<thumbnail>http://takatuk.com/wp-content/uploads/2008/09/ary-digital-tv-logo.gif</thumbnail>
+</item>
+
+<item>
+<title>ARY News</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=arynew.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf pageUrl=http://zonytvcom.info/saki/embed.php?live=arynew.stream&vw=600&vh=430</link>
+<thumbnail>http://www.agahiawards.com/2012/channels/ary_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>ARY QTV</title>
+<link>rtmp://server2.arylive.com:1935/live playpath=myStream swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://qtv.arylive.com/live/qtv.html=true</link>
+<thumbnail>http://uk.arydigital.tv/images/qtvlogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Capital TV Live</title>
+<link>rtmp://184.107.236.10:1935/live/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf live=true timeout=15
+pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link>
+<thumbnail>http://www.saach.tv/wp-content/uploads/2013/04/Capital-TV-Pakistan.png</thumbnail>
+</item>
+
+<item>
+<title>Dunya TV</title>
+<link>rtmp://173.245.68.50/live playpath=cam swfUrl=http://dunyanews.tv/newsite/live_stream/player.swf pageUrl=http://dunyanews.tv/newsite/live_stream/ live=true swfVfy=true timeout=15</link>
+<thumbnail>http://dunyanews.tv/images/dunyalogo.png</thumbnail>
+</item>
+
+<item>
+<title>EXPRESS ENTERTAINMENT</title>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTMgNDo0NTo0NyBBTSZoYXNoX3ZhbHVlPX​B4bGdRNThwaXFIOW5PMHJ3bDNzN1E9PSZ2YWxpZG1pbnV0ZXM9Mg== playpath=hamariweb-expressentertainment swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/expressentertainment_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-expressentertainment&screen=true</link>
+<thumbnail>http://2.bp.blogspot.com/-wcir8KQnVE8/Tvjy8McpGUI/AAAAAAAAAA4/8naiIlozsxU/s1600/express_entertainment_logo_png_Pakistan_271211.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo Entertainment</title>
+<link>rtmp://188.122.91.6/app playpath=entgeo6 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=entgeo6 live=true timeout=15</link>
+<thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/08/Geo-TV-live-streaming.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo Tez TV</title>
+<link>rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive70.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/2013/05/geo-tez-live-streaming-watch-geo-tez-pakistan-online-free/</link>
+<thumbnail>http://www.pmm.net.pk/wp-content/uploads/2013/04/geo_tez.jpg</thumbnail>
+</item>
+
+<item>
+<title>Geo Super</title>
+<link>rtmp://94.102.51.78/live33/ playpath=w_geosuper swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_geosuper&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>GEO TV</title>
+<link>rtmp://93.174.93.58/zecastEd/ playpath=geotv3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=geotv3&width=600&height=470 swfVfy=true live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Hum TV</title>
+<link>rtmp://93.174.93.58/zecastEd/ playpath=tvhum3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=tvhum3&width=600&height=470 swfVfy=true live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
+</item>
+
+<item>
+<title>MASALA TV</title>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTMgNDo0MTozNSBBTSZoYXNoX3ZhbHVlPT​RiWXB4Ni9lb1pqOWlpQjgybVFib0E9PSZ2YWxpZG1pbnV0ZXM9Mg== playpath=hamariweb-masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/masalatv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-masalatv&screen=true
+</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20111001233247/logopedia/images/e/e8/Masala_TV.png</thumbnail>
+</item>
+
+<item>
+<title>NICK</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=nicks.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=nicks.stream</link>
+<thumbnail>http://i1.cdnds.net/10/15/M/tv_nick_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prime TV</title>
+<link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTV Home</title>
+<link>rtmp://s4s1.pakistanvision.tv/live playpath=PTVhome swfUrl=http://www.pakistanvision.com/swfs/videoPlayer.swf pageUrl=http://ptv.com.pk/PTVHOME-live.asp swfVfy=true live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_home.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTV News</title>
+<link>rtmp://s4s1.pakistanvision.tv/live playpath=PTVnews swfUrl=http://www.pakistanvision.com/swfs/videoPlayer.swf pageUrl=http://ptv.com.pk/livetvnews.asp swfVfy=true live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_news.jpg</thumbnail>
+</item>
 
 </channel>
