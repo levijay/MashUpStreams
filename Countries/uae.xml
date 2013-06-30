@@ -72,6 +72,13 @@
 </item>
 
 <item>
+<title>MBC 2</title>
+<link>rtmp://176.31.230.164:1935/teledunet/mbc_2 app=teledunet swfUrl=http://www.teledunet.com/tv/player.swf?bufferlength=5&repeat=single&autostart=true&id0=81657114601800&streamer=rtmp://176.31.230.164:1935/teledunet/mbc_2&file=mbc_2&provider=rtmp playpath=mbc_2 live=1 timeout=15 pageUrl=http://www.teledunet.com/tv/?channel=mbc_2&no_pub</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
+</item>
+
+
+<item>
 <title>National Geographic Abu Dhabi</title>
 <link>http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-dAw9BYeOndY/ULLabmZTUNI/AAAAAAAABtM/8CMlkpM-Wjg/s1600/natgeochannelabudhabi.png</thumbnail>
