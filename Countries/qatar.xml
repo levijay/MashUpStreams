@@ -5,69 +5,69 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>JSC Sport Global  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC Sport Global</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-010/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>JSC +1 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +1 (Link 2)</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-611/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +2 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +2 (Link 2)</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-612/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +3 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +3 (Link 2)</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-613/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +4 (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +4 (Link 2)</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-614/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +5  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +5</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-615/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus5.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +6  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +6</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-616/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus6.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +7  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +7</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-819/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus7.png</thumbnail>
 </item>
 
 
 <item>
-<title>JSC +8  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +8</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-820/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus8.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +9  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +9</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-821/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus9.png</thumbnail>
 </item>
 
 <item>
-<title>JSC +10  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>JSC +10</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-822/playplist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus10.png</thumbnail>
 </item>
@@ -80,31 +80,31 @@
 </item>
 
 <item>
-<title>JSC +1</title>
+<title>JSC +1 (Link 2)</title>
 <link>http://141.8.244.56:1935/base/jsc1.stream/playlist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus1.png</thumbnail>
 </item> 
 
 <item>
-<title>JSC +2</title>
+<title>JSC +2  (Link 2)</title>
 <link>http://141.8.244.56:1935/base/jsc2.stream/playlist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus2.png</thumbnail>
 </item> 
 
 <item>
-<title>JSC +3</title>
+<title>JSC +3 (Link 2)</title>
 <link>http://141.8.244.56:1935/base/jsc3.stream/playlist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus3.png</thumbnail>
 </item> 
 
 <item
-<title>JSC +4</title>
+<title>JSC +4  (Link 2)</title>
 <link>http://141.8.244.56:1935/base/jsc4.stream/playlist.m3u8</link>
 <thumbnail>http://www.ar.aljazeerasport.tv/namedImage/13213/plus4.png</thumbnail>
 </item>
 
 <item>
-<title>Rayyan TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Rayyan TV</title>
 <link>rtmp://cp177118.live.edgefcs.net/live/alrayyan_ar_1@73925 playpath=alrayyan_ar_1@73925 swfUrl=http://www.alrayyan.tv/Style Library/jwPlayer/player.swf live=true timeout=15 pageUrl=http://www.alrayyan.tv/Arabic/Pages/AlrayanLive.aspx
 </link>
 <thumbnail>http://www.wide-systems.com/wp-content/uploads/2012/05/Alrayyan.jpg</thumbnail>
