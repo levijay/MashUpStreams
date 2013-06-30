@@ -11,6 +11,7 @@
 </item>
 
 
+
 <item>
 <title>MBC Drama</title>         
 <link>http://96.44.147.10:1935/hls/mux-udp-023/playplist.m3u8</link>
@@ -54,6 +55,13 @@
 <title>MBC Max</title> 
 <link>http://96.44.147.10:1935/hls/mux-udp-014/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 2</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_ playpath=368.high.stream swfUrl=http://www.mylivetvchannel.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15
+pageUrl=http://www.mylivetvchannel.com/mbc2-2/</link>
+<thumbnail>http://3.bp.blogspot.com/-OcItiExH22A/T4MX4_5h-ZI/AAAAAAAAA-I/TVysRiTtgKw/s1600/ch2.2.jpg</thumbnail>
 </item>
 
 <item>
