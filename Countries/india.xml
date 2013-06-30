@@ -29,11 +29,56 @@
 </item>
 
 <item>
-<title>PTC Punjabi  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+<title>PTC Punjabi</title>
+<link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/PTC-Punjabi.png</thumbnail>
 </item>
 
+
+<item>
+<title>NDTV 24x7  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
+</item>
+
+<item>
+<title>NDTV India (Link 2)  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
+<thumbnail>http://www.ndtvmi.com/images/NDTV_India.jpg</thumbnail>
+</item>
+
+<item>
+<title>SIKH CHANNEL  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf live=true timeout=15 pageUrl=https://www.sikhchannel.tv/WatchUs/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sikh_channel.png</thumbnail>
+</item>
+
+<item>
+<title>DIVYA TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://202.164.56.130/live/ playpath=livestream.swf swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://1tvlive.in/divya-channel/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/divya_tv.png</thumbnail>
+</item>
+
+
+<item>
+<title>AASTHA BHAJAN  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=aasthab.stream&vw=600&vh=450</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/aastha_bhajan.png</thumbnail>
+</item>
+
+
+<item>
+<title>SADHNA TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://live.wmncdn.net/sadhanatv/ playpath=4d24ff49ec0573fbb1197aadf42fcbcd.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://1tvlive.in/sadhana-tv/</link>
+<thumbnail>http://cds.hello1.in:9080/cdsapis/WebResource/licon/4666/SadhnaTV.gif</thumbnail>
+</item>
+
+
+<item>
+<title>AASTHA  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-bhajan/</link>
+<thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
+</item>
 
 <item>
 <title>B4U Plus</title>
@@ -42,7 +87,7 @@
 </item>
 
 <item>
-<title>Colors TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Colors TV</title>
 <link>rtmp://141.8.244.56/base playpath=colors.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
 </item>
