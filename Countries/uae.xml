@@ -77,14 +77,9 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
 
-<item>
-<title>MBC 2 link 2</title>
-<link>rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbebfc49f900f7619d769855a703313b166a1332734b782427ae845d62a0630​4035107cf945a0cb31086bf6f71e9d7bf46d807049527b93861823b399af142b271eeb4cc1d376ba​45d46a2b1b4df355c1ab6ecd8b307432580c537327432c5da83889af3835cc30aafd943f97e70c5c​1b1493c79036988eef9c61bfa7f9fc7573060caf941f224ad4610e3d20632158a624/368.high.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
-</item>
 
 <item>
-<title>MBC 2 link 3</title>
+<title>MBC 2 link 2</title>
 <link>rtmp://5.63.144.244/live playpath=aflam4youfff?id=152673 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 timeout=15 pageUrl=http://mips.tv/embedplayer/aflam4youfff/1/600/380</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mbc2_ae.png</thumbnail>
 </item>
