@@ -401,4 +401,11 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 
+<item>
+<title>ZEE TV</title>
+<link>rtmp://ams.direct-stream.org/edgelive playpath=zeetvhd swfUrl=http://direct-stream.org/swfs/player.swf pageUrl=http://direct-stream.org live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
+</item>
+
+
 </channel>
