@@ -5,6 +5,18 @@
 </item>
 
 <item>
+<title>VH1</title>
+<link>rtmp://5.63.144.244/stream playpath=vh111?id=93772 swfVfy=1 conn=S:OK live=true swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/vh111/1/650/480</link>
+<thumbnail>http://www.playonscripts.com/images/icons/GGhWEeSvOFTG.jpg</thumbnail>
+</item>
+
+<item>
+<title>BET</title>
+<link>rtmp://edge.isearch.to/edge playpath=kexkxje3nqi6dtl swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=480&height=360&channel=50652&autoplay=true live=1 timeout=15</link>
+<thumbnail>http://mutombodapoet.files.wordpress.com/2012/07/bet.jpg</thumbnail>
+</item>
+
+<item>
 <title>Heart TV</title>
 <link>rtmp://cdn-the-2.musicradio.com:80/LiveVideo playpath=Heart swfUrl=http://heart.gcstatic.com/gusto/a/tv/swf/player.swf live=true timeout=15 pageUrl=http://www.heart.co.uk/tv/player/</link>
 <thumbnail>http://www.elky666.plus.com/logo/Sky%20Logos/Heart%20TV.png</thumbnail>
