@@ -370,7 +370,35 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/kasthuri-tv.jpg</thumbnail>
 </item>
 
+<item>
+<title>DD1</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/</link>
+<thumbnail>http://www.gdayindia.com.au/wp-content/uploads/2011/09/dd.jpg</thumbnail>
+</item>
 
+<item>
+<title>AASTHA</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
+<thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
+</item>
+
+<item>
+<title>ZEE SMILE</title>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/zee-smile/</link>
+<thumbnail>http://www.turbotv.in/wp-content/upl.../11/Zee_Smile-logo.png</thumbnail>
+</item>
+
+<item>
+<title>DANGAL TV</title>
+<link>rtmp://50.7.130.42:1940/base2 playpath=dd14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dangal-tv-live/</link>
+<thumbnail>http://i2.ytimg.com/vi/Q62K2atXTvY/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>STAR UTSAV</title>
+<link>rtmp://50.7.130.43:1939/base2<playpath>dd15.stream swfUrl=http://www.turbotv.in/wp-content/upl...er-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/star-utsav/</link>
+<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/STAR_Utsav_.jpg</thumbnail>
+</item>
 
 
 </channel>
