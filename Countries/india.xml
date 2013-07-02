@@ -396,7 +396,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 
 <item>
 <title>STAR UTSAV</title>
-<link>rtmp://50.7.130.43:1939/base2<playpath>dd15.stream swfUrl=http://www.turbotv.in/wp-content/upl...er-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/star-utsav/</link>
+<link>rtmp://50.7.130.43:1939/base2 playpath=dd15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/star-utsav/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/STAR_Utsav_.jpg</thumbnail>
 </item>
 
