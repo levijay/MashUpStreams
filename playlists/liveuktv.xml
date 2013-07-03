@@ -1,12 +1,21 @@
 http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
 
 
-# 1873915
+# 1877641
 type=video
-name=Motors TV
-thumb=http://www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
-date=2013-06-27
-URL=rtmp://199.189.110.172/stream playpath=motorestv?id=96499 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ conn=S:OK
+name=Channel 4
+thumb=http://dl.dropbox.com/u/103894968/navi-x/tv/logos/channel4.png
+
+URL=rtmp://85.12.5.44:1935/live/_definst_ playpath=okletsgo4q swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo4q&vw=650&vh=450
+
+
+
+# 1877640
+type=video
+name=E4
+thumb=http://www.spiralstatic.com/images/portfolio/thumb_e4_sting_01.jpg
+
+URL=rtmp://212.7.212.30:1935/live/_definst_ playpath=okletsgo4v swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo4v&vw=650&vh=450
 
 
 
@@ -14,7 +23,6 @@ URL=rtmp://199.189.110.172/stream playpath=motorestv?id=96499 swfUrl=http://www.
 type=video
 name=ITV1
 thumb=http://idents.org/lightbox/ITV1xmas10big.jpg
-date=2013-06-23
 URL=rtmp://146.185.19.140/live playpath=okletsgo1x?id=3370 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf LIVE=1 pageUrl=http://www.ezcast.tv/embedded/okletsgo1x/1/650/435 conn=S:OK
 
 
@@ -23,7 +31,6 @@ URL=rtmp://146.185.19.140/live playpath=okletsgo1x?id=3370 swfUrl=http://www.ezc
 type=video
 name=ITV3
 thumb=http://i215.photobucket.com/albums/cc260/Mister-Link/ITV3Breakbumper.jpg
-date=2013-06-23
 URL=rtmp://212.7.212.37:1935/live/_definst_ playpath=okletsgo6k swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo6k&vw=650&vh=450
 
 
@@ -32,7 +39,6 @@ URL=rtmp://212.7.212.37:1935/live/_definst_ playpath=okletsgo6k swfUrl=http://ww
 type=video
 name=Channel 5
 thumb=http://dl.dropbox.com/u/103894968/navi-x/tv/logos/channel5.png
-date=2013-06-23
 URL=rtmp://85.12.5.153:1935/live/_definst_ playpath=okletsgo5s swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo5s&vw=650&vh=450
 
 
@@ -41,7 +47,6 @@ URL=rtmp://85.12.5.153:1935/live/_definst_ playpath=okletsgo5s swfUrl=http://www
 type=video
 name=Five Star
 thumb=http://www.comedy.co.uk/images/channels/5star.jpg
-date=2013-06-23
 URL=rtmp://146.185.25.228/live playpath=okletsgo7g?id=2723 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/okletsgo7g/1/650/450 conn=S:OK
 
 
@@ -50,16 +55,7 @@ URL=rtmp://146.185.25.228/live playpath=okletsgo7g?id=2723 swfUrl=http://www.ezc
 type=video
 name=Speed Auction TV
 thumb=http://www.tv14.net/wp-content/uploads/2010/10/Speed-Auction-TV.jpg
-date=2013-06-22
 URL=rtmp://wowza04.sharp-stream.com/speedauctiontv/speedauctiontv
-
-
-
-# 1840312
-type=video
-name=ESPN
-thumb=http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg
-URL=http://46.246.29.151/live/48005/playlist.m3u8
 
 
 
@@ -101,7 +97,7 @@ name=News Channels
 thumb=http://4.bp.blogspot.com/-LiS66aYtN3Q/UJzyYn_vQcI/AAAAAAAAJ0U/uJHhNfRpCAo/s400/Breaking%2BNews.jpg
 URL=http://www.navixtreme.com/playlist/81914/news_channels.plx
 
-
+rating=1.00
 
 # 1799722
 type=playlist
@@ -124,14 +120,6 @@ type=playlist
 name=VEETLE
 thumb=http://eclipse.tv/streams/veetle.png
 URL=http://www.navixtreme.com/cgi-bin/json2plx.cgi?url=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3D70a37623f85b83d9e3c769a6a6463b13%26_render%3Djson
-
-
-
-# 1755565
-type=video
-name=4 Music
-thumb=http://www.thecmuwebsite.com/wp-content/uploads/2010/2/4music.jpg
-URL=rtsp://mi1.gv.filmon.com:1935/live/_definst_/95.high.stream
 
 
 
@@ -207,19 +195,12 @@ URL=rtmp://cp96798.live.edgefcs.net:443/live/ChelTV_Ch01_1000k@26291 swfUrl=http
 
 
 
-# 1704442
-type=video
-name=Dave
-thumb=http://www.the-medium-is-not-enough.com/images/DAVE_campaign.jpg
-URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/370.high.stream
-
-
-
 # 1404942
 type=video
 name=Euro News
 thumb=http://www.broadbandtvnews.com/wp-content/uploads/2009/06/euronews.jpg
 URL=http://fw01.livem3u8.me.totiptv.com/live//3F35C4428A0D4004A38FF0ADBA7664F4.m3u8?bitrate=800
+
 
 
 # 1404076
@@ -228,7 +209,7 @@ name=Euro Sport HD
 thumb=http://ing-sat.what.hu/images/logo-insert/satlogos/russia/384-EuroSport[1].jpg
 URL=http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
 
-
+rating=4.00
 
 # 1404077
 type=video
@@ -236,7 +217,7 @@ name=Euro Sport 2 HD
 thumb=http://www.serbiacricket.com/site/images/58f38790-0695-47e7-996f-82678566478f(3).gif
 URL=http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
 
-
+rating=4.00
 
 # 1770630
 type=video
@@ -326,14 +307,6 @@ URL=rtmp://ca-1.net.fivecool.org/nhkw pageUrl=http://livetvstreaming.ucoz.com li
 
 
 
-# 1704441
-type=video
-name=Pick TV
-thumb=http://skyidents.com/resources/pick%20tv%20sting%20b.jpg.opt387x212o0,0s387x212.jpg
-URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/371.high.stream
-
-
-
 # 1755564
 type=video
 name=Price Drop TV
@@ -355,14 +328,6 @@ type=video
 name=QVC
 thumb=http://blog.kellyhoppeninteractive.com/wp-content/uploads/2011/03/qvc-2.png
 URL=rtmp://cp79650.live.edgefcs.net/live/ playpath=QVCLive1@14308 swfUrl="http://www.qvcuk.com/ondemand/flowplayer.rtmp-3.1.3.swf" pageUrl="http://www.qvcuk.com/ondemand/livetv.html?cm_re=LN-_-OnQVCTV-_-QVCLive" swfVfy=true live=true timeout=10
-
-
-
-# 1704439
-type=video
-name=Really
-thumb=http://www.guerillascope.co.uk/Portals/129/really-tvadvertisinglogo.jpg
-URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/372.high.stream
 
 
 
@@ -526,22 +491,6 @@ URL=rtmp://stream.streetclip.tv:1935/live/high-stream
 
 
 
-# 1770632
-type=video
-name=Travel Channel +1
-thumb=http://www.logotypes101.com/logos/494/CA253A81F705426DC912B7957E5C84A1/Travel_Channel44.png
-URL=http://mi5.gv.filmon.com:1935/live/842.high.stream/playlist.m3u8
-
-
-
-# 1755566
-type=video
-name=VIVA
-thumb=http://www.lyngsat-logo.com/logo/tv/vv/viva_uk.jpg
-URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/8.high.stream
-
-
-
 # 1706445
 type=video
 name=Wildlife Channel
@@ -549,11 +498,5 @@ thumb=http://www.window2win.com/wildlifechannel/images/wildlife-channel.jpg
 URL=http://rs4wms.i2ic.com/wlc_2500
 
 
-
-# 1768855
-type=video
-name=Yesterday
-thumb=http://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/200px-Yesterday_logo_2012.svg.png
-URL=rtmp://mi4.gv.filmon.com:1935/live/1039.high.stream
 
 # 1664806
