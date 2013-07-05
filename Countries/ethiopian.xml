@@ -4,7 +4,6 @@
 <name>Ethiopian TV Channels</name>
 <thumbnail></thumbnail>
 
-
 rtmp://213.55.98.102:1935/live playpath=livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf  live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
 
@@ -18,7 +17,7 @@ pageUrl=http://wwitv.com/tv_channels/b3485.htm</link>
 
 <item>
 <title>ETV</title>
-<link>rtsp://media3.vixtream.net/etvlive/etv.stream</link>
+<link>rtmp://4.59.48.249/live/stream1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/etv_et.png</thumbnail>
 </item>
 
