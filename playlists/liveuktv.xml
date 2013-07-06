@@ -1,11 +1,42 @@
 http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
 
 
+# 1884426
+type=video
+name=ESPN
+thumb=http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg
+URL=rtmp://edge.isearch.to/edge/3q0w4kq4p2v80rq swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=51293&autoplay=true
+
+
+
+# 1884425
+type=video
+name=BBC World News
+thumb=http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png
+URL=rtmp://edge.isearch.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=51293&autoplay=true
+
+
+
+# 1884424
+type=video
+name=BBC Two
+thumb=http://img-i.zeebox.com/images/bbc_two_logo_v3.png
+URL=rtmp://edge.isearch.to/edge/12p8a1upczit6r1 swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=51293&autoplay=true
+
+
+
+# 1884423
+type=video
+name=BBC One
+thumb=http://2.bp.blogspot.com/-w4CEJaOQbjo/TxWi1wFTEzI/AAAAAAAAE4I/GFVqPgD07us/s1600/portfolio_bbc1_01.jpg
+URL=rtmp://edge.isearch.to/edge/vdwjivddy3j6c7t swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=51293&autoplay=true
+
+
+
 # 1877641
 type=video
 name=Channel 4
 thumb=http://dl.dropbox.com/u/103894968/navi-x/tv/logos/channel4.png
-
 URL=rtmp://85.12.5.44:1935/live/_definst_ playpath=okletsgo4q swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo4q&vw=650&vh=450
 
 
@@ -14,7 +45,6 @@ URL=rtmp://85.12.5.44:1935/live/_definst_ playpath=okletsgo4q swfUrl=http://www.
 type=video
 name=E4
 thumb=http://www.spiralstatic.com/images/portfolio/thumb_e4_sting_01.jpg
-
 URL=rtmp://212.7.212.30:1935/live/_definst_ playpath=okletsgo4v swfUrl=http://www.yycast.com/playerskin/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=okletsgo4v&vw=650&vh=450
 
 
@@ -67,21 +97,13 @@ URL=http://mi6.gv.filmon.com:1935/live/1657.high.stream/playlist.m3u8
 
 
 
-# 1834578
-type=video
-name=ESPN America
-thumb=http://www.novahd.cz/images/stanice/espn-america.jpg
-URL=rtmp://80.82.78.30/liveedge/ playpath=ch3-elfrztsusea swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch3-elfrztsusea&width=100%&height=95% --live
-
-
-
 # 1794017
 type=playlist
 name=Live TV Channels
 thumb=http://www.userlogos.org/files/logos/igor23/livetv_black.png
 URL=http://www.navixtreme.com/playlist/81940/live_tv_channels.plx
 
-
+rating=5.00
 
 # 1799719
 type=playlist
@@ -347,70 +369,6 @@ URL=http://goo.gl/cDkk0
 
 
 
-# 1830719
-type=video
-name=Sky Movies Action & Adventure (Click Twice)
-thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_action.png_1683959914.png
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_action.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830721
-type=video
-name=Sky Movies Comedy (Click Twice)
-thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_comedy.png_686887561.png
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_comedy.stream pageUrl=http://synx.tv/ swfUrl=http://playep.jwpcdn.com/6/4/jwr.flash.swf
-
-
-
-# 1830729
-type=video
-name=Sky Movies Crime & Thriller (Click Twice)
-thumb=http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_crime.png_686887561.png
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_thriller.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830727
-type=video
-name=Sky Movies Drama & Romance (Click Twice)
-thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_drama_romance_hd.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_drama.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830724
-type=video
-name=Sky Movies Family (Click Twice)
-thumb=http://www.skymedia.co.uk/_downloads/889/Sky-Movies-HD-Family.png
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_family.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830722
-type=video
-name=Sky Movies Premiere (Click Twice)
-thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_premiere_hd.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_premier.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830725
-type=video
-name=Sky Movies Scifi & Horror (Click Twice)
-thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_movies_scifi_horror_hd.png
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_horror.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
-# 1830730
-type=video
-name=Sky Movies Select (Click Twice)
-thumb=http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_movies_select_hd.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_select.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
-
-
-
 # 1506812
 type=video
 name=Sky News HD
@@ -429,33 +387,33 @@ URL=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=htt
 
 # 1597764
 type=video
-name=Sky Sports 1 (Click Twice)
+name=Sky Sports 1
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-1-ident-2010/Sky%20Sports%201%20Ident%20201024.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_1.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+URL=rtmp://37.220.36.18:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23697&width=640&height=460 token=$Iwillkill%$wyou@#q5 live=true
 
 
 
 # 1597766
 type=video
-name=Sky Sports 2 (Click Twice)
+name=Sky Sports 2
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_2.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+URL=rtmp://37.220.36.18:443/liverepeater playpath=23698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23698&width=640&height=460 token=$Iwillkill%$wyou@#q5 live=true
 
 
 
 # 1597767
 type=video
-name=Sky Sports 3 (Click Twice)
+name=Sky Sports 3
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-3-ident-2010/TVnewsroom-2010-01-24-20h56m28s206.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_3.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+URL=rtmp://37.220.36.18:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23697&width=640&height=460 token=$Iwillkill%$wyou@#q5 live=true
 
 
 
 # 1597768
 type=video
-name=Sky Sports 4 (Click Twice)
+name=Sky Sports 4
 thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-4-ident-2010/Sky%20Sports%204%20Ident%20201012.jpg
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_4.stream pageUrl=http://synx.tv/ swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf
+URL=rtmp://46.246.124.15:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23697&width=640&height=460 token=$Iwillkill%$wyou@#q5 live=true
 
 
 
@@ -463,7 +421,7 @@ URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_4.str
 type=video
 name=Sky Sports F1 HD
 thumb=http://www.touchline.tv/wp-content/uploads/2011/11/skyf1hd.jpg
-URL=rtmp://46.246.29.152:1935/live playpath=48006 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.tv/embed2.php?u=eccbc87e4b294e6cdc2c9154dfc741880c4374b66ae4da3b7fbb&t=1371313991007&vw=640&vh=460
+URL=rtmp://213.163.64.202:1935/liverepeater/_definst_/2w
 
 
 
@@ -496,6 +454,8 @@ type=video
 name=Wildlife Channel
 thumb=http://www.window2win.com/wildlifechannel/images/wildlife-channel.jpg
 URL=http://rs4wms.i2ic.com/wlc_2500
+
+
 
 
 
