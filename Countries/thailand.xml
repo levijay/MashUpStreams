@@ -4,6 +4,40 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Thai PBS High Quality (1024K)</title>
+<link>rtmp://184.171.162.14:1935/cdnlive?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc2?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
+</item>
+
+
+<item>
+<title>Thai PBS Medium Quality (512K)</title>
+<link>rtmp://184.171.162.14:1935/cdnlive?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc1?INT=8958381=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
+</item>
+
+
+<item>
+<title>Thai PBS Low Quality (256K)</title>
+<link>rtmp://184.171.162.14:1935/cdnlive?INT=2853227=abb21929ec839c2843b1522c1ad94cb0 playpath=tpbspc0?INT=2853227=abb21929ec839c2843b1522c1ad94cb0 swfUrl=http://cache.101g.net/StrobeMediaPlayback.swf pageUrl=http://live.thaipbs.or.th/ live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/thai_pbs.png</thumbnail>
+</item>
+
+
+<item>
+<title>TGN</title>
+<link>rtmp://APP.TV5.CO.TH:1935/live playpath=tgnlive swfUrl=http://www.tv5.co.th/webtv5_2556/player.swf pageUrl=http://www.tv5.co.th/webtv5_2556/tgn_56.php live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tgn.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Channel 9</title>
+<link>rtmp://122.155.18.162:1935/live<playpath>demo.sdp swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/site/streaming/channel/modernine#.Uds1CKwSo4w live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mcot_modernine_tv.png</thumbnail>
+</item>
+
+<item>
 <title>Thai TV 3</title>
 <link>rtmp://111.223.37.194:80/liverepeater/ playpath=ruenglao swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tvthaionline.net/tv/ch3.html</link>
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
