@@ -66,7 +66,7 @@ pageUrl=http://www.myplaychannel.com/mediaplayer/player.swf?netstreambasepath=ht
 
 <item>
 <title>Channel 9</title>
-<link>rtmp://122.155.18.162:1935/live<playpath>demo.sdp swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/site/streaming/channel/modernine#.Uds1CKwSo4w live=true timeout=15</link>
+<link>rtmp://122.155.18.162:1935/live playpath=demo.sdp swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/site/streaming/channel/modernine#.Uds1CKwSo4w live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mcot_modernine_tv.png</thumbnail>
 </item>
 
