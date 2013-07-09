@@ -37,12 +37,6 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mcot_modernine_tv.png</thumbnail>
 </item>
 
-<item>
-<title>Thai TV 3</title>
-<link>rtmp://111.223.37.194:80/liverepeater/ playpath=ruenglao swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tvthaionline.net/tv/ch3.html</link>
-<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Thai TV 5</title>
@@ -62,6 +56,13 @@
 pageUrl=http://www.myplaychannel.com/mediaplayer/player.swf?netstreambasepath=http%3A%2F%2Fwww.myplaychannel.com%</link>
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2011/09/Play-Channel.jpg</thumbnail>
 </item>
+
+<item>
+<title>Thai TV 3</title>
+<link>rtmp://111.223.37.194:80/liverepeater/ playpath=ruenglao swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tvthaionline.net/tv/ch3.html</link>
+<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
+</item>
+
 
 
 <item>
