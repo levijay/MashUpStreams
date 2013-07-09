@@ -38,17 +38,7 @@
 </item>
 
 
-<item>
-<title>Thai TV 5</title>
-<link>rtmp://app.tv5.co.th:1935/livestreamrecord playpath=videolive5 swfUrl=http://www.tv5.co.th/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/tv5.html</link>
-<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-5.jpg</thumbnail>
-</item>
 
-<item>
-<title>Thai TV 11</title>
-<link>rtmp://fms1.prd.go.th/nbttv playpath=livestream?width=600 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/NBT.html</link>
-<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/thai-channel-11-NBT.jpg</thumbnail>
-</item>
 
 <item>
 <title>Play Channel</title>
@@ -63,6 +53,17 @@ pageUrl=http://www.myplaychannel.com/mediaplayer/player.swf?netstreambasepath=ht
 <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
 </item>
 
+<item>
+<title>Thai TV 5</title>
+<link>rtmp://app.tv5.co.th:1935/livestreamrecord playpath=videolive5 swfUrl=http://www.tv5.co.th/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/tv5.html</link>
+<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-5.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thai TV 11</title>
+<link>rtmp://fms1.prd.go.th/nbttv playpath=livestream?width=600 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/NBT.html</link>
+<thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/thai-channel-11-NBT.jpg</thumbnail>
+</item>
 
 
 <item>
