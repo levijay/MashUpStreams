@@ -1,4 +1,16 @@
-﻿<item>
+#######################################################################################################################################
+<poster>Crusader</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+##############################################################################################################################
+
+
+
+<item>
 <title>Aljazeera Kids Tv</title>
 <link>http://78.100.44.238/live-jscc/jscc/playlist.m3u8</link>
 <thumbnail>http://www.animationmagazine.net/wordpress/wp-content/uploads/Al-Jazeera-Childrens-Channel-150.jpg</thumbnail>
