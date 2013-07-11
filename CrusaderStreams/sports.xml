@@ -1,4 +1,16 @@
-﻿<item>
+#######################################################################################################################################
+<poster>Crusader</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+##############################################################################################################################
+
+
+
+<item>
 <title>JSC Sport Global  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>http://37.46.199.40:80/hls/mux-udp-010/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_sport_channel_global.jpg</thumbnail>
