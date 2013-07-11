@@ -1,4 +1,16 @@
-﻿<item>
+#######################################################################################################################################
+<poster>Crusader</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message></message>
+<thumbnail></thumbnail>
+</info>
+##############################################################################################################################
+
+
+
+<item>
 <title>IQRAA Live</title>
 <link>rtmp://fl1.viastreaming.net/iqraatv2/livestream playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/iqraatv2.swf</link>
 <thumbnail>http://worldtvcenter.atspace.com/arabic/iqraa.jpg</thumbnail>
