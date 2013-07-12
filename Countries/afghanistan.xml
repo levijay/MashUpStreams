@@ -55,9 +55,27 @@
 </item>
 
 <item>
-<title>Ariana TV </title>
+<title>Ariana TV</title>
 <link>http://62.27.87.54:4441/AfghanGbRlivestream</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gem Dari  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://38.117.88.154/GemDari1?TICKET/path/to/media.file</link>
+<thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=AQBNxq4zCaNPBF0h&url=https%3A%2F%2Ffbcdn-profile-a.akamaihd.net%2Fhprofile-ak-ash4%2F372869_312738112144543_701274170_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zarin TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://38.117.88.154/ZarinTV?TICKET/path/to/media.file</link>
+<thumbnail>http://zarintv.net/image/zarin_TV_top_banner.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ayna  [COLOR=FFFF0000]New  Channels[/COLOR]</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chayntv/2011/02/08/1bc2c9ad-60ce-4020-ab44-98f6c00e0ff1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&width=560&autoplay=true&height=340&time= live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/ayntv?layout=4&height=340&width=560&autoplay=true</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/afganistan/131-Ayna-TV-2.jpg</thumbnail>
 </item>
 
 <item>
