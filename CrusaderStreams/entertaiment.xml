@@ -10,98 +10,10 @@
 
 ﻿
 <item>
-<title>Al Hayat Orange</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-301/playplist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-2Mkww9LCzbs/T9Tu14eD4xI/AAAAAAAABPA/yhzmIdeNnVg/s1600/images+%284%29.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Hayat Blue</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-303/playplist.m3u8</link>
-<thumbnail>https://www.google.ca/search?q=al+hayat+tv+logo&client=safari&hl=en&source=lnms&tbm=isch&sa=X&ei=st7JUeTKKsqwygGv5oAg&ved=0CAkQ_AUoAA&biw=1024&bih=672#biv=i%7C3%3Bd%7CA-Pm_jqbD67RKM%3A</thumbnail>
-</item>
-
-<item>
-<title>MBC Max (Link 2)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-304/playplist.m3u8</link>
-<thumbnail>http://www.waleg.com/images/mbc-max-nlogo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Roya</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-306/playplist.m3u8</link>
-<thumbnail>http://ammanfashionweek.com/wp-content/uploads/2012/03/ro2ya-logo-1024x1024.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Cinema (Link 3)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-317/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_cinema.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nile TV</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-319/playplist.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/_FBe-4Qs4UAw/SKspRuUuraI/AAAAAAAAAQQ/BSnJjlI2o80/s320/nile_tv.gif</thumbnail>
-</item>
-
-<item>
-<title>Rotana Masriya (Link 3)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-322/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_masriya.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Rotana Khaligia (Link 3)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-325/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
-</item>
-
-<item>
-<title>Rotana Classic</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-326/playplist.m3u8</link>
-<thumbnail>http://www.sayidaty.net/dbpics/menu/pages/rotana-classic.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Nile Drama</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-331/playplist.m3u8</link>
-<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/nile_drama_tv_sport_channel_live_egypt_online_free_arabic_channel.png</thumbnail>
-</item>
-
-
-<item>
-<title>Nile Cinema</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-334/playplist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-X_Js8309inU/USYEG5WiTSI/AAAAAAAAGV0/bXu7WBoDegE/s1600/nile+cinema+tv+channel.jpg</thumbnail>
-</item>
-
-<item>
 <title>Chachaty Plus TV</title>
 <link>http://149.62.177.6:9001</link>
 <thumbnail>https://migoptv.googlecode.com/files/Chachaty.jpg</thumbnail>
 </item>
-
-<item>
-<title>MBC Drama</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-023/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC Max</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-014/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC Action</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-012/playplist.m3u8</link>
-<thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Rotana Cinema (Link 2)</title> 
@@ -113,12 +25,6 @@
 <title>Rotana Khaligia (Link 2)</title> 
 <link>http://149.62.177.6:9007</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_khalijia.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-013/playplist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
 </item>
 
 <item>
