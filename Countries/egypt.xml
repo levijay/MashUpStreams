@@ -11,6 +11,13 @@
 </item>
 
 <item>
+<title>Oscar Drama  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://nidal.myftp.org/hls/mux-udp-300/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/oscar_drama.png</thumbnail>
+</item>
+
+
+<item>
 <title>Al Hayat Blue</title>
 <link>http://96.44.147.10:1935/hls/mux-udp-303/playplist.m3u8</link>
 <thumbnail>http://behance.vo.llnwd.net/profiles/84540/projects/692394/a501ee2e8626a14bf9ad771c382b454b.jpg</thumbnail>

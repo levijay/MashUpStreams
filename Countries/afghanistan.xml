@@ -10,6 +10,23 @@
 <thumbnail>http://www.glwiz.com/web/epg/images/cim_303556.png</thumbnail>
 </item>
 
+<item>
+<title>Sat7  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://ASX.JahanTV.Com/sat7.asx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/b4/Sat-7_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Channel 1  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://asx.jahantv.com/ch1.asx</link>
+<thumbnail>http://static.tvlive32.com/logo/1TV_7237.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ardabil TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://ASX.JahanTV.Com/Ardabil-TV.asx</link>
+<thumbnail>http://www.samimrayaneh.com/images/company/refrences/ardabil.png</thumbnail>
+</item>
 
 <item>
 <title>Zhwandon TV</title>
@@ -43,8 +60,9 @@
 </item>
 
 <item>
-<title>Arezu TV</title>
-<link>rtmp://arezutv-live.cdn.ngenix.net/live/rtmp.stream playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf pageUrl=http://arezuonlinetv.com/</link>
+<title>Arezu TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/
+</link>
 <thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
 </item>
 
