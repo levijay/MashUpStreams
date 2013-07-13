@@ -17,14 +17,14 @@
 </item>
 
 <item>
-<title>Addounia TV</title>
+<title>Addounia TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://95.211.184.203/live playpath=donia swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live
 </link>
 <thumbnail>http://www.6rrb.net/tv/files/image/ADDOUNIA25879.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sama Syria</title>
+<title>Sama Syria  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://95.211.184.203:1935/live playpath=live swfUrl=http://www.sama-tv.net/player.swf live=true timeout=15 pageUrl=http://www.sama-tv.net/index.php?page=live</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
 </item>

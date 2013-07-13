@@ -10,7 +10,7 @@
 
 
 <item>
-<title>LB1 TV</title>
+<title>LB1 TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://212-68.livestream.com/mogulus-stream-edge/lb1tv playpath=rtmp://212-94.livestream.com/affiliateStream/lb1tv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6cÈ9766573747265616d2e636f6d2f6d6f67756c75732f6c623174762f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xCCCCCC&mute=false&iconColorOver=0xE7E7E7&time=&jsEnabled=false&color=0x000000&autoPlay=true live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/lb1tv?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC
 </link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2012/11/LB1-TV.gif</thumbnail>
@@ -19,6 +19,19 @@
 <item>
 <title>Rotana Music</title>
 <link>rtmp://livestreaming4.itworkscdn.net/rotanamousicalive playpath=rotanamousica_360p swfUrl=http://mousica.rotana.net/it-works/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mousica.rotana.net/r/live-tv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rotana Clip (Link 2)</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-324/playplist.m3u8</link>
+<thumbnail>http://watchtv.co/wp-content/uploads/2012/07/Rotana-Clip.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Rotana Music (Link 3)</title>
+<link>http://96.44.147.10:1935/hls/mux-udp-323/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
 </item>
 
