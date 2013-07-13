@@ -5,6 +5,24 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Asia</title>
+<link>http://65.51.67.40:1935/rtplive/asianet.stream/chunklist.m3u8?wowzasessionid=1172813113</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Malayalam</title>
+<link>rtmp://65.51.67.40:1935/rtplive playpath=event.stream swfUrl=http://malayalamiptv.net/usa/player_s4_0.swf live=true timeout=15 pageUrl=http://malayalamtv.tv/iframe/mtv-live.php</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Manorama</title>
+<link>http://65.51.67.40:1935/rtplive/manorama.stream/chunklist.m3u8?wowzasessionid=8297432</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>Survana</title>
 <link>rtmp://94.242.228.36:1935/live2 playpath=suvarna.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=suvarna.stream&vw=600&vh=450</link>
 <thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>
@@ -36,46 +54,46 @@
 
 
 <item>
-<title>NDTV 24x7  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>NDTV 24x7</title>
 <link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
 </item>
 
 <item>
-<title>NDTV India (Link 2)  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>NDTV India (Link 2)</title>
 <link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
 <thumbnail>http://www.ndtvmi.com/images/NDTV_India.jpg</thumbnail>
 </item>
 
 <item>
-<title>SIKH CHANNEL  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>SIKH CHANNEL</title>
 <link>rtmp://fml.9EA3.systemcdn.net/209EA3 playpath=SikhChannel swfUrl=https://www.sikhchannel.tv/Media/LiveStreaming.swf live=true timeout=15 pageUrl=https://www.sikhchannel.tv/WatchUs/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sikh_channel.png</thumbnail>
 </item>
 
 <item>
-<title>DIVYA TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>DIVYA TV</title>
 <link>rtmp://202.164.56.130/live/ playpath=livestream.swf swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://1tvlive.in/divya-channel/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/divya_tv.png</thumbnail>
 </item>
 
 
 <item>
-<title>AASTHA BHAJAN  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>AASTHA BHAJAN</title>
 <link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=aasthab.stream&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aastha_bhajan.png</thumbnail>
 </item>
 
 
 <item>
-<title>SADHNA TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>SADHNA TV</title>
 <link>rtmp://live.wmncdn.net/sadhanatv/ playpath=4d24ff49ec0573fbb1197aadf42fcbcd.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://1tvlive.in/sadhana-tv/</link>
 <thumbnail>http://cds.hello1.in:9080/cdsapis/WebResource/licon/4666/SadhnaTV.gif</thumbnail>
 </item>
 
 
 <item>
-<title>AASTHA  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>AASTHA</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=dd5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/aastha-bhajan/</link>
 <thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
 </item>
@@ -269,7 +287,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 <item>
-<title>India TV News  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>India TV News</title>
 <link>http://indiatvhdflash-lh.akamaihd.net/indiatvhdflashlive2_1_2@5451?v=2.4.5&fp=WIN%2011,7,700,224&r=JZOXF&g=FCMONERFIHBY</link>
 <thumbnailhttp://images.indiatvnews.com/businessindia/th/India_TV_awards2634.jpg</thumbnail>
 </item>

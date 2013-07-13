@@ -11,21 +11,9 @@
 </item>
 
 <item>
-<title>Sat7  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://ASX.JahanTV.Com/sat7.asx</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/b4/Sat-7_Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Channel 1  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://asx.jahantv.com/ch1.asx</link>
-<thumbnail>http://static.tvlive32.com/logo/1TV_7237.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ardabil TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://ASX.JahanTV.Com/Ardabil-TV.asx</link>
-<thumbnail>http://www.samimrayaneh.com/images/company/refrences/ardabil.png</thumbnail>
+<title>Hewad TV</title>
+<link>rtmp://64.37.60.10:1935/live playpath=hewadlive swfUrl=http://www.hewad.tv/tvshow/player/player.swf live=true timeout=15 pageUrl=http://www.hewad.tv/</link>
+<thumbnail>http://static.tvlive32.com/logo/Hewad-TV_8171.jpg</thumbnail>
 </item>
 
 <item>
@@ -91,7 +79,7 @@
 </item>
 
 <item>
-<title>Ayna  [COLOR=FFFF0000]New  Channels[/COLOR]</title>
+<title>Ayna  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
 <link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chayntv/2011/02/08/1bc2c9ad-60ce-4020-ab44-98f6c00e0ff1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&width=560&autoplay=true&height=340&time= live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/ayntv?layout=4&height=340&width=560&autoplay=true</link>
 <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/afganistan/131-Ayna-TV-2.jpg</thumbnail>
 </item>
