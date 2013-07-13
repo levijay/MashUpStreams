@@ -24,14 +24,14 @@
 
 <item>
 <title>Rotana Clip (Link 2)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-324/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-324/playplist.m3u8</link>
 <thumbnail>http://watchtv.co/wp-content/uploads/2012/07/Rotana-Clip.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Rotana Music (Link 3)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-323/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-323/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
 </item>
 

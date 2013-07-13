@@ -11,19 +11,19 @@
 
 <item>
 <title>Tele Liban</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-005/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-005/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_liban.jpg</thumbnail>
 </item>
 
 <item>
 <title>CBC +2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-506/playlist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-506/playlist.m3u8</link>
 <thumbnail>http://egylab.ucoz.com/tv/imge/cbc2channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Masriya  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-024/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-024/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_masriya_eg.jpg</thumbnail>
 </item>
 
@@ -133,25 +133,25 @@
 
 <item>
 <title>Future (Link 2)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-002/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-002/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
 </item>
 
 <item>
 <title>Future  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-006/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-006/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.jpg</thumbnail>
 </item>
 
 <item>
 <title>MTV Lebanon (Link 2)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-004/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-004/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 
 <item>
 <title>LBC  (Link 2)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-311/playplist.m3u8</link>
+<link>http://nidal.myftp.org/:1935/hls/mux-udp-311/playplist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/6/61/LBC_Europe_Logo.svg/220px-LBC_Europe_Logo.svg.png</thumbnail>
 </item>
 
