@@ -96,8 +96,8 @@
 
 
 <item>
-<title>KTV</title>
-<link>rtmp://141.8.244.56/base playpath=ktv.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ktv&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<title>KTV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/live playpath=k_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=k_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/KTV-Tamil-India-Logo.jpg</thumbnail>
 </item>
 
@@ -157,32 +157,32 @@
 </item>
 
 <item>
-<title>GTV SPV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>GTV SPV</title>
 <link>rtmp://50.7.130.42:1940/base2 playpath=tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Gtv-Spv-TV-Logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>Seithigal  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Seithigal</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/seithigal-live/</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/Kalaignar-Seithigal-TV-Logo1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Polimer TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Polimer TV</title>
 <link>rtmp://50.7.130.42:1940/base2 playpath=tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
 <thumbnail>http://www.mysixer.com/wp-content/uploads/2011/12/polimer-tv.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>Murasu TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Murasu TV</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
 <thumbnail>http://2.bp.blogspot.com/-ejSaJ3ua-Ow/T-aK0jpvgfI/AAAAAAAACzg/IqxO3wAZ1e0/s1600/murasu+tv+logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>Captain TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Captain TV</title>
 <link>rtmp://50.7.130.42:1940/base2 playpath=tamil0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://tamiltv.tv/captain-tv-live/</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/captain-tv-logo-1.jpg</thumbnail>
 </item>
