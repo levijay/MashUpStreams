@@ -7,6 +7,13 @@ http://database.freetuxtv.net/WebStreamExport/index?format=xml&type=1&status=2&l
 <thumbnail></thumbnail>
 
 <item>
+<title>Oldies Zouk  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/choldieszouktv/2009/12/09/5a0e4d59-c8e2-41ca-bed1-4e9867aa2846 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?hideChannelBranding=true&textLines=2&showMoreVideos=false&browseMode=false&mode=false&allowChat=true&lschannel=true&jsEnabled=false&showBorderControlBar=false&allowchat=false&autoPlay=true&time=&iconColor=0x555555&hideInfo=true&t=783674&borderColor=0xCCCCCC live=true timeout=15 pageUrl=http://www.livestream.com/embed/oldieszouktv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=783674</link>
+<thumbnail>https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/578805_10151109401837780_452609174_n.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>M6 Suisse</title>
 <link>rtsp://178.238.86.23/M6Suisse?sid=57518DFFA5CA7D6DA54E8A9FF9DFD1668B5104250C31233702B4F603CD4180D5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_ch.png</thumbnail>
