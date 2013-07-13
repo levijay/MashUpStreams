@@ -12,13 +12,13 @@
 
 <item>
 <title>Al Mayadeen (Link 3)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://nidal.myftp.org/:1935/hls/mux-udp-011/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-011/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Manar HD (Link 3)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://nidal.myftp.org/:1935/hls/mux-udp-001/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-001/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
 </item>
 
