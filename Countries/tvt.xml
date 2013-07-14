@@ -65,8 +65,8 @@
 </item>
 
 <item>
-<title>Star Vijay</title>
-<link>rtmp://141.8.244.56/base playpath=star_vijay.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_vijay&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<title>Star Vijay  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/live playpath=star_vijay_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=star_vijay_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Star-Vijay.jpg</thumbnail>
 </item>
 
@@ -96,7 +96,7 @@
 
 
 <item>
-<title>KTV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>KTV  </title>
 <link>rtmp://141.8.244.56/live playpath=k_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=k_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/02/KTV-Tamil-India-Logo.jpg</thumbnail>
 </item>
