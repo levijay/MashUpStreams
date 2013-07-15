@@ -5,8 +5,8 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>abs-cbn</title>
-<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
+<title>ABD-CBN  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://edge.isearch.to/edge playpath=pihx0rqoptn6zco swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=420&channel=49709&autoplay=true</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abs_cbn.png</thumbnail>
 </item>
 

@@ -17,8 +17,8 @@
 </item>
 
 <item>
-<title>Geo Entertaiment</title>
-<link>rtmp://188.122.91.6/app playpath=entgeo6 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=entgeo6&vw=600&vh=470</link>
+<title>Geo Entertaiment  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=geo_tv.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=geo_tv&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
 <thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/08/Geo-TV-live-streaming.jpg</thumbnail>
 </item>
 
@@ -161,9 +161,8 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 </item>
 
 <item>
-<title>Samaa TV</title>
-<link>rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://live.samaa.tv/player.swf live=true timeout=15
-pageUrl=http://www.hamariweb.com/pakistan-tv-channels/sama_tv.aspx</link>
+<title>Samaa TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://live.samaa.tv/player.swf live=true timeout=15 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/SAMAA-News-TV.jpg</thumbnail>
 </item>
 
@@ -183,8 +182,8 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 
 
 <item>
-<title>AAJ TV</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDEzIDg6Mzc6MDYgUE0maGFzaF92YWx1ZT1na050MGRaWnh3ZUVWQ0M2OXhoSUNBPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-aajnews swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/aajnews_iframe.html pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-aajnews&screen=true</link>
+<title>AAJ TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://94.75.250.49/liveorigin/_definst_/aajtak1/chunklist_w1163544816.m3u8</link>
 <thumbnail>http://www.zemtv.com/images/aaj-news-tv-channel-pakistan-logo.jpg</thumbnail>
 </item>
 
@@ -214,8 +213,8 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 <item>
-<title>ARY Digital</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=aryd.stream swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=aryd.stream&vw=600&vh=430=</link>
+<title>ARY Digital  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDI6MzA6NTQgUE0maGFzaF92YWx1ZT1DeHNCY0QvQm5RRnlLbURnT1JKUTdRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-aryentertainment swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/aryentertainment_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-aryentertainment&screen=true</link>
 <thumbnail>http://takatuk.com/wp-content/uploads/2008/09/ary-digital-tv-logo.gif</thumbnail>
 </item>
 
