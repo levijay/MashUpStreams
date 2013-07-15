@@ -23,28 +23,11 @@
 </item>
 
 <item>
-<title>Survana</title>
-<link>rtmp://94.242.228.36:1935/live2 playpath=suvarna.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=suvarna.stream&vw=600&vh=450</link>
-<thumbnail>http://4.bp.blogspot.com/-5DTzhxSdyi4/TSGts3UDGxI/AAAAAAAADGE/w2nUGut2OuI/s1600/suvarna_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>ETV Kannada</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=etvkn.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=etvkn.stream&vw=600&vh=450</link>
-<thumbnail>http://3.bp.blogspot.com/-NA3nOBKdwC0/UHpjjAutXcI/AAAAAAAAI_U/UQ-1-0Qdq48/s320/ETV+Kannada+Live+Streaming.jpg</thumbnail>
-</item>
-
-<item>
-<title>Udaya TV</title>
-<link>rtmp://94.242.228.36:1935/live2 playpath=udaya.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=udaya.stream&vw=600&vh=450</link>
+<title>Udaya TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/live playpath=udaya_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=udaya_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://tvshows.sulekha.com/tvimages/udaya-tv.jpg</thumbnail>
 </item>
 
-<item>
-<title>Zee Kannada</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=zeek.stream  swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=zeek.stream&vw=600&vh=430</link>
-<thumbnail>http://images1.wikia.nocookie.net/__cb20100704150057/logopedia/images/4/4f/Zee_Kannada.png</thumbnail>
-</item>
 
 <item>
 <title>PTC Punjabi</title>
@@ -80,17 +63,28 @@
 
 <item>
 <title>AASTHA BHAJAN</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=aasthab.stream&vw=600&vh=450</link>
+<link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=thab.stream&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aastha_bhajan.png</thumbnail>
 </item>
 
 
 <item>
-<title>SADHNA TV</title>
-<link>rtmp://live.wmncdn.net/sadhanatv/ playpath=4d24ff49ec0573fbb1197aadf42fcbcd.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf live=true timeout=15 pageUrl=http://1tvlive.in/sadhana-tv/</link>
+<title>SADHNA TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://edge-ap2.cloudfrontcdn.in:1935/device playpath=mystream.stream swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/sadhnatv/</link>
 <thumbnail>http://cds.hello1.in:9080/cdsapis/WebResource/licon/4666/SadhnaTV.gif</thumbnail>
 </item>
 
+<item>
+<title>MTunes  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<link>http://cdn.m.yuppcdn.net/liveorigin/mtunes.stream1/chunklist%7Bsessionid%7D%7Bbitrate%7D%7BplayStart%7D%7BplayDuration%7D%7Bdvr%7D%7BaudioOnly%7D%7Bngrp%7D.m3u8</link>
+<thumbnail>http://www.afaqs.com/news/company_news/article_grfx/2012/08/54614/Mtunes-press-release.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTunes (Link 2)</title>
+<link>rtmp://141.8.244.56/base playpath=mtuneshd.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
+<thumbnail>http://www.afaqs.com/news/company_news/article_grfx/2012/08/54614/Mtunes-press-release.jpg</thumbnail>
+</item>
 
 <item>
 <title>AASTHA</title>
@@ -105,16 +99,18 @@
 </item>
 
 <item>
-<title>Colors TV</title>
-<link>rtmp://141.8.244.56/base playpath=colors.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<title>Colors TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive64.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://1tvlive.in/colors-tv-3/
+</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>B4U Movies</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail></thumbnail>
+<title>B4U Movies  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430
+</link>
+<thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/B4U-Movies.jpg</thumbnail>
 </item>
 
 
@@ -124,13 +120,6 @@
 <thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>ZOOM TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk app=nwk playpath=zoomtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15 timeout=15</link>
-</item>
-
-
 <item>
 <title>MTunes HD</title>
 <link>rtmp://141.8.244.56/base/ playpath=mtunes_hd.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
@@ -138,39 +127,30 @@
 </item>
 
 <item>
-<title>9x Tashan HQ</title>
-<link>rtmp://cdn.nwk.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<title>9x Tashan HQ  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://46.249.213.93/iPhone/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr506k.m3u8?trackingid=4241520000&os=desktop&m3usessid=a0a7de87d9b0c4865a0575b4b5d2f831&len=38&gtime=1373851581&guid=7aee0f80cf1b4030820a123456789012&da=0&hk=9C12DF64BD29C8C4B455D7557A5C3131
+</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/9X-Tashan-TV-Logo1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sony TV</title>
-<link>rtmp://46.246.124.25/live playpath=tvsony4 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvsony4&amp;vw=600&amp;vh=470&amp;domain=http://www.desistreams.tv/embed/sony_tv.php swfVfy=true live=true timeout=15</link>
+<title>Sony TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=sony_tv1.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=sonytv&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_sab_tv_in.png</thumbnail>
 </item>
 
 <item>
-<title>Sony Sab TV</title>
-<link>rtmp://198.245.62.21:1935/live2 playpath=sab2.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf pageUrl=http://zonytvcom.info/saki/embed.php?live=sab2.stream&vw=600&vh=430</link>
+<title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://94.102.51.78/live33 playpath=u_sab swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=u_sab&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
-<item>
-<title>PTC Punjabi HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://deora.tv/images/ptc-punjabi-tv-live-streaming-channel-online-free.jpg</thumbnail>
-</item>
 
 <item>
-<title>PTC chakde HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=chakdeptc swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
+<title>PTC Chakde HQ  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://141.8.244.56/base playpath=ptc_chakde.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ptc_chakde&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc_chakde.png</thumbnail>
-</item>
-
-<item>
-<title>Alphaetc Punjabi HQ</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=etcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG</thumbnail>
 </item>
 
 
@@ -205,9 +185,9 @@
 </item>
 
 <item>
-<title>8XM TV</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDEzIDExOjAxOjMxIFBNJmhhc2hfdmFsdWU9R1BvRFpHMHdZVVhtZkd0dkpmTC92Zz09JnZhbGlkbWludXRlcz0y playpath=hamariweb-8xm swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/8xm_iframe.html live=true timeout=15
-pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-8xm&screen=true</link>
+<title>8XM TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDE6MTg6NDggQU0maGFzaF92YWx1ZT05Tm1XQk5NWkNQVHBtL1ZJZUlmeUZRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-8xm swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/8xm_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-8xm&screen=true
+</link>
 <thumbnail>http://3.bp.blogspot.com/-1AtimJwGzIU/UNWzn6D6doI/AAAAAAAAAR8/WEkshKKiLMw/s1600/8xm-TV-Pakistan.jpg</thumbnail>
 </item>
 
@@ -329,12 +309,6 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 <item>
-<title>Mazhavil Manorama</title>
-<link>rtmp://50.7.128.148/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/mazhavil-manorama-live/</link>
-<thumbnail>http://www.spiderkerala.net/attachments/Resources/7927-211017-Mazhavil-Manorama-Logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Surya TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://141.8.244.56/live playpath=surya_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=surya_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://keralaboxoffice.com/wp-content/uploads/2013/02/images11.jpg</thumbnail>
@@ -395,12 +369,6 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 </item>
 
 <item>
-<title>AASTHA</title>
-<link>rtmp://50.7.130.43:1939/base2 playpath=dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
-<thumbnail>http://india4indians.com/news/files/2010/12/aaa1.jpg</thumbnail>
-</item>
-
-<item>
 <title>ZEE SMILE</title>
 <link>rtmp://50.7.130.43:1939/base2 playpath=dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/zee-smile/</link>
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/Zee_Smile-logo.png</thumbnail>
@@ -421,7 +389,7 @@ pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamari
 
 <item>
 <title>ZEE TV</title>
-<link>rtmp://ams.direct-stream.org/edgelive playpath=zeetvhd swfUrl=http://direct-stream.org/swfs/player.swf pageUrl=http://direct-stream.org live=1</link>
+<link>rtmp://f.acaster.tv/live playpath=tvzee5 swfUrl=http://www.acaster.tv/player/mplayer327.swf live=true timeout=15 pageUrl=http://www.acaster.tv/embed.php?v=tvzee5&vw=600&vh=470&domain=http://desistreams.tv/embed/zee_tv.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
 </item>
 
