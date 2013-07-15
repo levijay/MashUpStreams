@@ -113,13 +113,6 @@
 <thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/B4U-Movies.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Zee Cinema (Link 2)</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true  timeout=15 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx</link>
-<thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
-</item>
-
 <item>
 <title>MTunes HD</title>
 <link>rtmp://141.8.244.56/base/ playpath=mtunes_hd.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
