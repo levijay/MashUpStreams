@@ -179,19 +179,6 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 
 <item>
-<title>AVT Khyber</title>
-<link>rtmp://69.1.72.29/jadooplus/stream920511.stream</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/AVT-Khyber-300x133.jpg</thumbnail>
-</item>
-
-<item>
-<title>AVT Khyber News</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTMgNDo0Mjo1MiBBTSZoYXNoX3ZhbHVlPXhDRzk5UmRqcGdtMzdMd2RJZmJ3WFE9PSZ2YWxpZG1pbnV0ZXM9Mg== playpath=hamariweb-khybernews swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/khybernews_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-khybernews&screen=true 
-</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/11/AVT-KHYBER-NEWS.jpg</thumbnail>
-</item>
-
-<item>
 <title>News 1  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
 <link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MTc6MDYgUE0maGFzaF92YWx1ZT1KQnJzOUxIWG9Nc1hHRXFvMVJnZ3BBPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-newsone swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/channels/newsone_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/hamariweb_iframe.php?app=hamariweb&stream=hamariweb-newsone&screen=true</link>
 <thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-News-One-Live.png</thumbnail>

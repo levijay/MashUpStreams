@@ -6,7 +6,7 @@
 
 <item>
 <title>MBC Max (Link 2)</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-304/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-304/playplist.m3u8</link>
 <thumbnail>http://www.waleg.com/images/mbc-max-nlogo.jpg</thumbnail>
 </item>
 
@@ -14,7 +14,7 @@
 
 <item>
 <title>MBC Drama</title>         
-<link>http://96.44.147.10:1935/hls/mux-udp-023/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-023/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
@@ -47,13 +47,13 @@
 
 <item>
 <title>MBC Action</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-012/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-012/playplist.m3u8</link>
 <thumbnail>http://en.kingofsat.net/jpg/mbc-action.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC Max</title> 
-<link>http://96.44.147.10:1935/hls/mux-udp-014/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-014/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_max.jpg</thumbnail>
 </item>
 
@@ -67,7 +67,7 @@
 
 <item>
 <title>MBC</title>
-<link>http://96.44.147.10:1935/hls/mux-udp-013/playplist.m3u8</link>
+<link>http://nidal.myftp.org/hls/mux-udp-013/playplist.m3u8</link>
 <thumbnail>http://3.bp.blogspot.com/-EIQKrChLYIg/Td8AWBN0P7I/AAAAAAAAAwU/-yEG5ER1jhg/s1600/mbc-group.jpg</thumbnail>
 </item>
 
