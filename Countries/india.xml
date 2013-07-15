@@ -11,6 +11,241 @@
 </item>
 
 <item>
+<title>Samay Live</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Haryana</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharah1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharah.aspx</link>
+<thumbnail>http://nritv.in/images/tv%20channel%20logos/sahara-haryana.png</thumbnail>
+</item>
+
+<item>
+<title>Sahara Uttar Pradesh</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sahara Samay News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_uttar_pradesh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Samay MP</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharamadhyap1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharamadhyap.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Samay Bihar</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
+<thumbnail>http://www.newtvworld.com/Images/sahara_samay_bihar.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aalami Sahara</title>
+<link>rtmp://cdn.m.yupptv.tv:80/liveorigin playpath=saharaaalami1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharaaalami.aspx</link>
+<thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/Aalami-Sahara.jpg</thumbnail>
+</item>
+
+<item>
+<title>ETV 2</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=etv21 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/etv2.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/200px-ETV2_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ET</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=etnow1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/etnow.aspx</link>
+<thumbnail>http://almasini.com/wp/wp-content/uploads/2010/12/ET-logo-CUTOUT-300x276.png</thumbnail>
+</item>
+
+<item>
+<title>Studio N News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=studion1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/studion.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/studio_n.png</thumbnail>
+</item>
+
+<item>
+<title>NDTV India</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvhindi9002 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvhindi.aspx</link>
+<thumbnail>http://www.wirelessduniya.com/wp-content/uploads/2012/01/ndtv-logo.png</thumbnail>
+</item>
+
+<item>
+<title>NDTV 24x7</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvenglish9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvenglish.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/300px-NDTV_247.svg.png</thumbnail>
+</item>
+
+<item>
+<title>NDTV Profit</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvprofit9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvprofit.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NDTV-Profit.pngthumbnail>
+</item>
+
+<item>
+<title>News X</title>
+<link>rtmp://cdn.m.yupptv.tv:80/liveorigin playpath=newsx1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/newsx.aspx</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/news-x-logo-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Times Now</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=yupptvlive1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/timesnow.aspx</link>
+<thumbnail>http://1.bp.blogspot.com/_ofapVvUwb5A/TFAhKvW4zBI/AAAAAAAADtk/FRoF2UZIGF8/s400/times_now.jpg</thumbnail>
+</item>
+
+
+
+Indian - Telugu / Malayam Streams:
+
+
+<item>
+<title>HMTV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=hmtv1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/hmtv.aspx</link>
+<thumbnail>http://livetvchannelsfree.incredibleorissa.com/wp-content/uploads/2011/10/hmtv-live.jpg</thumbnail>
+</item>
+
+<item>
+<title>NTV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ntv1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ntv.aspx</link>
+<thumbnail>http://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sakshi TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=sakshi1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/sakshitv.aspx</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Sakshi-TV1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV 5</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=tv51 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/tv5.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/ABC-TV5_logo_2008.png</thumbnail>
+</item>
+
+<item>
+<title>AsiaNet News</title>
+<link>rtmp://cdn.m.yuppcdn.net:80/liveorigin playpath=asianet2 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/asianetnews.aspx</link>
+<thumbnail>http://www.livemalayalam.com/wp-content/themes/MagFolio/thumb.php?src=http://www.livemalayalam.com/img/icon/asianet.jpg&w=500&zc=1&q=80&bid=1</thumbnail>
+</item>
+
+<item>
+<title>Survarna News 24x7</title>
+<link>rtmp://cdn.m.yuppcdn.net:1935/liveorigin playpath=suvarna2 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/suvarna.aspxlink>
+<thumbnail>https://si0.twimg.com/profile_images/1335430305/Suvarna_BLUE.jpg</thumbnail>
+</item>
+
+<item>
+<title>Raj News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=rajnewstamil1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/rajnewstamil.aspx</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Raj-News.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaya Plus</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jayaplus1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/jayaplus.aspx</link>
+<thumbnail>http://watchtv.co/wp-content/uploads/2012/05/Jaya-Plus-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jeevan</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=jeevan9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/jeevan.aspx</link>
+<thumbnail>http://www.keralatv.in/wp-content/uploads/2011/12/Jeevan-TV-Frequency.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bhakthi TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=bhakti9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/bhakti.aspx</link>
+<thumbnail>http://1.bp.blogspot.com/_k936YJKWxuM/SVxQfO3G0VI/AAAAAAAACqo/gXdDOTOd5wE/s400/WATCH_bakthi_TV_CHANNEL.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mahaa TV News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=mahatv9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/mahaa.aspx</link>
+<thumbnail>http://tollybolly.net/wp-content/uploads/2012/03/Mahaa-News-TV.png</thumbnail>
+</item>
+
+<item>
+<title>T News Live</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=channel49001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/tnews.aspx</link>
+<thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thanthi TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvhindu9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvhindu.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/27/Thanthi_TV_logo.jpg/200px-Thanthi_TV_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vanitha TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=vanitha9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://yupptv.com/streams/vanitha.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/7e/Vanitha_tv-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Janasari News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=channel81 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/janasrinews.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/janasri_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAA Music</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=maamusic1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/maamusic.aspx</link>
+<thumbnail>http://1.bp.blogspot.com/-pnpzHz1cYtY/UD0wxePdMcI/AAAAAAAACPA/g58YtLVnqU0/s1600/Maa-Music-live.jpg</thumbnail>
+</item>
+
+<item>
+<title>RK News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=rknews1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/rknews.aspx</link>
+<thumbnail>http://2.bp.blogspot.com/-dJaqeJlzoKg/TYNSnWZDEjI/AAAAAAAADWs/8-9RvpSFTNU/s1600/rk_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>ATA</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ata1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ataevent.aspx</link>
+<thumbnail>http://www.tristateata.com/files/QuickSiteImages/ATA-LOGO-NO-KICKER.jpg</thumbnail>
+</item>
+
+<item>
+<title>NATA</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=nata1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/nataevent.aspx</link>
+<thumbnail>http://www.alspec.com.au/_images/NATA.JPG</thumbnail>
+</item>
+
+<item>
+<title>Calvary TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=calavary1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/calvarytv.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/calvary_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mangalmaya TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aasaram1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/mangalmayatv.aspx</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>Seithigal TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=kalaignarlive1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/seithigaltv.aspx</link>
+<thumbnail>http://4.bp.blogspot.com/-nOtYb42zHlQ/TyLGBgDdbnI/AAAAAAAADes/0qTMyJK73Vs/s320/kalaignar_seithigal.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Aradana TV</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=aradana1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/aradana.aspx</link>
+<thumbnail>http://2.bp.blogspot.com/-nzcPUzOGJBc/UFYh_01lq5I/AAAAAAAAAKA/SjTT8tkgOBg/s200/aradhana.jpeg</thumbnail>
+</item>
+
+<item>
 <title>Malayalam</title>
 <link>rtmp://65.51.67.40:1935/rtplive playpath=event.stream swfUrl=http://malayalamiptv.net/usa/player_s4_0.swf live=true timeout=15 pageUrl=http://malayalamtv.tv/iframe/mtv-live.php</link>
 <thumbnail></thumbnail>
