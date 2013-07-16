@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>MTV Lebanon (Link 2)</title>
+<title>MTV Lebanon</title>
 <link>http://nidal.myftp.org/hls/mux-udp-004/playplist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
@@ -41,19 +41,6 @@
 </item>
 
 <item>
-<title>Tele Liban</title>
-<link>http://nidal.myftp.org/hls/mux-udp-005/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tele_liban.jpg</thumbnail>
-</item>
-
-<item>
-<title>Chachaty Plus TV</title>
-<link>http://149.62.177.6:9001</link>
-<thumbnail>https://migoptv.googlecode.com/files/Chachaty.jpg</thumbnail>
-</item>
-
-
-<item>
 <title>Al Mayadeen (Link 2)</title>
 <link>rtmp://almayadeen.fms-01.visionip.tv/live/ playpath=almayadeentv-almayadeen-live-16x9-SD</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
@@ -75,12 +62,6 @@
 <title>Noursat</title>
 <link>rtmp://fl1.viastreaming.net/noursat playpath=livestream swfUrl=http://noursat.tv/ar/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dnoursat%2Barabic%2Blive%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://noursat.tv/ar/receive-us.php&usg=ALkJrhiUZbCasalz4s6L1CC-Rp2AsOuqOQ</link>
 <thumbnail>http://svetomir.blox.pl/resource/Noursat.jpg</thumbnail>
-</item>
-
-<item>
-<title>MTV Lebanon</title>
-<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf live=true timeout=15 pageUrl=http://mtv.com.lb/Player/654/451</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png</thumbnail>
 </item>
 
 <item>
@@ -115,14 +96,8 @@
 </item>
 
 <item>
-<title>LB1 TV</title>
-<link>rtmp://212-68.livestream.com/mogulus-stream-edge/lb1tv playpath=rtmp://212-94.livestream.com/affiliateStream/lb1tv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6cÈ9766573747265616d2e636f6d2f6d6f67756c75732f6c623174762f6c69766573747265616d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xCCCCCC&mute=false&iconColorOver=0xE7E7E7&time=&jsEnabled=false&color=0x000000&autoPlay=true live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/lb1tv?layout=4&color=0x000000&mute=false&autoPlay=true&iconColorOver=0xE7E7E7&iconColor=0xCCCCCC</link>
-<thumbnail>http://tv-online.in/wp-content/uploads/2012/11/LB1-TV.gif</thumbnail>
-</item>
-
-<item>
-<title>Al Hiwar</title>
-<link>http://209.236.66.43/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<title>Al Hiwar  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://www.alhiwar.tv/&usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_hiwar.png</thumbnail>
 </item>
 
