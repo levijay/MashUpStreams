@@ -85,7 +85,7 @@
 
 <item>
 <title>Noor TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://nooortv.flashwebtown.com:1935/nooortv<playpath>nooortv swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.afghanlive-tvs.com/2013/04/object-id-player-classid-clsidd27cdb6e.html#.UeR7rNJwq8c/</link>
+<link>rtmp://nooortv.flashwebtown.com:1935/nooortv playpath=nooortv swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.afghanlive-tvs.com/2013/04/object-id-player-classid-clsidd27cdb6e.html#.UeR7rNJwq8c/</link>
 <thumbnail>http://3.bp.blogspot.com/-hJ4PQEu3B_8/T_2OaTou78I/AAAAAAAAAPY/2oMyVqnMFu4/s1600/noor_tv_uk.png</thumbnail>
 </item>
 
