@@ -31,13 +31,13 @@
 <item>
 <title>Press TV</title>
 <link>http://presstv_hls-lh.akamaihd.net/i/presstv_en@104592/master.m3u8</link>
-<thumbnail>http://newsimg.bbc.co.uk/media/images/45999000/jpg/_45999887_presstvnewslogo.jpg</thumbnail>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/52/medium_press_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>RT Arabic</title>
 <link>http://media4.lsops.net/live/smil:rustoday_ar.smil/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-xXGtYusj00I/TiKRdpAtvoI/AAAAAAAAAcE/Rk4P6Lw7JQA/s200/rt.jpg</thumbnail>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/18/medium_rt.jpg</thumbnail>
 </item>
 
 <item>
@@ -55,12 +55,12 @@
 <item>
 <title>Al Mayadeen</title>
 <link>http://hd2.lsops.net/live/almayade_ar_hls.smil/playlist.m3u8</link>
-<thumbnail>http://www.bbgstrategy.com/wp-content/media/sites/4/2012/06/al-mayadeen.jpg</thumbnail>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/159/medium_image.jpg</thumbnail>
 </item>
 
 <item>
 <title>BBC Arabic</title>
 <link>http://media10.lsops.net/live/smil:bbcarab_ar.smil/playlist.m3u8</link>
-<thumbnail>http://hub.tv-ark.org.uk/images/International/international_images/middle_east_images/bbc_arabic/bbc_arabic_2009a.jpg</thumbnail>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/34/medium_bbcarab_en.jpg</thumbnail>
 </item>
 
