@@ -48,9 +48,8 @@
 </item>
 
 <item>
-<title>Arezu TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/
-</link>
+<title>Arezu TV</title>
+<link>rtmp://95.84.240.45:1945/live playpath=rtmp.stream swfUrl=http://arezuonlinetv.com/flowplayer-3.2.11.swf live=true timeout=15 pageUrl=http://arezuonlinetv.com/</link>
 <thumbnail>http://i3.ytimg.com/i/2yBwG92O_IuMX0aF3ZMFPg/mq1.jpg?v=4fb23b21</thumbnail>
 </item>
 
@@ -61,13 +60,13 @@
 </item>
 
 <item>
-<title>Ariana TV</title>
-<link>http://62.27.87.54:4441/AfghanGbRlivestream</link>
+<title>Ariana TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://arianafml.zaphyr.net/206BA0 playpath=ArianaTV swfUrl=http://arianawpc.zaphyr.net/006BA0/player57.swf live=true timeout=15 pageUrl=http://www.afghanlive-tvs.com/2013/06/ariana-tv-kabul-version.html#.UeR1V9Jwq8f/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
 </item>
 
 <item>
-<title>Gem Dari  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Gem Dari</title>
 <link>http://38.117.88.154/GemDari1?TICKET/path/to/media.file</link>
 <thumbnail>http://external.ak.fbcdn.net/safe_image.php?d=AQBNxq4zCaNPBF0h&url=https%3A%2F%2Ffbcdn-profile-a.akamaihd.net%2Fhprofile-ak-ash4%2F372869_312738112144543_701274170_n.jpg</thumbnail>
 </item>
@@ -85,8 +84,8 @@
 </item>
 
 <item>
-<title>Noor TV</title>
-<link>rtmp://ustreamlivefs.fplive.net/ustream3live-live/ playpath=stream_live_1_1_1738126 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1 timeout=15</link>
+<title>Noor TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://nooortv.flashwebtown.com:1935/nooortv<playpath>nooortv swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.afghanlive-tvs.com/2013/04/object-id-player-classid-clsidd27cdb6e.html#.UeR7rNJwq8c/</link>
 <thumbnail>http://3.bp.blogspot.com/-hJ4PQEu3B_8/T_2OaTou78I/AAAAAAAAAPY/2oMyVqnMFu4/s1600/noor_tv_uk.png</thumbnail>
 </item>
 
@@ -123,14 +122,14 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 </item>
 
 <item>
-<title>RTA</title>
-<link>http://62.27.87.54:4442/AfghanGbRlivestream</link>
+<title>RTA Milli  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://64.37.60.10:1935/live playpath=rtastream swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/rta.php/</link>
 <thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
 </item>
 
 <item>
-<title>Tolo TV</title>
-<link>http://62.27.87.54:4453/AfghanGbRlivestream</link>
+<title>Tolo TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://178.18.23.129/live playpath=TOOl swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=TOOl&vw=590&vh=360/</link>
 <thumbnail>http://steppesinsync.files.wordpress.com/2011/09/tolo.jpg</thumbnail>
 </item>
 
