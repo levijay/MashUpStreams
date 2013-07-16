@@ -5,6 +5,30 @@
 </item>
 
 <item>
+<title>CNN News</title>
+<link>http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/84/medium_cnn.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Euronews English</title>
+<link>http://akamedia10.lsops.net/live/smil:euronews_en.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/1/medium_euronews.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Euronews Arabic</title>
+<link>http://akamedia10.lsops.net/live/smil:euronews_ar.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/1/medium_euronews.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Al Jazeera English</title>
+<link>http://hd2.lsops.net/live/smil:aljazeer_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/3/medium_aljazeer_en.jpg</thumbnail>
+</item> 
+
+<item>
 <title>Press TV</title>
 <link>http://presstv_hls-lh.akamaihd.net/i/presstv_en@104592/master.m3u8</link>
 <thumbnail>http://newsimg.bbc.co.uk/media/images/45999000/jpg/_45999887_presstvnewslogo.jpg</thumbnail>
