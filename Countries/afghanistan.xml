@@ -139,4 +139,16 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 <thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
 </item>
 
+<item>
+<title>Tolo 2</title>
+<link>rtmp://178.18.23.128/live playpath=aftolafpg swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=aftolafpg&vw=670&vh=410/</link>
+<thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
+</item>
+
+<item>
+<title>Noor TV</title>
+<link>rtmp://nooortv.flashwebtown.com:1935/nooortv playpath=nooortv swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.afghanvideos.com/noor-tv.php/</link>
+<thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>
+</item>
+
 </channel>
