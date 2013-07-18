@@ -6,6 +6,883 @@ type=video
 name=ABC
 URL=rtmp://edge.isearch.to/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
+# 1905322
+type=video
+name=HOT Comedy Central Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/4
+
+
+# 1905321
+type=video
+name=HOT Family Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/3
+
+
+# 1905319
+type=video
+name=HOT Gold Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/41
+
+
+# 1905313
+type=video
+name=Yes Action Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/16
+
+
+# 1905312
+type=video
+name=Yes Drama Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/13
+
+
+# 1905310
+type=video
+name=Yes Doco Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/14
+
+
+# 1905299
+type=video
+name=Nick JR Russia
+URL=http://goo.gl/9ikS8
+
+
+# 1905298
+type=video
+name=Disney Channel US
+URL=rtmp://edge.isearch.to/edge/2tag4dzgwof5ma2 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1890074
+type=video
+name=MTV Vietnam
+URL=http://203.162.16.22/lives/origin02/bts-mtvsd.isml/bts-mtvsd.m3u8
+
+
+# 1889919
+type=video
+name=Discovery Channel Vietnam
+URL=http://203.162.16.22/lives/origin02/discoverysd.isml/discoverysd.m3u8
+
+
+# 1888034
+type=video
+name=BET US
+URL=rtmp://edge.isearch.to/edge/kexkxje3nqi6dtl pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1879721
+type=video
+name=NBC US
+URL=rtmp://edge.isearch.to/edge/1bskugsv6mvbb3q pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1879720
+type=video
+name=National Geographic US
+URL=rtmp://edge.isearch.to/edge/0d7lqq5x84xdci3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to
+
+
+# 1878988
+type=video
+name=Weekly Wrestling Live - Raw - Monday@8pm Impact - Thursday@9pm Smackdown - Friday@8pm
+URL=rtmp://85.12.5.6/vl/_definst_ playpath=testup swfurl=http://www.veemi.com/player/player-licensed.swf live=1 pageurl=http://www.veemi.com/Impact Wrestling
+
+
+# 1757294
+type=playlist
+name=Live UK TV Channels
+URL=http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
+
+
+# 1799716
+type=playlist
+name=Music Channels
+URL=http://www.navixtreme.com/playlist/81920/music_channels.plx
+
+
+# 1799717
+type=playlist
+name=News Channels
+URL=http://www.navixtreme.com/playlist/81914/news_channels.plx
+
+
+# 1799721
+type=playlist
+name=Shopping Channels
+URL=http://www.navixtreme.com/playlist/81928/shopping_channels.plx
+
+
+# 1799715
+type=playlist
+name=TV Shows 24/7 High Quality Only
+URL=http://www.navixtreme.com/playlist/84246/tv_shows_247_high_quality_onl
+
+
+# 1799724
+type=playlist
+name=VEETLE
+URL=http://www.navixtreme.com/cgi-bin/json2plx.cgi?url=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3D70a37623f85b83d9e3c769a6a6463b13%26_render%3Djson
+
+
+# 1740310
+type=video
+name=A&E US
+URL=rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1824674
+type=video
+name=ABC US
+URL=rtmp://edge.isearch.to/edge/aipujcyjcc27zvu swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to
+
+
+# 1877575
+type=video
+name=ABC US
+URL=rtmp://edge.isearch.to/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1661920
+type=video
+name=AMC US
+URL=rtmp://edge.isearch.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1721617
+type=video
+name=Animal Planet HD Russia
+URL=rtmp://s01.webport.tv/promo/mtv playpath=mtv pageURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv live=true[hide]
+
+
+# 1686780
+type=video
+name=AXN Portugal
+URL=rtmp://edge.isearch.to/edge/dw657dcdmdf0vap swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1791650
+type=video
+name=AXN Taiwan
+URL=http://widih.modifikasi.com/tv/cntv.php?id=65
+
+
+# 1686113
+type=video
+name=AXN Black Portugal
+URL=rtmp://edge.isearch.to/edge/79fkf9ugubolnai swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1686112
+type=video
+name=AXN White Portugal
+URL=rtmp://edge.isearch.to/edge/pe94wt2bo03n4rt swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1768857
+type=video
+name=Baby TV Russia
+URL=http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800
+
+
+# 1833143
+type=video
+name=BBC Entertainment UAE
+URL=http://goo.gl/GQByg
+
+
+# 1769161
+type=video
+name=Biography Channel Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800
+
+
+# 1708099
+type=video
+name=Bravo US
+URL=rtmp://edge.isearch.to/edge/zqr56sq58858qgu swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to FX
+
+
+# 1757685
+type=video
+name=CBS US
+URL=rtmp://edge.isearch.to/edge/nx82e47g1025mdc swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1702399
+type=video
+name=Cinemax India
+URL=rtmp://edge.isearch.to/edge/nl1yg9ant34fy93 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1396239
+type=video
+name=CNN US
+URL=rtmp://edge.isearch.to/edge/rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1773617
+type=video
+name=CNN US
+URL=rtmp://c.cdn.msnbclive.eu/edge/cnn_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1
+
+
+# 1672636
+type=video
+name=Comedy Central US (Set Audio Offset Ahead By 0.550)
+URL=rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfUrl=http://yukons.net/yukplay.swf  pageUrl=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1
+player=default
+rating=0.00
+
+# 1769180
+type=video
+name=Comedy Central HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?bitrate=800
+
+
+# 1769162
+type=video
+name=Crime & Investigation Network Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800
+
+
+# 1824673
+type=video
+name=The CW US
+URL=rtmp://edge.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48192/watch-live-CW-streaming-channel-for-free
+
+
+# 1685600
+type=video
+name=Discovery Channel US
+URL=rtmp://edge.isearch.to/edge/it82brayqtelkyi swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1693470
+type=video
+name=Discovery Channel Thailand
+URL=rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:discovery.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/discovery-366E61.html token=na^tu12%28aqw
+
+
+# 1790547
+type=video
+name=Discovery Science Bangkok
+URL=rtsp://69.197.154.238/dssc.ujk
+
+
+# 1832619
+type=video
+name=Discovery World HD China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=48
+
+
+# 1835060
+type=video
+name=Diva Universal Russia
+URL=http://goo.gl/jhE4y
+
+
+# 1673914
+type=video
+name=Docu Box Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8
+
+
+# 1390203
+type=video
+name=DoughyGuy Broadcast System
+URL=http://65.60.19.42:8380/;stream.nsv
+
+
+# 1875261
+type=video
+name=Eastwood Movies China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=43
+
+
+# 1769176
+type=video
+name=Edge HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800
+
+
+# 1805882
+type=video
+name=English Club TV Russia
+URL=http://94.242.221.141/hls/a-lo/stream132.m3u8
+
+
+# 1348380
+type=video
+name=ESPN US
+URL=rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
+
+
+# 1552454
+type=video
+name=ESPN 2 US
+URL=rtmp://edge.isearch.to/edge/r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1559787
+type=video
+name=ESPN Plus Brazil
+URL=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html
+
+
+# 1722791
+type=video
+name=Fashion Box HD Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+
+
+# 1769167
+type=video
+name=Fashion TV HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800
+
+
+# 1689040
+type=video
+name=Fight Box HD Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8
+
+
+# 1834565
+type=video
+name=Food Network US
+URL=rtmp://edge.isearch.to/edge playpath=y60lx8lkyexxnry swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1685601
+type=video
+name=Food Television New Zealand
+URL=rtmp://edge.isearch.to/edge/r7oi6ylf755rcno swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1839837
+type=video
+name=FOX US
+URL=rtmp://edge.isearch.to/edge playpath=tzk4z1tgmhvuibv swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1790658
+type=video
+name=FOX Portugal
+URL=rtmp://edge.isearch.to/edge/g5244477x253rk4 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1790654
+type=video
+name=FOX Crime Portugal
+URL=rtmp://edge.isearch.to/edge/qe4ivz5egll49bx swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1595486
+type=video
+name=FOX Life Portugal
+URL=rtmp://edge.isearch.to/edge/zsykl0nvdr7xf0x pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1870024
+type=video
+name=FOX Life Russia
+URL=http://goo.gl/gFNpc
+
+
+# 1685693
+type=video
+name=FOX Movies
+URL=rtmp://edge.isearch.to/edge/hc992q7x7cz86t9 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1789657
+type=video
+name=FOX News US
+URL=http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800
+
+
+# 1540487
+type=video
+name=FOXNEWS.COM Live US
+URL=http://foxhdlive-f.akamaihd.net/DCL_1_600@6475?%20v=2.11.3&fp=WIN%2011,5,31,137&r=NSUNU&g=PRPGTWWACWEM
+
+
+# 1839838
+type=video
+name=FX US
+URL=rtmp://edge.isearch.to/edge playpath=xlawa3krny5pxjy swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1769179
+type=video
+name=FX HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800
+
+
+# 1875266
+type=video
+name=FX HD Thailand
+URL=http://widih.modifikasi.com/tv/cntv.php?id=81
+player=default
+rating=5.00
+
+# 1805019
+type=video
+name=Hallmark Channel US (Set Audio Offset Ahead By 0.550)
+URL=rtmp://edge.isearch.to/edge playpath=8m99o0tf3zpmbwj swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/30131/watch-live-Hallmark_channel-streaming-channel-for-free
+
+
+# 1791142
+type=video
+name=HBO Bangkok
+URL=rtsp://69.197.154.238/hbohd.uewhdfydsg
+
+
+# 1693472
+type=video
+name=HBO HD Thailand
+URL=rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:hbo.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/hbo-31326E61.html token=na^tu12%28aqw
+
+
+# 1685695
+type=video
+name=HBO Comedy
+URL=rtmp://edge.isearch.to/edge/a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685696
+type=video
+name=HBO Hits
+URL=rtmp://edge.isearch.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1791649
+type=video
+name=HBO Signature Thailand
+URL=http://widih.modifikasi.com/tv/cntv.php?id=82
+
+
+# 1830760
+type=video
+name=HGTV US
+URL=rtmp://edge.isearch.to/edge/1u2l3b0jop6e5ie swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1707621
+type=video
+name=History Channel US
+URL=rtmp://edge.isearch.to/edge/cpurxuuwv3ljnji swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1840309
+type=video
+name=History Channel US
+URL=rtmp://edge.isearch.to/edge playpath=kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48214/watch-livE-history_{HD}streaming-channel
+
+
+# 1773618
+type=video
+name=HLN US
+URL=rtmp://a.cdn.msnbclive.eu/edge/hln_live swfurl=http://msnbclive.eu/getswf.php?name=player.swf live=1 pageurl=http://blog.livenewschat.tv/the-nancy-grace-room/
+
+
+# 1791641
+type=video
+name=Hollywood Movies China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=23
+
+
+# 1792087
+type=video
+name=Hollywood Portugal
+URL=rtmp://edge.isearch.to/edge/ak7qf6qh54qg8z8 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1868150
+type=video
+name=Hot Movies Premium Korea (Everyon.tv)
+URL=rtmp://lm02.everyon.tv:1935/ptv2/pld511
+
+
+# 1875677
+type=video
+name=KDKZ 18
+URL=rtmp://fmsedge2.tikilive.com:1935/view/31830_291/ playpath=stream31830 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 live=1 pageUrl=http://www.tikilive.com/show/kdkz18
+
+
+# 1708103
+type=video
+name=Lifetime US
+URL=rtmp://edge.isearch.to/edge/cexop1sm47oqcrh swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1613079
+type=video
+name=Lotus Macau China
+URL=rtmp://58.97.57.152/live playpath=ch33 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
+
+
+# 1756844
+type=video
+name=MAX HD Brazil
+URL=rtmp://edge.isearch.to/edge/6st48zwie8fnzf9 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1805020
+type=video
+name=Max Prime Brazil
+URL=rtmp://edge.isearch.to/edge/61nqzf0q0sua42b swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1875246
+type=video
+name=MGM China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=93
+
+
+# 1685719
+type=video
+name=MGM Portugal
+URL=rtmp://edge.isearch.to/edge/b0fehgu27mjkcxu swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1766897
+type=video
+name=MSNBC US
+URL=http://fw01.livem3u8.me.totiptv.com/live//7f2989e3f87e4efdb36bac56b64dca62.m3u8?bitrate=800
+
+
+# 1773616
+type=video
+name=MSNBC US
+URL=rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1
+
+
+# 1708105
+type=video
+name=MTV US (Set Audio Offset Ahead By 0.550)
+URL=rtmp://edge.isearch.to/edge/y96hrc1tcg0vtcg swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to FX
+
+
+# 1687976
+type=video
+name=MTV Portugal
+URL=rtmp://edge.isearch.to/edge/pluifrgyd9hwij8 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1769183
+type=video
+name=Nat Geo Adventure HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800
+
+
+# 1789248
+type=video
+name=Nat Geo Wild Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800
+player=default
+rating=5.00
+
+# 1791657
+type=video
+name=National Geographic HD China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=46
+
+
+# 1685717
+type=video
+name=National Geographic Thailand
+URL=rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:national.geographic.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/national-geographic-31356E61.html token=na^tu12%28aqw
+
+
+# 1348314
+type=video
+name=NBA TV US
+URL=rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV
+
+
+# 1877646
+type=video
+name=NBC US
+URL=rtmp://edge.isearch.to/edge/cqhm3klmkzmbrez swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1562241
+type=video
+name=NBC US (Set Audio Offset Ahead By 0.550)
+URL=rtmp://edge.isearch.to/edge/q2bufwoa7lkxds3 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1790653
+type=video
+name=NBC Sports Network US
+URL=rtmp://edge.isearch.to/edge/mnsq6xfnnjcqiv6 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+player=default
+rating=5.00
+
+# 1348316
+type=video
+name=NFL Network US
+URL=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+
+
+# 1877560
+type=video
+name=Nickelodeon US
+URL=rtmp://edge.isearch.to/edge/ playpath=hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive.swf live=true pageUrl=http://www.ilive.to/view/48100/watch-live-Nickelodeon-streaming-channel-for-free
+
+
+# 1415031
+type=video
+name=OC16 Hawaii US
+URL=rtmp://24.165.45.209/oc16live/ swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ playpath=oc16 live=true
+
+
+# 1601903
+type=video
+name=Outdoor Channel Thailand
+URL=rtmp://lm02.everyon.tv:1935/ptv2/pld613
+player=default
+rating=5.00
+
+# 1769175
+type=video
+name=Outdoor Channel Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800
+
+
+# 1794402
+type=video
+name=Oxygen US
+URL=rtmp://edge.isearch.to/edge/zmt2swezlswh9nz swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1348318
+type=video
+name=PBS US
+URL=http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf
+player=mplayer
+rating=-1.00
+
+# 1348428
+type=video
+name=PBS 2 US
+URL=http://165.95.101.52:80/kamu-weather?MSWMExt=.asf
+
+
+# 1661926
+type=video
+name=The Pentagon Channel US
+URL=rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60
+
+
+# 1824672
+type=video
+name=Pro-Wrestling
+URL=rtmp://80.93.53.88:1935/live/wrestling.stream
+
+
+# 1348327
+type=video
+name=Redbull TV US
+URL=rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfUrl=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageUrl=http://livetvcafe.net/ swfVfy=true live=true
+
+
+# 1557146
+type=video
+name=Relax TV
+URL=rtmp://www.planeta-online.tv:1936/live/channel_3 swfUrl=http://www.planeta-online.tv/planeta_player.swf pageUrl=http://www.planeta-online.tv/?ch=3Vfy=true live=true tcUrl=rtmp://www.planeta-online.tv:1936/live/channel_3
+
+
+# 1592062
+type=video
+name=Showtime Hits
+URL=rtmp://edge.isearch.to/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1791141
+type=video
+name=Sony Entertainment Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800
+
+
+# 1875234
+type=video
+name=Sony Entertainment TV Portugal
+URL=rtmp://85.12.5.147/edge playpath=fabxrdpvuds3bbj swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/49721/watch-live-Sony-streaming-channel-for-free
+
+
+# 1724903
+type=video
+name=Sony Spin Portugal
+URL=rtmp://edge.isearch.to/edge/ec8u5a2zb3pajzu swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1723184
+type=video
+name=Spike TV US
+URL=rtmp://edge.isearch.to/edge/m5bn1sv1r8644m6 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1875249
+type=video
+name=Star Movies HD China China
+URL=http://widih.modifikasi.com/tv/cntv.php?id=47
+
+
+# 1832615
+type=video
+name=Star Movies India
+URL=rtmp://edge.isearch.to/edge/kggplz5w9bpaaaj swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1751378
+type=video
+name=Star World HD Thailand
+URL=rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:star.world.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/star-world-hd-31386E61.html token=na^tu12%28aqw
+
+
+# 1685704
+type=video
+name=Starz Hits
+URL=rtmp://edge.isearch.to/edge/8g7x80ozu6hz2ds swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685705
+type=video
+name=SYFY US
+URL=rtmp://edge.isearch.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1769178
+type=video
+name=SYFY Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800
+
+
+# 1791149
+type=video
+name=SYFY Universal Portugal
+URL=rtmp://edge.isearch.to/edge/ohabkpgn3e25r3v swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1834564
+type=video
+name=TBS US
+URL=rtmp://edge.isearch.to/edge playpath=0is1gbnvkgqmpk3 swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1685711
+type=video
+name=TC Premium Portugal
+URL=rtmp://31.204.128.75/live/master19 pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Premium.html swfUrl=http://www.cdnbr.biz/swf/player.swf swfVfy=true live=true / TELECINE PREMIUM
+
+
+# 1768859
+type=video
+name=Thrill Channel Indonesia
+URL=http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800
+
+
+# 1681205
+type=video
+name=TNT US
+URL=rtmp://edge.isearch.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685715
+type=video
+name=TNT Portugal
+URL=rtmp://edge.isearch.to/edge/ftvmi59pwr6ggcx swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1769181
+type=video
+name=Travel Channel HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800
+
+
+# 1834568
+type=video
+name=TV Land US
+URL=rtmp://edge.isearch.to/edge/7yxirr4046nk5ca swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1706447
+type=video
+name=TWiT US
+URL=http://bglive-a.bitgravity.com/twit/live/high
+
+
+# 1685709
+type=video
+name=Universal Channel Portugal
+URL=rtmp://edge.isearch.to/edge/u4yqa53fa15ct18 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1769164
+type=video
+name=Universal Channel Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800
+
+
+# 1685708
+type=video
+name=USA Network US
+URL=rtmp://edge.isearch.to/edge/ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1702390
+type=video
+name=WB TV Portugal
+URL=rtmp://85.12.5.8/live/warner pageUrl=http://tvguarapa.net/canais/espn/warner.html swfUrl=http://tvguarapa.net/pl/player.swf swfVfy=true live=true /WARNER
+
+
+# 1769166
+type=video
+name=WE HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800
+
+
+# 1790501
+type=video
+name=Wealth TV US
+URL=http://fw01.livem3u8.me.totiptv.com/live/ce9a1585f45d4379970b95308df3f879.m3u8?bitrate=800
+
+
+# 1877576
+type=video
+name=The Weather Channel US
+URL=rtmp://edge.isearch.to/edge/0ofj5z5lab0b3ox pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1751377
+type=video
+name=WeatherNation TV US
+URL=rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1
+
+
+# 1875676
+type=video
+name=WEYW 19
+URL=rtmp://fmsedge2.tikilive.com:1935/view/23237_051/ playpath=stream23237 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://www.tvchannel19.com/page38.html
+
+
+# 1542658
+type=video
+name=World Fashion TV Italy
+URL=rtmp://83.229.210.89/WFC_EU/BTVwfceu0
+
+
+# 1875675
+type=video
+name=WSFD 15
+URL=rtmp://fmsedge1.tikilive.com:1935/view/32434_292/ playpath=stream32434 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 live=1 pageUrl=http://www.tikilive.com/show/wsfd15
+
+
+
 
 # 1877790
 type=video
