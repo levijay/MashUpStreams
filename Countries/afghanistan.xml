@@ -4,6 +4,19 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+
+<item>
+<title>Lemar tv</title>
+<link>http://afghantvslive.com:40623</link>
+<thumbnail>http://deora.tv/program-images/lemar-tv-live-onlive-streaming-afghanistan.jpg</thumbnail>
+</item>
+
+<item>
+<title>Zhwandoon TV</title>
+<link>http://afghantvslive.com:39351</link>
+<thumbnail>http://www.hamrangi.com/file/pic/user/4932.jpg</thumbnail>
+</item>
+
 <item>
 <title>Bidari TV</title>
 <link>rtsp://bidari.streamwebtown.com/bidaritv</link>
