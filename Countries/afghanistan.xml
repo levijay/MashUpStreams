@@ -4,6 +4,29 @@
 <name>Afghanistan TV Channels</name>
 <thumbnail></thumbnail>
 
+<item>
+<title>1TV</title>
+<link>http://afghantvslive.com:52537/</link>
+<thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>ATN Europe</title>
+<link>rtsp://50.97.117.4/AFG-ATN-EUROPE</link>
+<thumbnail>http://pull.khaamapress.netdna-cdn.com/wp-content/uploads/2012/02/Logo-Header-Aryana-300x199.jpg</thumbnail>
+</item>
+
+<item>
+<title>Farsi 1</title>
+<link>rtsp://Stream644.JahanTV.Com/ISFarsi1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/farsi1.png</thumbnail>
+</item>
+
+<item>
+<title>RTA Nangarhar</title>
+<link>http://afghantvslive.com:29204</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/afganistan/123-RTA-Nangarhar-1.jpg</thumbnail>
+</item>
 
 <item>
 <title>Lemar tv</title>
