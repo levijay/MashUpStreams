@@ -58,12 +58,6 @@
 <thumbnail>http://i2.ytimg.com/i/qCAqD8Ffx6nqj_-STstZsw/mq1.jpg?v=50ef18d2?feature=og</thumbnail>
 </item>
 
-<item>
-<title>Lemar TV</title>
-<link>http://62.27.87.54:4454/AfghanGbRlivestream</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/LemarTV.jpg/250px-LemarTV.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Pash Ashna TV</title>
@@ -113,11 +107,6 @@
 <thumbnail>http://zarintv.net/image/zarin_TV_top_banner.jpg</thumbnail>
 </item>
 
-<item>
-<title>Ayna  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chayntv/2011/02/08/1bc2c9ad-60ce-4020-ab44-98f6c00e0ff1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&width=560&autoplay=true&height=340&time= live=true timeout=15 pageUrl=http://cdn.livestream.com/embed/ayntv?layout=4&height=340&width=560&autoplay=true</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/afganistan/131-Ayna-TV-2.jpg</thumbnail>
-</item>
 
 <item>
 <title>Noor TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
@@ -125,11 +114,6 @@
 <thumbnail>http://3.bp.blogspot.com/-hJ4PQEu3B_8/T_2OaTou78I/AAAAAAAAAPY/2oMyVqnMFu4/s1600/noor_tv_uk.png</thumbnail>
 </item>
 
-<item>
-<title>Farsi1 Tv</title>
-<link>http://ASX.JahanTV.Com/farsi1.asx</link>
-<thumbnail>http://1.bp.blogspot.com/-h5-6ClktD1w/TZd4ENr5yiI/AAAAAAAAIMk/jMNw2O4CnII/s1600/50413_68874909976_341214_n.jpg</thumbnail>
-</item>
 
 <item>
 <title>Shamshad</title>
@@ -169,11 +153,6 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 <thumbnail>http://steppesinsync.files.wordpress.com/2011/09/tolo.jpg</thumbnail>
 </item>
 
-<item>
-<title>1TV</title>
-<link>http://62.27.87.54:4458/AfghanGbRlivestream</link>
-<thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
-</item>
 
 <item>
 <title>Tolo 2</title>
