@@ -5,8 +5,8 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Alekhbaria Syria (Link 6)</title>
-<link>mms://video.rtv.gov.sy/snews</link>
+<title>Alekhbaria Syria  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://live.rtv.gov.sy/live/Snews.m3u8</link>
 <thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
 </item>
 
@@ -29,35 +29,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png</thumbnail>
 </item>
 
-<item>
-<title>Al Ekhbariya Al Soriyah</title>
-<link>http://video.rtv.gov.sy/snews</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Ekhbariya Al Soriyah (Link 2)</title>
-<link>mms://82.137.248.17/snews</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Ekhbariya Al Soriyah (Link 3)</title>
-<link>rtsp://82.137.248.17:554/snews</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Ekhbariya Al Soriyah (Link 4)</title>
-<link>rtsp://82.137.248.17/snews</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
-
-<item>
-<title>Al Ekhbariya Al Soriyah (Link 5)</title>
-<link>mmsh://video.rtv.gov.sy/snews</link>
-<thumbnail>http://www.tuniscope.com/uploads/images/content/syrie-270812-v.jpg</thumbnail>
-</item>
 
 
 </channel>
