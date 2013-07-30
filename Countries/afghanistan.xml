@@ -148,9 +148,9 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 </item>
 
 <item>
-<title>Tolo TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://178.18.23.129/live playpath=TOOl swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=TOOl&vw=590&vh=360/</link>
-<thumbnail>http://steppesinsync.files.wordpress.com/2011/09/tolo.jpg</thumbnail>
+<title>Tolo</title>
+<link>rtsp://69.1.71.134:1935/zeenatlive/ztvlive27.stream</link>
+<thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
 </item>
 
 
