@@ -161,8 +161,8 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 </item>
 
 <item>
-<title>Noor TV</title>
-<link>rtmp://nooortv.flashwebtown.com:1935/nooortv playpath=nooortv swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf live=true timeout=15 pageUrl=http://www.afghanvideos.com/noor-tv.php/</link>
+<title>Noor tv</title>
+<link>rtmp://uni2rtmp.tulix.tv:1935/nooortv playpath=nooortv swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/nooor.php/</link>
 <thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>
 </item>
 
