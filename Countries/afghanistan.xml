@@ -90,7 +90,7 @@
 </item>
 
 <item>
-<title>Ariana TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Ariana TV</title>
 <link>rtmp://arianafml.zaphyr.net/206BA0 playpath=ArianaTV swfUrl=http://arianawpc.zaphyr.net/006BA0/player57.swf live=true timeout=15 pageUrl=http://www.afghanlive-tvs.com/2013/06/ariana-tv-kabul-version.html#.UeR1V9Jwq8f/</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.jpg</thumbnail>
 </item>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>Zarin TV  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
+<title>Zarin TV</title>
 <link>http://38.117.88.154/ZarinTV?TICKET/path/to/media.file</link>
 <thumbnail>http://zarintv.net/image/zarin_TV_top_banner.jpg</thumbnail>
 </item>
@@ -148,7 +148,7 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 </item>
 
 <item>
-<title>Tolo</title>
+<title>Tolo  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtsp://69.1.71.134:1935/zeenatlive/ztvlive27.stream</link>
 <thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
 </item>
