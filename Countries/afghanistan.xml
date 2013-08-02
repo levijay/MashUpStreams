@@ -127,7 +127,7 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 
 <item>
 <title>Khyber TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMTMgMTA6NDg6NTggUE0maGFzaF92YWx1ZT03YSsvZ0x1RGwvdHU3ZjhocDFRTTZRPT0mdmFsaWRtaW51dGVzPTIw playpath=avtkhyber swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/avtkhyber/ pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=avtkhyber&width=480&height=270</link>
+<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMTMgMTE6MjA6MzggUE0maGFzaF92YWx1ZT1hUlVlRk14MUNMeGllSVFaeHZXWlN3PT0mdmFsaWRtaW51dGVzPTIw playpath=avtkhyber swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/avtkhyber/ pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=avtkhyber&width=480&height=270</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/12/AVT-Khyber-logo.png</thumbnail>
 </item>
 
