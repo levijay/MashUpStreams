@@ -8,4 +8,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/reggae_entertainment_tv.png</thumbnail>
 </item>
 
+
+<item>
+<title>Cin   [COLOR=FFFF0000]New  Channel[/COLOR]</title> 
+<link>rtmp://67.213.217.205:1935/8386  playpath=8386a  swfUrl=http://www.sunu-tv.com/online/swf/playera.l2.swf live=true timeout=15 pageUrl=http://www.sunu-tv.com/online/channels/cin.html</link>
+<thumbnail>http://www.cintvjamaica.com/images/cin_logo-png.png</thumbnail>
+</item>
+
 </channel>
