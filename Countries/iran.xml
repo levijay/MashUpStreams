@@ -73,8 +73,7 @@ pageUrl=http://www.presstv.com/live.html</link>
 
 <item>
 <title>VOA Persian TV</title>
-<link>rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675
-</link>
+<link>rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/voa_tv_persian_news_network.png</thumbnail>
 </item>
 
@@ -83,13 +82,6 @@ pageUrl=http://www.presstv.com/live.html</link>
 <link>rtsp://38.69.128.21/nitv?id=ba0e072d7960a9a18daf49d21a0663fak117888
 </link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373031_328614593873570_1747925782_n.jpg</thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>rtmp://cp180761.live.edgefcs.net:1935/live playpath=iFilmPersian_RTMP_2@76588 swfUrl=http://cdn8.unicornapp.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.6.8/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf live=true timeout=15 pageUrl=http://iranianlivetv.org/livetv.php?tv=iFilm
-</link>
-<thumbnail></thumbnail>
 </item>
 
 </channel>
