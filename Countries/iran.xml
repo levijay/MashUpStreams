@@ -66,13 +66,6 @@ pageUrl=http://www.presstv.com/live.html</link>
 </item>
 
 <item>
-<title>Tanet Cima TV</title>
-<link>http://tanet-cima-tv.wm.llnwd.net/tanet_cima_tv</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
 <title>VOA Persian TV</title>
 <link>rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/voa_tv_persian_news_network.png</thumbnail>
