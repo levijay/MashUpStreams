@@ -23,24 +23,6 @@
 </item>
 
 <item>
-<title>Persian Live</title>
-<link>http://www.parstvs.com/ASX/voa.asx</link>
-<thumbnail>http://1.bp.blogspot.com/-1V5tT44fDMA/TWA0NByExaI/AAAAAAAAH7s/3P84c-P7nSw/s1600/farsi1.jpg</thumbnail>
-</item>
-
-<item>
-<title>PMC Music</title>
-<link>http://www.parstvs.com/ASX/pmc.asx</link>
-<thumbnail>http://flashpro.persiangig.com/images-ch/pmc_music_1.jpg</thumbnail>
-</item>
-
-<item>
-<title>TBN Nejat TV</title>
-<link>http://ASX.JahanTV.Com/TBN-Nejat-TV.asx</link>
-<thumbnail>http://i3.ytimg.com/i/f_eUNyNsImUXKXVaFeTCUw/mq1.jpg?v=50ba9f46</thumbnail>
-</item>
-
-<item>
 <title>Khorasan TV</title>
 <link>http://asx.jahantv.com/Khorasan-TV.asx</link>
 <thumbnail> </thumbnail>
@@ -58,41 +40,10 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ef/Zag-logo.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>IPN TV</title>
-<link>http://asx.jahantv.com/ipntv.asx</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/ipn_tv_us.jpg</thumbnail>
-</item>
-
-<item>
-<title>Tamasha TV</title>
-<link>http://asx.jahantv.com/TamashaTV-Live.ASX</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>PMC Family</title>
-<link>http://ASX.JahanTV.Com/PMC-Fam-Live.ASX</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>PMC</title>
-<link>http://ASX.JahanTV.Com/pmc.asx</link>
-<thumbnail>http://b.vimeocdn.com/ps/364/620/3646207_300.jpg</thumbnail>
-</item>
-
 <item>
 <title>Jamjam 1</title>
 <link>http://ASX.JahanTV.Com/jj1.asx</link>
 <thumbnail>http://watchtv.co/wp-content/uploads/2012/06/Jame-Jam-1-Iran.jpg</thumbnail>
-</item>
-
-<item>
-<title>Markazi TV</title>
-<link>http://asx.jahantv.com/MarkaziTV-DSL.ASX</link>
-<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Markazi-TV.jpg</thumbnail>
 </item>
 
 <item>
@@ -108,12 +59,6 @@
 </item>
 
 <item>
-<title>Ardabil TV</title>
-<link>http://ASX.JahanTV.Com/Ardabil-TV.asx</link>
-<thumbnail>http://www.samimrayaneh.com/images/company/refrences/ardabil.png</thumbnail>
-</item>
-
-<item>
 <title>ARTN</title>
 <link>http://www.parstvs.com/ASX/artn.asx</link>
 <thumbnail> </thumbnail>
@@ -124,12 +69,6 @@
 <link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.com&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15
 pageUrl=http://www.presstv.com/live.html</link>
 <thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Iran Media</title>
-<link>rtmp://live.iransima.ir/live playpath=tamasha-udp-500k.stream swfUrl=http://www.iransima.ir/mediaplayer-5.10-viral/player.swf</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
