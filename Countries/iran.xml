@@ -59,12 +59,6 @@
 </item>
 
 <item>
-<title>ARTN</title>
-<link>http://www.parstvs.com/ASX/artn.asx</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
 <title>Press TV</title>
 <link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.com&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15
 pageUrl=http://www.presstv.com/live.html</link>
