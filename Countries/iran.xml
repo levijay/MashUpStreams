@@ -79,8 +79,7 @@ pageUrl=http://www.presstv.com/live.html</link>
 
 <item>
 <title>NI TV</title>
-<link>rtsp://38.69.128.21/nitv?id=ba0e072d7960a9a18daf49d21a0663fak117888
-</link>
+<link>rtsp://38.69.128.21/nitv?id=ba0e072d7960a9a18daf49d21a0663fak117888</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373031_328614593873570_1747925782_n.jpg</thumbnail>
 </item>
 
