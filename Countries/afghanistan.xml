@@ -133,7 +133,7 @@ pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
 
 <item>
 <title>Khyber News</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMTMgMTE6MDY6MjAgUE0maGFzaF92YWx1ZT1lMDNEaENSVTRadG54RWNGUEptSjZRPT0mdmFsaWRtaW51dGVzPTIw playpath=khybernews swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/khybernews/ pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=khybernews&width=480&height=270</link>
+<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMTMgMTE6MDY6MjAgUE0maGFzaF92YWx1ZT1lMDNEaENSVTRadG54RWNGUEptSjZRPT0mdmFsaWRtaW51dGVzPTIw= playpath=khybernews swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/khybernews/ pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=tv&stream=khybernews&width=480&height=270</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/avt_khyber_news.png</thumbnail>
 </item>
 
