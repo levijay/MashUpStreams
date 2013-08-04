@@ -35,12 +35,6 @@
 </item>
 
 <item>
-<title>Jamjam 1</title>
-<link>http://ASX.JahanTV.Com/jj1.asx</link>
-<thumbnail>http://watchtv.co/wp-content/uploads/2012/06/Jame-Jam-1-Iran.jpg</thumbnail>
-</item>
-
-<item>
 <title>SAT 7</title>
 <link>http://ASX.JahanTV.Com/sat7.asx</link>
 <thumbnail>http://www.pcimissionoverseas.org/fs/img/news/rs-200xnc/sat-7-logo-23.jpg</thumbnail>
@@ -53,13 +47,6 @@
 </item>
 
 <item>
-<title>Press TV</title>
-<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.com&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15
-pageUrl=http://www.presstv.com/live.html</link>
-<thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
-</item>
-
-<item>
 <title>VOA Persian TV</title>
 <link>rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/voa_tv_persian_news_network.png</thumbnail>
@@ -69,6 +56,30 @@ pageUrl=http://www.presstv.com/live.html</link>
 <title>NI TV</title>
 <link>rtsp://38.69.128.21/nitv?id=ba0e072d7960a9a18daf49d21a0663fak117888</link>
 <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/373031_328614593873570_1747925782_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ahlulbayt TV</title>
+<link>rtmp://46.23.67.34:1935/live/ playpath=livestream1.sdp swfUrl=http://ahlulbayt.tv/template/assets/js/jwplayer.flash.swf live=true timeout=15 pageUrl=http://ahlulbayt.tv/live/</link>
+<thumbnail>http://a3.mzstatic.com/us/r1000/074/Purple/bd/a4/28/mzl.pscrjmhr.png</thumbnail>
+</item>
+
+<item>
+<title>Al Maaref TV</title>
+<link>rtmp://144.76.45.226/live playpath=1 swfUrl=http://almaareftv.com/jw/player.swf live=true timeout=15 pageUrl=http://www.almaareftv.com/?p=live</link>
+<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/05/al-maaref-tv-online-live-channel-streaming.png</thumbnail>
+</item>
+
+<item>
+<title>Press TV</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SD?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=true timeout=15 pageUrl=http://www.presstv.ir/live.html</link>
+<thumbnail>http://www.thebureauinvestigates.com/wp-content/uploads/2012/01/press_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Euronews Persian</title>
+<link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
+<thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
 </item>
 
 </channel>
