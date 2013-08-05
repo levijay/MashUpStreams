@@ -36,25 +36,21 @@
 
 <item>
 <title>Hod Hod</title>
-<link>rtmp://live.hodhodfarsi.tv/live-722719985 playpath=hodhodfarsi-300.sdp swfUrl=http://www.hodhodfarsi.tv/flash/player.swf live=true timeout=15 pageUrl=http://www.hodhodfarsi.tv/live.php?quality=hodhodfarsi-300.html
-</link>
-
+<link>rtmp://live.hodhodfarsi.tv/live-722719985 playpath=hodhodfarsi-300.sdp swfUrl=http://www.hodhodfarsi.tv/flash/player.swf live=true timeout=15 pageUrl=http://www.hodhodfarsi.tv/live.php?quality=hodhodfarsi-300.html</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hod_hod_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>Zahra TV</title>
-<link>rtsp://live210.impek.com/zahra
-
-</link>
+<link>rtsp://live210.impek.com/zahra</link>
 <thumbnail>http://zahratv.com/live/images/TV_03.jpg</thumbnail>
 </item>
 
 <item>
 <title>AFNL</title>
-<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf
-</link>
-<thumbna
+<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>SAT 7</title>
