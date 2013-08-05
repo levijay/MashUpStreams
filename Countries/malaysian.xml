@@ -9,58 +9,51 @@
 
 
 <item>
-<title>TV1</title>
+<title>TV1 v1</title>
 <link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch001</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtm_tv1_my.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
 </item>
 
 
 <item>
 <title>TV1 v2</title>
 <link>http://stream.layarku.tv/live/rtm/rtm-ch001/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtm_tv1_my.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
 </item>
 
 
 <item>
-<title>TV2</title>
+<title>TV2 v1</title>
 <link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch003</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtm2_malaysia.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
 </item>
 
 
 <item>
 <title>TV2 v2</title>
 <link>http://stream.layarku.tv/live/rtm/rtm-ch003/chunklist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtm2_malaysia.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
 </item>
 
 
 <item>
 <title>TV3</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv37495872537483943746583462384952/playlist.m3u8?wowzasessionid=493295669</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv3_my.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>TV3 v2</title>
-<link>http://gloios-i.akamaihd.net/hls/live/215174/ios/gloios/master001.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv3_my.jpg</thumbnail>
+<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv37495872537483943746583462384952/playlist.m3u8?wowzasessionid=370460574</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
 </item>
 
 
 <item>
 <title>TV9</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv9232543785632696896784568743483467835 24/playlist.m3u8?wowzasessionid=616743072</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv9_my.jpg</thumbnail>
+<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv9232543785632696896784568743483467835 24/playlist.m3u8?wowzasessionid=90494488</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
 </item>
 
 
 <item>
 <title>TVi</title>
 <link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch005</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtm_tvi_my.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png</thumbnail>
 </item>
 
 
@@ -79,182 +72,28 @@
 
 
 <item>
-<title>Bernama TV</title>
-<link>rtmp://127.0.0.1:60001/live/tmgudriveliveflv1myiptv06jhg1200k</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.jpg</thumbnail>
+<title>Astro Arena</title>
+<link>http://measatott28-i.akamaihd.net/hls/live/205776/OTT_28/master_01.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_arena.png</thumbnail>
 </item>
 
 
 <item>
 <title>Astro Awani</title>
-<link>rtmp://cp160334.live.edgefcs.net/live//AstroAwani24x7_1@74937</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_awani.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Awani v2</title>
 <link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_awani.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Arena</title>
-<link>http://measatott28-i.akamaihd.net/hls/live/205776/OTT_28/master_01.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_arena.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Supersport 2</title>
-<link>rtmp://re.reyhq.com/live//why01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_supersport2.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Warna</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Dwarnas834653428057597344236457909038634 3455/playlist.m3u8?wowzasessionid=2092773905</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_warna.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Oasis</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Doasis6345432879563873656189465572395734 53/playlist.m3u8?wowzasessionid=555053472</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_oasis.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Prima</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Dprima132407987687755689757827301192462/playlist.m3u8?wowzasessionid=1489686940</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_prima.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Astro Ceria</title>
-<link>http://baik.layarku.tv/live/sz%3DIMN%3Dceria3243453409767676154626532543563984 34/playlist.m3u8?wowzasessionid=2099022197</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.jpg</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Mob TV</title>
 <link>rtmp://54.251.34.216/edge/mobtv</link>
-<thumbnail>http://www.watchtv.co/wp-content/uploads/2012/03/Mob-TV-Malaysia.jpg</thumbnail>
+<thumbnail>http://hoongling.com/main/images/images/media/mobtv.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>TV Selangor</title>
 <link>rtmp://live2.selangorku.com/selangorlive2/channel1</link>
-<thumbnail>http://worldcupslivestream.com/wp-content/uploads/2013/05/TV-Selangor-logo-150x150.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Al-Jazeera</title>
-<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_high</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>HBO</title>
-<link>rtmp://victorynet.tv/live//mvhbox01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_my.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Fox Movies Premium</title>
-<link>rtmp://110.5.111.166/live//mvstarx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_movies_premium_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Screen Red</title>
-<link>rtmp://110.5.111.166/live//mvredx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/screen_red_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Celestial Movies</title>
-<link>rtmp://victorynet.tv/live//mvcelesx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/celestial_movies.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Victory Movies</title>
-<link>rtmp://victorynet.tv:1934/live//mvmoviex01</link>
-<thumbnail>http://www.4online.tv/wp-content/uploads/2011/11/victory_movies.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Victory Drama</title>
-<link>rtmp://victorynet.tv:1934/live//mvdramax01</link>
-<thumbnail>http://2.bp.blogspot.com/-t6nNdyOwFDU/Txuv86L1ZMI/AAAAAAAAAGk/CtEUSkpFfHw/s1600/victory-drama1.png</thumbnail>
-</item>
-
-
-<item>
-<title>Animax</title>
-<link>rtmp://110.5.111.166/live//mvanimaxx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animax_east_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Star World</title>
-<link>rtmp://110.5.111.166/live//mvstarworldx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_world_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Fox</title>
-<link>rtmp://110.5.111.166/live//mvfoxx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>AXN</title>
-<link>rtmp://victorynet.tv/live/mvaxnx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Channel V</title>
-<link>rtmp://victorynet.tv/live/mvvintx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_v_international.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Arena Sport</title>
-<link>rtmp://stream02.useetv.com/live/arena</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arena_id.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Muzik TV</title>
-<link>rtmp://118.97.183.198/live/allegro</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/allegro_id.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Nat Geo Wild</title>
-<link>rtmp://victorynet.tv/live/mvantvx01</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_asia.jpg</thumbnail>
+<thumbnail>http://sidangrakyat.com/wp-content/uploads/2013/05/tvselangor.jpg</thumbnail>
 </item>
