@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>AFNL</title>
+<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Alalam</title>
 <link>http://eu.hdn.octoshape.net:1935/live/smil:overon-alalam_ch5_auto.smil/playlist.m3u8</link>
 <thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
@@ -92,17 +98,6 @@
 <title>Euronews Persian</title>
 <link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
-<title>AFNL</title>
-<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
-<thumbnail></thumbnail>
 </item>
 
 </channel>
