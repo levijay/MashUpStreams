@@ -47,12 +47,6 @@
 </item>
 
 <item>
-<title>AFNL</title>
-<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>SAT 7</title>
 <link>http://ASX.JahanTV.Com/sat7.asx</link>
 <thumbnail>http://www.pcimissionoverseas.org/fs/img/news/rs-200xnc/sat-7-logo-23.jpg</thumbnail>
@@ -98,6 +92,12 @@
 <title>Euronews Persian</title>
 <link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=pe_video750_rtp.sdp swfUrl=http://persian.euronews.com/media/player_live_1_14.swf live=true timeout=15 pageUrl=http://persian.euronews.com/news/streaming-live/</link>
 <thumbnail>http://1.bp.blogspot.com/-A0wx-qfBN-Y/UEhNWdZhDHI/AAAAAAAAa64/GwriqDM1BPY/s400/euronews.jpg</thumbnail>
+</item>
+
+<item>
+<title>AFNL</title>
+<link>http://38.117.88.153/AFNLink?baseURLs=http://www.afnl.com/FirefoxHTMLShellOpenCommand&MSWMExt=.asf</link>
+<thumbnail></thumbnail>
 </item>
 
 </channel>
