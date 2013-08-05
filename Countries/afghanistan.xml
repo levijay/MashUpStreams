@@ -48,7 +48,7 @@
 
 <item>
 <title>S.A.TV</title>
-<link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://www.satvlive.com/ timeout=15</link>
+<link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream swfUrl=http://www.satvlive.com/modules/mod_playerjr/player-licensed5.swf live=true timeout=15 pageUrl=http://www.satvlive.com/</link>
 <thumbnail>http://wwitv.com/tvlogos/b6512.jpg</thumbnail>
 </item>
 
