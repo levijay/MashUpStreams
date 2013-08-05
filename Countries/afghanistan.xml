@@ -11,12 +11,6 @@
 </item>
 
 <item>
-<title>ATN Europe</title>
-<link>rtsp://50.97.117.4/AFG-ATN-EUROPE</link>
-<thumbnail>http://pull.khaamapress.netdna-cdn.com/wp-content/uploads/2012/02/Logo-Header-Aryana-300x199.jpg</thumbnail>
-</item>
-
-<item>
 <title>Bidari TV</title>
 <link>rtsp://bidari.streamwebtown.com/bidaritv</link>
 <thumbnail>http://www.glwiz.com/web/epg/images/cim_303556.png</thumbnail>
@@ -59,18 +53,6 @@
 </item>
 
 <item>
-<title>Gem TV</title>
-<link>rtsp://38.69.128.21/gem?id=7fb8c72176a9ffe21fb9b5e6d3b42749k117756</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/gg/gem_tv_ae.png</thumbnail>
-</item>
-
-<item>
-<title>Zarin TV</title>
-<link>http://38.117.88.154/ZarinTV?TICKET/path/to/media.file</link>
-<thumbnail>http://zarintv.net/image/zarin_TV_top_banner.jpg</thumbnail>
-</item>
-
-<item>
 <title>Shamshad</title>
 <link>rtmp://media.streamingpulse.biz/8068 playpath=8068 swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/shamshad.php</link>
 <thumbnail>http://cricket.tolafghan.com/assets/posts/18057/medium/SHAMSHAD_TV.jpg?1273990160</thumbnail>
@@ -80,13 +62,6 @@
 <title>SA-TV</title>
 <link>rtmp://habibhamidi.videocdn.scaleengine.net/habibhamidi-live/play playpath=habibhamidi.stream swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/sa-tv.php</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SATVLogo.gif/220px-SATVLogo.gif</thumbnail>
-</item>
-
-<item>
-<title>Tamadon TV Live</title>
-<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15
-pageUrl=http://www.dolotube.com/tv/tamadon.php</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tamadon_tv.jpg</thumbnail>
 </item>
 
 <item>
