@@ -72,7 +72,7 @@
 
 <item>
 <title>Tolo  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtsp://69.1.71.134:1935/zeenatlive/ztvlive27.stream</link>
+<link>rtmp://89.248.163.3/play?Auth=tKczeHZA13KvboRsc1B4aO7tVWrwXT6gCGH9Ng5xCmiIFGbc2vfVmkG8gQOsIZ playpath=afplay1 swfUrl=http://pbxmowwhonszhyp.flashcast.tv/playerhd/flash.swf live=true timeout=15 pageUrl=http://www.flashcast.tv/embed.php?live=afplay1&vw=590&vh=400</link>
 <thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
 </item>
 
