@@ -43,25 +43,25 @@
 <item>
 <title>RT2</title>
 <link>rtmp://fms5.visionip.tv/live playpath=RT_2 swfUrl=http://rt.com/s/swf/player.swf?streamer=rtmp://fms5.visionip.tv/live&file=RT_2.flv&autostart=true pageUrl=http://www.watchfomny.com/Video/Russia/Russia-Today/Russia-Today.htm</link>
-<thumbnail></thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>RT Doc</title>
 <link>rtmp://rt.fms6.visionip.tv/live/ playpath=RT_Doc-SDh swfUrl=http://rtd.rt.com/s/jwplayer/player.swf live=true timeout=15 pageUrl=http://rtd.rt.com/on-air/</link>
-<thumbnail></thumbnail>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/RT-Documentary.png</thumbnail>
 </item>
 
 <item>
 <title>Cyber Game</title>
 <link>rtmp://st.cyber-game.tv/iptvsd playpath=stream swfUrl=http://www.cyber-game.tv/maxison/MaxisonPlayer.swf live=true timeout=15 pageUrl=http://www.cyber-game.tv/</link>
-<thumbnail></thumbnail>
+<thumbnail>http://en.glaz.tv/images/logos/tv/big/cyber-game-tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>Barbaraki TV </title>
 <link>rtmp://80.93.53.88:1935/live playpath=channel_6 swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=569 live=true timeout=15 pageUrl=http://www.planeta-online.tv/?ch=6</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.contimarkt.de/images/barbaraki.jpg</thumbnail>
 </item>
 
 <item>
@@ -92,7 +92,7 @@
 <title>TVC</title>
 <link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3094 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/tvc
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-TVC-Moscow-Live-TV-from-Russia.jpg</thumbnail>
 </item>
 
 <item>
