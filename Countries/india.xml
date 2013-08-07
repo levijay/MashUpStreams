@@ -617,7 +617,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>ZEE TV</title>
-<link>rtmp://f.acaster.tv/live playpath=tvzee5 swfUrl=http://www.acaster.tv/player/mplayer327.swf live=true timeout=15 pageUrl=http://www.acaster.tv/embed.php?v=tvzee5&vw=600&vh=470&domain=http://desistreams.tv/embed/zee_tv.php</link>
+<link>rtmp://89.248.163.3/play?Auth=tKczeHZA13KvboRsc1B4aO7tVWrwXT6gCGH9Ng5xCmiIFGbc2vfVmkG8gQOsIZ playpath=afplay1 swfUrl=http://pbxmowwhonszhyp.flashcast.tv/playerhd/flash.swf pageUrl=http://www.flashcast.tv/embed.php?live=afplay1&vw=590&vh=400</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
 </item>
 
