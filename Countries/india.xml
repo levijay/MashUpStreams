@@ -617,7 +617,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>ZEE TV</title>
-<link>rtmp://89.248.163.3/play?Auth=tKczeHZA13KvboRsc1B4aO7tVWrwXT6gCGH9Ng5xCmiIFGbc2vfVmkG8gQOsIZ playpath=afplay1 swfUrl=http://pbxmowwhonszhyp.flashcast.tv/playerhd/flash.swf pageUrl=http://www.flashcast.tv/embed.php?live=afplay1&vw=590&vh=400</link>
+<link>rtmp://strm.telecast.eu/str playpath=zeetvv2 swfUrl=http://www.telecast.eu/player/player.swf live=true timeout=15 pageUrl=http://www.telecast.eu/embed.php?u=zeetvv2&vw=600&vh=470</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
 </item>
 
