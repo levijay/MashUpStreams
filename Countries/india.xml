@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Asianet</title>
-<link>http://65.51.67.40:1935/rtplive/asianet.stream/chunklist.m3u8?wowzasessionid=1172813113</link>
-<thumbnail>http://malayalamtv.com/malayalamtv/UserFiles/Asianet_logo.png</thumbnail>
-</item>
-
-<item>
 <title>Samay Live</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
@@ -59,12 +53,6 @@
 </item>
 
 <item>
-<title>ET</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=etnow1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/etnow.aspx</link>
-<thumbnail>http://almasini.com/wp/wp-content/uploads/2010/12/ET-logo-CUTOUT-300x276.png</thumbnail>
-</item>
-
-<item>
 <title>Studio N News</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=studion1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/studion.aspx</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/studio_n.png</thumbnail>
@@ -100,10 +88,7 @@
 <thumbnail>http://1.bp.blogspot.com/_ofapVvUwb5A/TFAhKvW4zBI/AAAAAAAADtk/FRoF2UZIGF8/s400/times_now.jpg</thumbnail>
 </item>
 
-
-
 Indian - Telugu / Malayam Streams:
-
 
 <item>
 <title>HMTV</title>
@@ -208,18 +193,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>ATA</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ata1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ataevent.aspx</link>
-<thumbnail>http://www.tristateata.com/files/QuickSiteImages/ATA-LOGO-NO-KICKER.jpg</thumbnail>
-</item>
-
-<item>
-<title>NATA</title>
-<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=nata1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/nataevent.aspx</link>
-<thumbnail>http://www.alspec.com.au/_images/NATA.JPG</thumbnail>
-</item>
-
-<item>
 <title>Calvary TV</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=calavary1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/calvarytv.aspx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/calvary_tv.jpg</thumbnail>
@@ -258,20 +231,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Udaya TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/live playpath=udaya_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=udaya_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://tvshows.sulekha.com/tvimages/udaya-tv.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>PTC Punjabi</title>
-<link>rtmp://141.8.244.56/base playpath=ptc_punjabi.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ptc_punjabi&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/PTC-Punjabi.png</thumbnail>
-</item>
-
-
-<item>
 <title>NDTV 24x7</title>
 <link>http://bglive-a.bitgravity.com/ndtv/247hi/live/native</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/ndtv_24x7.png</thumbnail>
@@ -295,24 +254,10 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/divya_tv.png</thumbnail>
 </item>
 
-
 <item>
 <title>AASTHA BHAJAN</title>
 <link>rtmp://94.242.228.40:1930/live2 playpath=aasthab.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki2/embed.php?live=thab.stream&vw=600&vh=450</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/aastha_bhajan.png</thumbnail>
-</item>
-
-
-<item>
-<title>SADHNA TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://edge-ap2.cloudfrontcdn.in:1935/device playpath=mystream.stream swfUrl=http://smartstream.in/primusplayer/primus-3.2.12.swf live=true timeout=15 pageUrl=http://smartstream.in/sadhnatv/</link>
-<thumbnail>http://cds.hello1.in:9080/cdsapis/WebResource/licon/4666/SadhnaTV.gif</thumbnail>
-</item>
-
-<item>
-<title>MTunes  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>http://cdn.m.yuppcdn.net/liveorigin/mtunes.stream1/chunklist%7Bsessionid%7D%7Bbitrate%7D%7BplayStart%7D%7BplayDuration%7D%7Bdvr%7D%7BaudioOnly%7D%7Bngrp%7D.m3u8</link>
-<thumbnail>http://www.afaqs.com/news/company_news/article_grfx/2012/08/54614/Mtunes-press-release.jpg</thumbnail>
 </item>
 
 <item>
@@ -371,21 +316,6 @@ Indian - Telugu / Malayam Streams:
 <title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://94.102.51.78/live33 playpath=u_sab swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=u_sab&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
-</item>
-
-
-<item>
-<title>PTC Chakde HQ  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=ptc_chakde.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=ptc_chakde&vw=600&vh=450&typeplayer=0&domain=pogotv.eu
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc_chakde.png</thumbnail>
-</item>
-
-
-<item>
-<title>Sada</title>
-<link>rtmp://119.82.77.212/live playpath=sada swfUrl=http://www.xuuby.com/player/player4.swf live=true timeout=15 pageUrl=http://www.xuuby.com/show.php?chname=axn&width=520&height=370&a=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sada_channel.jpg</thumbnail>
 </item>
 
 <item>
@@ -537,12 +467,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Surya TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/live playpath=surya_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=surya_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://keralaboxoffice.com/wp-content/uploads/2013/02/images11.jpg</thumbnail>
-</item>
-
-<item>
 <title>Kiran TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://141.8.244.56/live playpath=kiran_tv_hd swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=kiran_tv_hd&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://www.sunnetwork.in/ChannelLogo/32kiran1.jpg</thumbnail>
@@ -582,12 +506,6 @@ Indian - Telugu / Malayam Streams:
 <title>Kasthuri News 24</title>
 <link>rtmp://50.7.130.42:1940/base2 playpath=maha4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kasthuri-news-24-live/</link>
 <thumbnail>http://www.moneycontrol.com/news_image_files/2013/k/Kasturi_News_24_190.jpg</thumbnail>
-</item>
-
-<item>
-<title>Kasthuri</title>
-<link>rtmp://50.7.130.42:1940/base2 playpath=maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.turbotv.in/kasthuri-tv-live/</link>
-<thumbnail>http://www.turbotv.in/wp-content/uploads/2012/10/kasthuri-tv.jpg</thumbnail>
 </item>
 
 <item>
