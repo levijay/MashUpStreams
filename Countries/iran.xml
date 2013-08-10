@@ -17,12 +17,6 @@
 </item>
 
 <item>
-<title>Alalam (Link 2)</title>
-<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-al_alam-live-25f-4x3-SDh swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf live=true timeout=15 pageUrl=http://www.alalam.ir/live/high</link>
-<thumbnail>http://www.724.tv/Eserler/Resim/Alalam.jpg</thumbnail>
-</item>
-
-<item>
 <title>Khorasan TV</title>
 <link>http://asx.jahantv.com/Khorasan-TV.asx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/khorasan_tv.jpg</thumbnail>
