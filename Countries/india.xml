@@ -300,13 +300,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>9x Tashan HQ  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://46.249.213.93/iPhone/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr506k.m3u8?trackingid=4241520000&os=desktop&m3usessid=a0a7de87d9b0c4865a0575b4b5d2f831&len=38&gtime=1373851581&guid=7aee0f80cf1b4030820a123456789012&da=0&hk=9C12DF64BD29C8C4B455D7557A5C3131
-</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/9X-Tashan-TV-Logo1.jpg</thumbnail>
-</item>
-
-<item>
 <title>Sony Tv</title>
 <link>rtmp://93.174.93.124/live33 playpath=hd_sonytv swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=hd_sonytv&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
 <thumbnail>http://farm2.staticflickr.com/1054/5158595265_d1ccf4f9e3_z.jpg</thumbnail>
@@ -314,7 +307,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Sony Sab TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://94.102.51.78/live33 playpath=u_sab swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=u_sab&vw=600&vh=450&video=0&domain=pogotv.eu</link>
+<link>rtmp://178.18.30.121/live playpath=sabbtvvd swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sabbtvvd&vw=600&vh=470</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
@@ -338,15 +331,14 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Zee Cinema</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+<link>rtmp://93.174.93.124/live33 playpath=i_zcinema swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_zcinema&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20110926123553/logopedia/images/b/be/Zee_Cinema_2005.png</thumbnail>
 </item>
 
 <item>
-<title>8XM TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDE6MTg6NDggQU0maGFzaF92YWx1ZT05Tm1XQk5NWkNQVHBtL1ZJZUlmeUZRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-8xm swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/8xm_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-8xm&screen=true
-</link>
-<thumbnail>http://3.bp.blogspot.com/-1AtimJwGzIU/UNWzn6D6doI/AAAAAAAAAR8/WEkshKKiLMw/s1600/8xm-TV-Pakistan.jpg</thumbnail>
+<title>Zee TV 2</title>
+<link>rtmp://178.18.30.120/live playpath=tvzew swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvzew&vw=600&vh=470</link>
+<thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
 </item>
 
 <item>
@@ -354,7 +346,6 @@ Indian - Telugu / Malayam Streams:
 <link>http://cdn.m.yupptv.tv/liveorigin/smil:jeevan_iphone.smil/playlist.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/Jeevan_TV.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>Maa Music</title>
@@ -416,8 +407,6 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://dhoomdhaam.com/wp-content/uploads/2011/06/tnews.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>Sahara Bihar</title>
 <link>http://cdn.m.yuppcdn.net/liveorigin/smil:saharabihar.smil/playlist.m3u8</link>
@@ -444,7 +433,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Star Gold</title>
-<link>rtmp://178.18.30.121/live playpath=goldda swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
+<link>rtmp://178.18.30.120/live playpath=goldda swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=goldda&vw=600&vh=470</link>
 <thumbnail>http://www.indiantvinfo.com/wp-content/uploads/2011/09/Star-Gold-New-Logo.jpg</thumbnail>
 </item>
 
@@ -532,12 +521,40 @@ Indian - Telugu / Malayam Streams:
 <thumbnail>http://www.turbotv.in/wp-content/uploads/2012/11/STAR_Utsav_.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>ZEE TV</title>
 <link>rtmp://93.174.93.124/live33 playpath=tvzee swfUrl=http://www.flashi.tv/player/player.swf live=true timeout=15 pageUrl=http://www.flashi.tv/embed.php?v=tvzee&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
 </item>
 
+<item>
+<title>Life OK</title>
+<link>rtmp://178.18.30.120/live playpath=lifeook3 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=lifeook3&vw=650&vh=420</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Salaam</title>
+<link>rtmp://live.wmncdn.net/livestream/ playpath=cb582cc2f3b08e0bbd1c9f3d23541e26.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true timeout=15 pageUrl=http://freetvall.com/video/8YH6R51K1Y74/Zee-Salaam</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_salaam.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>rtmp://178.18.30.121/live playpath=cartoon98 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cartoon98&vw=650&vh=420</link>
+<thumbnail>http://images.wikia.com/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png</thumbnail>
+</item>
+
+<item>
+<title>Sony Six</title>
+<link>rtmp://206.190.140.36/live playpath=wwwfasasf swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embed.php?v=wwwfasasf&vw=600&vh=420&typeplayer=0&domain=www.streamer247.com</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/33/SonySixIndia.png</thumbnail>
+</item>
+
+<item>
+<title>Peace TV</title>
+<link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
+</item>
 
 </channel>
