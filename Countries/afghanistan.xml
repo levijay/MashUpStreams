@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>1TV [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>1TV</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/11266193/streams/live/playlist.m3u8</link>
 <thumbnail>http://kabultoday.files.wordpress.com/2009/12/1tv-logo.jpg</thumbnail>
 </item>
@@ -65,13 +65,13 @@
 </item>
 
 <item>
-<title>RTA Milli  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>RTA Milli</title>
 <link>rtmp://64.37.60.10:1935/live playpath=rtastream swfUrl=http://www.dolotube.com/tv/player/player.swf live=true timeout=15 pageUrl=http://www.dolotube.com/tv/rta.php/</link>
 <thumbnail>http://livetv.liveafghantv.com/images/tv/tv_rta.jpg</thumbnail>
 </item>
 
 <item>
-<title>Tolo  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<title>Tolo</title>
 <link>rtmp://89.248.163.3/play?Auth=Rp6vXdlewFJ2JdmPx4PYxweamwSp0k81MGjRbZJTZZFEXPRbc5o0GvNTUa88dk playpath=afplay1 live=true timeout=15 swfUrl=http://pbxmowwhonszhyp.flashcast.tv/playerhd/flash.swf pageUrl=http://www.flashcast.tv/embed.php?live=afplay1&vw=590&vh=400</link>
 <thumbnail>http://i1.ytimg.com/i/qhY2i3JiRK0mZIUXP0CoQw/mq1.jpg?v=4f682227</thumbnail>
 </item>
@@ -86,6 +86,12 @@
 <title>Noor tv</title>
 <link>rtmp://uni2rtmp.tulix.tv:1935/nooortv playpath=nooortv swfUrl=http://www.tulix.tv/mediaplayer/player.swf live=true timeout=15 pageUrl=http://tulix.com/player/nooor.php/</link>
 <thumbnail>http://www.afghansongs.com/wp-content/uploads/2012/05/noortv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Salaam TV</title>
+<link>rtsp://live.salaamtv.org/S300</link>
+<thumbnail>http://www.qul.org.au/qultv/salaam.jpg</thumbnail>
 </item>
 
 </channel>
