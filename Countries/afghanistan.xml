@@ -94,4 +94,10 @@
 <thumbnail>http://www.qul.org.au/qultv/salaam.jpg</thumbnail>
 </item>
 
+<item>
+<title>Tamadon</title>
+<link>rtmp://tamadonlive.nanocdn.com:1935/live playpath=tamadon256 swfUrl=http://www.nanocdn.net/modules/lives/js/jwplayer/player.swf live=true timeout=15 pageUrl=http://www.nanocdn.net/modules/lives/index.php?id=4&channel=tamadon&op=fph</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tamadon_tv.png</thumbnail>
+</item>
+
 </channel>
