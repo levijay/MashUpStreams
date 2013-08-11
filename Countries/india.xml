@@ -532,9 +532,9 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Set Max</title>
+<title>Sony Set Max</title>
 <link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
-<thumbnail></thumbnail></thumbnail>
+<thumbnail>http://livemobile.tv/folderscreen/26.png</thumbnail>
 </item>
 
 <item>
