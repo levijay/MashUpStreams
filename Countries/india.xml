@@ -532,6 +532,12 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
+<title>Set Max</title>
+<link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
+<thumbnail>http://livemobile.tv/folderscreen/26.png</thumbnail>
+</item>
+
+<item>
 <title>Sony Six</title>
 <link>rtmp://206.190.140.36/live playpath=wwwfasasf swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=true timeout=15 pageUrl=http://www.janjua.tv/embed.php?v=wwwfasasf&vw=600&vh=420&typeplayer=0&domain=www.streamer247.com</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/3/33/SonySixIndia.png</thumbnail>
