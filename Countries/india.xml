@@ -5,12 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Set Max</title>
-<link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20110926112743/logopedia/images/e/ea/SET_Max_2011.png</thumbnail>
-</item>
-
-<item>
 <title>Samay Live</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
