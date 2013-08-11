@@ -5,6 +5,12 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>Set Max</title>
+<link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
+<thumbnail>http://livemobile.tv/folderscreen/26.png</thumbnail>
+</item>
+
+<item>
 <title>Samay Live</title>
 <link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
 <thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
@@ -541,12 +547,6 @@ Indian - Telugu / Malayam Streams:
 <title>Peace TV</title>
 <link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_usa-live-25f-4x3-sdh_1 live=true timeout=15 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Set Max</title>
-<link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
-<thumbnail>http://livemobile.tv/folderscreen/26.png</thumbnail>
 </item>
 
 <item>
