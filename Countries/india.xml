@@ -273,24 +273,10 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>B4U Plus</title>
-<link>rtmp://141.8.244.56/tv/ playpath=b4u_plus swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/06/B4U-PLUS-UAE-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>Colors TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive64.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://1tvlive.in/colors-tv-3/
 </link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>B4U Movies  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430
-</link>
-<thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/B4U-Movies.jpg</thumbnail>
 </item>
 
 <item>
@@ -561,6 +547,12 @@ Indian - Telugu / Malayam Streams:
 <title>Set Max</title>
 <link>rtmp://178.18.30.121/live<playpath>maxu33 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=maxu33&vw=600&vh=470</link>
 <thumbnail>http://livemobile.tv/folderscreen/26.png</thumbnail>
+</item>
+
+<item>
+<title>Tom and Jerry</title>
+<link>rtmp://76.73.45.98/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=true timeout=15 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html</link>
+<thumbnail>http://www.kralalemi.com/images/Cizgifilm/tom-ve-jerry1.png</thumbnail>
 </item>
 
 </channel>
