@@ -77,13 +77,6 @@
 <thumbnail>http://www.sayidaty.net/dbpics/menu/pages/rotana-classic.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Nile Drama</title>
-<link>http://nidal.myftp.org/hls/mux-udp-331/playplist.m3u8</link>
-<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/nile_drama_tv_sport_channel_live_egypt_online_free_arabic_channel.png</thumbnail>
-</item>
-
 <item>
 <title>Nile Sports</title>
 <link>http://nidal.myftp.org/hls/mux-udp-332/playplist.m3u8</link>
@@ -92,7 +85,7 @@
 
 <item>
 <title>Nile Cinema</title>
-<link>http://nidal.myftp.org/hls/mux-udp-334/playplist.m3u8</link>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=cinema live=1/link>
 <thumbnail>http://1.bp.blogspot.com/-X_Js8309inU/USYEG5WiTSI/AAAAAAAAGV0/bXu7WBoDegE/s1600/nile+cinema+tv+channel.jpg</thumbnail>
 </item>
 
@@ -220,6 +213,30 @@ pageUrl=https://iframehost-c.iframehost.com/1635152?signed_request=g6IaGABi-b-eo
 <title>EL BALAD DRAMA</title> 
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T1oJUSGjjD4</link>
 <thumbnail>http://www.arab-tvs.com/EgyptianTvs/images/ElBalad-Drama.JPG</thumbnail>
+</item>
+
+<item>
+<title>Nile Comedy</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=comedy live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nile_comedy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Family & Kids</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=family live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nile_familiekids.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Sport</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=sport live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nile_sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>NILE DRAMA</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php?ch=drama live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nile_drama.jpg</thumbnail>
 </item>
 
 </channel>
