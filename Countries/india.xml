@@ -315,12 +315,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>Zee Cinema</title>
-<link>rtmp://93.174.93.124/live33 playpath=i_zcinema swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=i_zcinema&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20110926123553/logopedia/images/b/be/Zee_Cinema_2005.png</thumbnail>
-</item>
-
-<item>
 <title>Zee TV 2</title>
 <link>rtmp://178.18.30.120/live playpath=tvzew swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tvzew&vw=600&vh=470</link>
 <thumbnail>http://images.wikia.com/logopedia/images/3/38/Zee_TV_2011.png</thumbnail>
@@ -507,12 +501,6 @@ Indian - Telugu / Malayam Streams:
 </item>
 
 <item>
-<title>ZEE TV</title>
-<link>rtmp://93.174.93.124/live33 playpath=tvzee swfUrl=http://www.flashi.tv/player/player.swf live=true timeout=15 pageUrl=http://www.flashi.tv/embed.php?v=tvzee&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Zeetv.jpg</thumbnail>
-</item>
-
-<item>
 <title>Life OK</title>
 <link>rtmp://178.18.30.120/live playpath=lifeook3 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=lifeook3&vw=650&vh=420</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png</thumbnail>
@@ -552,6 +540,18 @@ Indian - Telugu / Malayam Streams:
 <title>Tom and Jerry</title>
 <link>rtmp://76.73.45.98/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=true timeout=15 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html</link>
 <thumbnail>http://www.kralalemi.com/images/Cizgifilm/tom-ve-jerry1.png</thumbnail>
+</item>
+
+<item>
+<title>B4U Movies</title>
+<link>rtmp://178.18.30.121/live playpath=b4umooo swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=b4umooo&vw=600&vh=470</link>
+<thumbnail>http://livetv2watch.com/wp-content/uploads/2013/07/b4umovies.png</thumbnail>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>rtmp://178.18.30.121/liveplaypath=cinezee swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cinezee&vw=600&vh=470</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
 </item>
 
 </channel>
