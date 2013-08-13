@@ -550,7 +550,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Zee Cinema</title>
-<link>rtmp://178.18.30.121/liveplaypath=cinezee swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cinezee&vw=600&vh=470</link>
+<link>rtmp://178.18.30.121/live playpath=cinezee swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cinezee&vw=600&vh=470</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/zz/zee_cinema_africa.png</thumbnail>
 </item>
 
