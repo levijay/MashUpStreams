@@ -514,7 +514,7 @@ Indian - Telugu / Malayam Streams:
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmp://178.18.30.121/live playpath=cartoon98 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cartoon98&vw=650&vh=420</link>
+<link>rtmp://178.18.30.120/live playpath=cartoon98 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=cartoon98&vw=600&vh=430</link>
 <thumbnail>http://images.wikia.com/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png</thumbnail>
 </item>
 
