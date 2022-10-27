@@ -1,0 +1,99 @@
+<name>Malaysia TV Channels</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>1 News</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch020</link>
+<thumbnail>http://mystream.rtm.gov.my/images/one-news.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV1 v1</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch001</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV1 v2</title>
+<link>http://stream.layarku.tv/live/rtm/rtm-ch001/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV2 v1</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch003</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV2 v2</title>
+<link>http://stream.layarku.tv/live/rtm/rtm-ch003/chunklist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV3</title>
+<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv37495872537483943746583462384952/playlist.m3u8?wowzasessionid=370460574</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv3_my.png</thumbnail>
+</item>
+
+
+<item>
+<title>TV9</title>
+<link>http://baik.layarku.tv/live/sz%3DIMN%3Dtv9232543785632696896784568743483467835 24/playlist.m3u8?wowzasessionid=90494488</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv9_my.png</thumbnail>
+</item>
+
+
+<item>
+<title>TVi</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch005</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png</thumbnail>
+</item>
+
+
+<item>
+<title>Galaksi Muzik</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch007</link>
+<thumbnail>http://mystream.rtm.gov.my/images/galaksimuzik.png</thumbnail>
+</item>
+
+
+<item>
+<title>Parlimen Malaysia</title>
+<link>rtmp://stream.rtm.swiftserve.com/live/rtm/rtm-ch009</link>
+<thumbnail>http://mystream.rtm.gov.my/images/parlimen.png</thumbnail>
+</item>
+
+
+<item>
+<title>Astro Arena</title>
+<link>http://measatott28-i.akamaihd.net/hls/live/205776/OTT_28/master_01.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_arena.png</thumbnail>
+</item>
+
+
+<item>
+<title>Astro Awani</title>
+<link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Mob TV</title>
+<link>rtmp://54.251.34.216/edge/mobtv</link>
+<thumbnail>http://hoongling.com/main/images/images/media/mobtv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>TV Selangor</title>
+<link>rtmp://live2.selangorku.com/selangorlive2/channel1</link>
+<thumbnail>http://sidangrakyat.com/wp-content/uploads/2013/05/tvselangor.jpg</thumbnail>
+</item>

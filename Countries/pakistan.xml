@@ -5,120 +5,9 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Ary News  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://server1.arylive.com:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.arylive.com/stream5.html</link>
-<thumbnail>http://www.agahiawards.com/2012/channels/ary_news.jpg</thumbnail>
-</item>
-
-<item>
-<title>NICK</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MDY6NTcgUE0maGFzaF92YWx1ZT1ySFpzclBIVE5iajZUb2RvRU9vRktnPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-nick swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/nick_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-nick&screen=true</link>
-<thumbnail>http://i1.cdnds.net/10/15/M/tv_nick_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Geo Entertaiment  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=geo_tv.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=geo_tv&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
-<thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/08/Geo-TV-live-streaming.jpg</thumbnail>
-</item>
-
-<item>
 <title>Prime TV</title>
 <link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Abbtak TV</title>
-<link>rtmp://77.92.87.245:1935/live/ playpath=abbtakkLive.stream swfUrl=http://www.abbtakk.tv/wp-content/plugins/ultimate-coming-soon-page/inc/template/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.abbtakk.tv/</link>
-<thumbnail>http://www.pakistanmediaupdates.com/wp-content/uploads/2013/04/abb-takk.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Health TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDc6MTg6NTcgUE0maGFzaF92YWx1ZT1hdUlhbTl3Z1h4N3RLVkE5aTRMV0FBPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-healthtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/healthtv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-healthtv&screen=true</link>
-<thumbnail>http://blush.com.pk/wp-content/uploads/2012/12/health-tv-pakistan-logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Live Cricket</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//07febaf06cea4afeba557b3836d959d6.m3u8?bitrate=800</link>
-<thumbnail>http://2.bp.blogspot.com/-IUeXa4APLso/TV0tvtYoBjI/AAAAAAAAFk0/QKdTyXqgGSg/s1600/Pakistan-Cricket-logo.png</thumbnail>
-</item>
-
-<item>
-<title>Hum TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://94.102.51.78/live33 playpath=u_hum swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=u_hum&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
-</item>
-
-
-<item>
-<title>Geo Super  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://f.acaster.tv/live playpath=geosuper7 swfUrl=http://www.acaster.tv/player/mplayer327.swf live=true timeout=15 pageUrl=http://www.acaster.tv/embed.php?v=geosuper7&vw=600&vh=470&domain=http://desistreams.tv/embed/geo_super.php</link>
-<thumbnail>http://4.bp.blogspot.com/-IRhbzHwk_N0/T3krji_T0aI/AAAAAAAAAYY/p-kVip-_vKA/s1600/geo_super.png</thumbnail>
-</item>
-
-
-<item>
-<title>Geo Tez TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://141.8.244.56/base playpath=g_tez.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=g_tez&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu</link>
-<thumbnail>http://www.pmm.net.pk/wp-content/uploads/2013/04/geo_tez.jpg</thumbnail>
-</item>
-
-<item>
-<title>Channel 5  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDc6MTY6NTEgUE0maGFzaF92YWx1ZT01WTVIOUtTRERjZnFtK0J2UW4yeER3PT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-channelfive swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/channelfive_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-channelfive&screen=true</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_five_pk.jpg</thumbnail>
-</item>
-
-<item>
-<title>MASALA TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDc6MzE6MjIgUE0maGFzaF92YWx1ZT1hK1FHV1kyUW5aOFhUKzhvZUQ3M0tRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/masalatv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-masalatv&screen=true</link>
-<thumbnail>http://images4.wikia.nocookie.net/__cb20111001233247/logopedia/images/e/e8/Masala_TV.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>EXPRESS ENTERTAINMENT  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://94.102.51.78/live33 playpath=w_express swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true timeout=15 pageUrl=http://www.zstream.eu/embed.php?v=w_express&vw=600&vh=450&video=0&domain=www.pogotv.eu</link>
-<thumbnail>http://2.bp.blogspot.com/-wcir8KQnVE8/Tvjy8McpGUI/AAAAAAAAAA4/8naiIlozsxU/s1600/express_entertainment_logo_png_Pakistan_271211.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sindh TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MTI6NDcgUE0maGFzaF92YWx1ZT03SkpXTERTRDdLL3NtU1A2NzVoODFnPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-sindhtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/sindhtv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-sindhtv&screen=true</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/12/Sindh-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Vibe TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MjI6NTkgUE0maGFzaF92YWx1ZT1pbHE2b0lLLzJFaGp1MzM5WFcyYk9nPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-nvibe swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/nvibe_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-nvibe&screen=true</link>
-<thumbnail>http://www.watchlivetvstreaming.com/wp-content/themes/magnific/scripts/timthumb.php?src=http://www.watchlivetvstreaming.com/wp-content/uploads/2012/01/Nvibe-Tv-watc-Online.jpg&w=650&h=200&zc=1</thumbnail>
-</item>
-
-
-<item>
-<title>Raah TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MDk6MzUgUE0maGFzaF92YWx1ZT1yejZKQ0lVMkVjU3VXWmc2WGNabFdnPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-raahtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/raahtv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-raahtv&screen=true</link>
-<thumbnail>http://www.tv14.net/images/raahtv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Discovery TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDY6NTI6MDQgUE0maGFzaF92YWx1ZT13MEc5NXBPdHpyYjBUZmtCeGNYSldRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-discovery swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/discovery_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-discovery&screen=true</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/jv/0/09/Discovery_Channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>Capital TV Live</title>
-<link>rtmp://184.107.236.10:1935/live/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf live=true timeout=15
-pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link>
-<thumbnail>http://www.saach.tv/wp-content/uploads/2013/04/Capital-TV-Pakistan.png</thumbnail>
 </item>
 
 <item>
@@ -128,69 +17,53 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 </item>
 
 <item>
-<title>Hum 2  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDc6MjI6MDIgUE0maGFzaF92YWx1ZT1lYjl0TjFCUllVcHBvT240bUtuYnR3PT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-hum2 swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/hum2_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-hum2&screen=true</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/08/hum-tv-live-streaming.png</thumbnail>
-</item>
-
-<item>
-<title>Royal News 24/7  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MTE6MjggUE0maGFzaF92YWx1ZT1DK3drRWRhbmV1RFFvNFBWL1hNVTVRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-royaltv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/royaltv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-royaltv&screen=true</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2012/11/Royal-News-TV-Paksitan-Logo1.png</thumbnail>
-</item>
-
-
-<item>
-<title>AAJ TV  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>http://94.75.250.49/liveorigin/_definst_/aajtak1/chunklist_w1163544816.m3u8</link>
-<thumbnail>http://www.zemtv.com/images/aaj-news-tv-channel-pakistan-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Dhoom TV Live  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDY6NDk6MzYgUE0maGFzaF92YWx1ZT0xbjIvZkE3RVZNWFhZbHJEejRVU2tRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-dhoomtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/dhoomtv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-dhoomtv&screen=true
-</link>
-<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/pakistan/180-Dhoom-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Such TV Live  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MTU6MTAgUE0maGFzaF92YWx1ZT1COFNIelpVSXdpeFhrOFo4ZXY1bTZ3PT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-suchtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/channels/suchtv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/hamariweb_iframe.php?app=hamariweb&stream=hamariweb-suchtv&screen=true</link>
-<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2012/12/Such-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Metro 1 News  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MDM6NTQgUE0maGFzaF92YWx1ZT1RVFlHb0V1clJqOHB2UGlMSW1xTDRBPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-metroone swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/metroone_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-metroone&screen=true</link>
-<thumbnail>http://www.tvchannelsliveonline.com/wp-content/uploads/2011/08/metro_one.jpg</thumbnail>
-</item>
-
-<item>
-<title>ARY Digital  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDI6MzA6NTQgUE0maGFzaF92YWx1ZT1DeHNCY0QvQm5RRnlLbURnT1JKUTdRPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-aryentertainment swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/aryentertainment_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-aryentertainment&screen=true</link>
-<thumbnail>http://takatuk.com/wp-content/uploads/2008/09/ary-digital-tv-logo.gif</thumbnail>
-</item>
-
-<item>
 <title>ARY QTV</title>
 <link>rtmp://server2.arylive.com:1935/live playpath=myStream swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=true timeout=15 pageUrl=http://qtv.arylive.com/live/qtv.html=true</link>
 <thumbnail>http://uk.arydigital.tv/images/qtvlogo.jpg</thumbnail>
 </item>
 
-
 <item>
-<title>News 1  [COLOR=FFFF0000]New  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDk6MTc6MDYgUE0maGFzaF92YWx1ZT1KQnJzOUxIWG9Nc1hHRXFvMVJnZ3BBPT0mdmFsaWRtaW51dGVzPTI= playpath=hamariweb-newsone swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/channels/newsone_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/hamariweb_iframe.php?app=hamariweb&stream=hamariweb-newsone&screen=true</link>
-<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-News-One-Live.png</thumbnail>
+<title>PTV News</title>
+<link>rtmp://live.server4sale.com/live playpath=PTVnews swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=true timeout=15 pageUrl=http://news.ptv.com.pk/livestreaming.asp</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Geo News  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDEzIDc6MDM6MzYgUE0maGFzaF92YWx1ZT1OMWVlRXZzclVRc3VrVEd5eTZPT3RnPT0mdmFsaWRtaW51dGVzPTIw playpath=hamariweb-geonews swfUrl=http://www.eboundservices.com/live/player.swf live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/iframe/geo/iframe_dis.php?streamer=streamer38&app=hamariweb&stream=hamariweb-geonews&width=420&height=340</link>
-<thumbnail>http://1.bp.blogspot.com/_gWmZmrP1e8E/S9HcKnNHqhI/AAAAAAAAABg/q_oHu_tgspU/s1600/geo_news.jpg</thumbnail>
+<title>ARY Digital</title>
+<link>rtmp://178.18.30.121/live playpath=sdidtary swfUrl=http://www.ukcast.tv/player/player.swf liv
+e=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=sdidtary&vw=600&vh=470</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png</thumbnail> 
 </item>
 
+<item>
+<title>Geo Enterainment</title>
+<link>rtmp://178.18.30.120/live playpath=engeuu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=engeuu&vw=600&vh=470</link>
+<thumbnail>http://www.friendsalliance.com.pk/Images/Client-GeoEnt.png</thumbnail>
+</item>
 
+<item>
+<title>Hum TV</title>
+<link>rtmp://178.18.30.120/live playpath=tbhummmu swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=tbhummmu&vw=600&vh=470</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png</thumbnail>
+</item>
 
+<item>
+<title>Urdu 1</title>
+<link>rtmp://178.18.30.121/live playpath=urduu4 swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=urduu4&vw=600&vh=470</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Urdu_1_logo.png/120px-Urdu_1_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Geo News</title>
+<link>rtmp://178.18.30.121/live playpath=newsofr swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=newsofr&vw=600&vh=470</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/geo_news_pk.png</thumbnail>
+</item>
+
+<item>
+<title>Hidayat TV</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/11705489/streams/live/playlist.m3u8</link>
+<thumbnail>http://www.ashura.tv/live-tv/hidayat-tv/logo.jpg</thumbnail>
+</item>
 
 </channel>
+

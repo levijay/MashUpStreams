@@ -5,6 +5,60 @@
 <thumbnail></thumbnail>
 
 <item>
+<title>ABS-CBN Link 1</title>
+<link>http://iwantvls-i.akamaihd.net/hls/live/202810/abscbn/master.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/abs-cbn2_zpscdffd773.png</thumbnail>
+</item>
+
+<item>
+<title>ABS-CBN Link 2</title>
+<link>rtmp://edge.isearch.to/edge playpath=xxooiinjva78v94 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=42963 &autoplay=true</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/abs-cbn2_zpscdffd773.png</thumbnail>
+</item>
+
+<item>
+<title>CLTV 36</title>
+<link>http://streamer01.mavshack.com/cltv36/smil:cltv361.smil/chunklist_w2015533479_b384000.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/cltv36_zps2f09d9a7.png</thumbnail>
+</item>
+
+<item>
+<title>GMA</title>
+<link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=420&channel=44090 &autoplay=true</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/gma7_zps66858672.png</thumbnail>
+</item>
+
+<item>
+<title>RHTV</title>
+<link>mms://bayantel-ss.dagupan.com/dzrhvideo/</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/rhtv_zps412d1ce3.png</thumbnail>
+</item>
+
+<item>
+<title>The Old Path</title>
+<link>rtmp://ocatv.mcgi.me/public playpath=247_en swfUrl=http://wwitv.com/player/player15.swf live=true timeout=15 pageUrl=http://wwitv.com/tv_channels/6773-The-Old-Path.htm</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/theoldpath_zps02e95298.png</thumbnail>
+</item>
+
+<item>
+<title>TV Maria</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/13894897/streams/live/playlist.m3u8</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/tvmaria_zpsc217e623.png</thumbnail>
+</item>
+
+<item>
+<title>UNTV</title>
+<link>rtmp://livestream01.untvweb.com/public/ playpath=untvwebstream swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/7975.htm live=true timeout=15</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/untv37_zps7cb01caf.png</thumbnail>
+</item>
+
+<item>
+<title>Veritas 846</title>
+<link>http://eradioportal.com/asxfile/radyoveritas.asx</link>
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/radyoveritas_zps5664b4fa.png</thumbnail>
+</item>
+
+<item>
 <title>ABD-CBN  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
 <link>rtmp://edge.isearch.to/edge playpath=pihx0rqoptn6zco swfUrl=http://player.ilive.to/player_ilive_embed.swf live=true timeout=15 pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=420&channel=49709&autoplay=true</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/abs_cbn.png</thumbnail>

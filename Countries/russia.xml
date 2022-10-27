@@ -5,13 +5,6 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Russia Alyaum</title>         
-<link>rtmp://94.23.62.156:1935/teledunet playpath=russia_alyaum swfUrl=http://www.teledunet.com/tv/player.swf?id0=81619255820200&streamer=rtmp%3A//94.23.62.156%3A1935/teledunet&file=russia_alyaum&provider=rtmp&skin=bekle/bekle.xml live=1 pageUrl=http://www.teledunet.com/nessma_khadhra</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rt_arabic.jpg</thumbnail>
-</item>
-
-
-<item>
 <title>Russia Today English HD</title>
 <link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-global-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=true timeout=15 pageUrl=http://rt.com/on-air/</link>
 <thumbnail>http://www.frosat.net/images/logotv/original/Russia_today.jpg</thumbnail>
@@ -29,20 +22,124 @@
 <thumbnail>http://i3.ytimg.com/i/2mtXUpAYLYJIZ2deSPhlqw/mq1.jpg?v=515bfd1a</thumbnail>
 </item>
 
-
 <item>
-<title>Футбол</title>
-<link>rtsp://178.238.89.53/chNashFootBall_est?sid=6F714D33A19AC58DC5827E7FE10F81AACFE19C757C1D57B71AB4B62F69F1F895</link>
-<thumbnail>http://www.scm.com.ua/m/mediacentre/fotos/Futbol_TV_logo.jpg</thumbnail>
+<title>Poccnr</title>
+<link>http://cdn.vidigital.ru/media/m/IBM/IBM_SP_Agenda_Q4/400x300.flv</link>
+<thumbnail>http://www.metafocus.co.uk/blog/wp-content/uploads/2013/04/baidu_russian_tv_news_interview_with_alan_clements-300x206.jpg</thumbnail>
 </item>
 
 <item>
-<title>The Fight Network</title>
-<link>rtsp://178.238.89.53/chFightNetwork?sid=73616DEFB98AD9CD651EE68FED6F81069701B0FD942137FFA64C9E53D9D96455</link>
-<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/500px-tfn_logo.svg_.png</thumbnail>
+<title>A1 TV</title>
+<link>rtmp://a1tv.cdnvideo.ru/a1tv-live playpath=22 swfUrl=http://aonehiphop.ru/static/js/player.swf live=true timeout=15 pageUrl=http://aonehiphop.ru/channel/live/</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/russia/362-A-One-TV[1].jpg</thumbnail>
 </item>
 
 <item>
+<title>RT2</title>
+<link>rtmp://fms5.visionip.tv/live playpath=RT_2 swfUrl=http://rt.com/s/swf/player.swf?streamer=rtmp://fms5.visionip.tv/live&file=RT_2.flv&autostart=true pageUrl=http://www.watchfomny.com/Video/Russia/Russia-Today/Russia-Today.htm</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>RT Doc</title>
+<link>rtmp://rt.fms6.visionip.tv/live/ playpath=RT_Doc-SDh swfUrl=http://rtd.rt.com/s/jwplayer/player.swf live=true timeout=15 pageUrl=http://rtd.rt.com/on-air/</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/02/RT-Documentary.png</thumbnail>
+</item>
+
+<item>
+<title>Cyber Game</title>
+<link>rtmp://st.cyber-game.tv/iptvsd playpath=stream swfUrl=http://www.cyber-game.tv/maxison/MaxisonPlayer.swf live=true timeout=15 pageUrl=http://www.cyber-game.tv/</link>
+<thumbnail>http://en.glaz.tv/images/logos/tv/big/cyber-game-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Barbaraki TV </title>
+<link>rtmp://80.93.53.88:1935/live playpath=channel_6 swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=569 live=true timeout=15 pageUrl=http://www.planeta-online.tv/?ch=6</link>
+<thumbnail>http://www.contimarkt.de/images/barbaraki.jpg</thumbnail>
+</item>
+
+<item>
+<title>RIA TV</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://orig.content-video.ru/live/stream20 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/rian</link>
+<thumbnail>http://b.vimeocdn.com/ts/365/265/365265422_640.jpg</thumbnail>
+</item>
+
+<item>
+<title>RBC</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3091 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/rbc</link>
+<thumbnail>http://freestreamtv.ucoz.net/TVLOGOS/rbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rain HD</title>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=cz5WmJxh3EBKZh0Q swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/dojd</link>
+<thumbnail>https://lh6.ggpht.com/wEmuC5RkxvTQ4D71QCRFcND_7uNCiUSF_m7PEakil4IRY1fdh9AyIl1WyCEGtxNrSPg=w170</thumbnail>
+</item>
+
+<item>
+<title>THB</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://edge1.mediacdn.ru/tvn-tnv/2318971247890124 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/tnv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tnv_tatarstan.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVC</title>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3094 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/tvc
+</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/05/Watch-TVC-Moscow-Live-TV-from-Russia.jpg</thumbnail>
+</item>
+
+<item>
+<title>KP TV</title>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3094 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/tvc</link>
+<thumbnail>http://www.logotypes101.com/logos/664/9278F8662D853431F1526CBF9AFA5EE0/Komsomolskaya_Pravda37.png</thumbnail>
+</item>
+
+<item>
+<title>World Fushion</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3098 swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/wfc</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ww/world_fashion_channel_int.png</thumbnail>
+</item>
+
+<item>
+<title>ARM TV</title>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=rtmp://www.tvarm.ru/live/myStream1.sdp swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/arm</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/TV-ARM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Union</title>
+<link>rtmp://n3.mos.cdn.online.ru/live-r playpath=rtmp://www.planeta-online.tv:1936/live/soyuz swfUrl=http://www.corbina.tv/flash/swf/player.swf live=true timeout=15 pageUrl=http://www.corbina.tv/tv/soyuz</link>
+<thumbnail>http://tv-online.nashol.com/images/tv_online_kanali/soyuz_tv_onlain.jpg</thumbnail>
+</item>
+
+<item>
+<title>FOX v1</title>
+<link>http://95.188.113.180:1234/udp/233.7.70.154:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_asia.png</thumbnail>
+</item>
+
+<item>
+<title>FOX Life v1</title>
+<link>http://95.188.113.180:1234/udp/233.7.70.85:5000</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_ru.png</thumbnail>
+</item>
+
+<item>
+<title>SONY Scifi v2</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sony_scifi_ru.png</thumbnail>
+<link>http://92.124.75.247:1234/udp/233.7.70.184:5000</link></item>
+
+<item>
+<title>JimJam v3</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/jj/jim_jam_asia.png</thumbnail>
+<link>http://212.20.43.145:1234/udp/233.7.70.148:5000</link></item>
+
+<item>
+<title>Fight Box</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link></item>
+
 
 
 </channel>

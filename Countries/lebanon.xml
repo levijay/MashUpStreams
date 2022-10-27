@@ -10,11 +10,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/6/61/LBC_Europe_Logo.svg/220px-LBC_Europe_Logo.svg.png</thumbnail>
 </item>
 
-<item>
-<title>Al Mayadeen (Link 3)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-011/playplist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
-</item>
 
 <item>
 <title>MTV Lebanon</title>
@@ -35,9 +30,22 @@
 </item>
 
 <item>
-<title>Al Manar HD (Link 3)</title>
-<link>http://nidal.myftp.org/hls/mux-udp-001/playplist.m3u8</link>
+<title>Al Manar HD [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://72.55.164.21/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Manar  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>http://72.55.164.21:8000/live</link>
+<thumbnail>http://mplbelgique.files.wordpress.com/2010/01/al-manar.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Mayadeen (Link 3)  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>
+<link>rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadeen_360p swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl>http://www.almayadeen.net/live
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.jpg</thumbnail>
 </item>
 
 <item>
@@ -76,11 +84,6 @@
 <thumbnail>http://3.bp.blogspot.com/-WuocdC0K9zg/T5hiDrsJySI/AAAAAAAABYg/Vy_-ZiKNIOQ/s1600/582643_356984461016626_119723014742773_951695_695582465_n.jpg</thumbnail>
 </item>
 
-<item>
-<title>Al Manar</title>
-<link>rtmp://38.96.148.200/live playpath=livestream swfUrl=http://www.almanar.com.lb/style/player/4.2.90/mediaplayer.swf live=true timeout=15 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
-<thumbnail>http://mplbelgique.files.wordpress.com/2010/01/al-manar.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -89,11 +92,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png</thumbnail>
 </item>
 
-<item>
-<title>Al Manar (Link 2)</title>
-<link>http://almanarlive.nanocdn.com:1935/live/almanar64/playlist.m3u8</link>
-<thumbnail>http://jira.salamworld.com/wp-content/uploads/2012/11/AL-MANAR.jpg</thumbnail>
-</item>
 
 <item>
 <title>Al Hiwar  [COLOR=FFFF0000]Updated  Channel[/COLOR]</title>

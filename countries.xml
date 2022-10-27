@@ -230,3 +230,11 @@ http://www.iconspedia.com/icon/
 <name>Barbados TV Channels</name>
 <link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/barbados.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/barbados-y.png</thumbnail>
+
+<name>Jamaica TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/jamaica.xml</link>
+<thumbnail>http://www.joaoleitao.com/viagens/imagens/bandeiras2/Jamaica.png</thumbnail>
+
+<name>Malaysia TV Channels</name>
+<link>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/malaysian.xml</link>
+<thumbnail>https://github.com/mash2k3/MashUpStreams/raw/master/Countries/flags/malaysia.png</thumbnail>

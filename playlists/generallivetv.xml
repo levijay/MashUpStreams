@@ -1,1162 +1,919 @@
 http://www.navixtreme.com/playlist/81940/live_tv_channels.plx
 
+name=1 1 [COLOR red]***Updated by Mash2k3 08/08/13***[/COLOR] 1 1
+URL=nill
 
-# 1880279
+
+# 1928408
+type=video
+name=Starz US
+URL=rtmpe://live.univisionbrazil.com/modelo/starz.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=starz
+
+
+# 1928405
+type=video
+name=HBO US
+URL=rtmpe://live.univisionbrazil.com/modelo/hboe.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=hboe
+
+
+# 1928351
+type=video
+name=CBS US
+URL=rtmp://edge.isearch.to/edge/z3fwvcohtijp3fe swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10
+
+
+# 1928034
+type=video
+name=Hot Entertainment Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/10
+
+
+# 1925761
+type=video
+name=Apollo FM
+URL=rtmp://edge.isearch.to/edge/h43im3za22e66am pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1757294
 type=playlist
-name=HD Movies by @MrAlwaysAway
-URL=http://www.navixtreme.com/playlist/120853/hd_movies_by_mralwaysaway.plx
+name=Live UK TV Channels
+URL=http://www.navixtreme.com/playlist/82346/live_uk_tv_channels.plx
 
 
+# 1799716
+type=playlist
+name=Music Channels
+URL=http://www.navixtreme.com/playlist/81920/music_channels.plx
 
-# 1880261
-type=video
-name=One HD Dance
-URL=http://goo.gl/fjFVv
-
-
-
-# 1880260
-type=video
-name=Mtv Arabia
-URL=http://37.46.199.34:1935/hls/mux-udp-141/playplist.m3u8
-
-
-
-# 1879207
-type=video
-name=True drama
-URL=http://37.46.199.34:1935/hls/mux-udp-856/playplist.m3u8
-
-
-
-# 1879206
-type=video
-name=True entertainment
-URL=http://37.46.199.34:1935/hls/mux-udp-855/playplist.m3u8
-
-
-
-# 1879205
-type=video
-name=True movies 1
-URL=http://37.46.199.34:1935/hls/mux-udp-853/playplist.m3u8
-
-
-
-# 1879204
-type=video
-name=True movies 2
-URL=http://37.46.199.34:1935/hls/mux-udp-854/playplist.m3u8
-
-
-
-# 1876775
-type=video
-name=Bein Sport1
-URL=rtmp://94.23.176.107/live/channel3
-
-
-
-# 1876774
-type=video
-name=Bein Sport2
-URL=rtmp://94.23.176.107/live/channel4
-
-
-
-# 1876714
-type=video
-name=HBO
-URL=rtmp://edge.isearch.to/edge playpath=z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/36674/watch-live-HBO_live_stream_online-streaming-channel-for-free
-
-
-
-# 1876713
-type=video
-name=HBO signature
-URL=http://dtv.7drt.com/daili/d_tv.php/live/id/82
-
-
-
-# 1876712
-type=video
-name=HBO Hits
-URL=http://dtv.7drt.com/daili/d_tv.php/live/id/02
-
-
-
-# 1876710
-type=video
-name=AXN BLACK
-URL=rtmp://edge.isearch.to/edge playpath=79fkf9ugubolnai swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/45206/watch-live-AXN_Black-streaming-channel-for-free
-
-
-
-# 1876905
-type=video
-name=Dubai one Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-052/playplist.m3u8
-
-
-
-# 1876906
-type=video
-name=Mbc max Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-830/playplist.m3u8
-
-
-
-# 1876253
-type=video
-name=SkySport F1
-URL=rtmp://46.19.139.146:1935/stream/ playpath=ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&domain=HALILOU
-
-
-
-# 1876252
-type=video
-name=Canal + Sport France
-URL=rtmp://50.7.28.98/flash playpath=16673 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://sawlive.tv/embed/watch/MmM3MWNjMWEwOThiOjk0NmU3NDY1NmU2ZTY1NzM3MDZmNzI3NDplYTNlYzVkYjNmM2/QwNmY5ZWY3Nzk4MjRkNWE5OGUzNDRlYmYxMjdmOjRmYTYzOWIxNGUwYzE5YTVkNGYxNzdlYWRmZDBmMjE2
-
-
-
-# 1876251
-type=video
-name=True Sport2
-URL=rtmp://58.97.57.152/live playpath=ch78 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
-
-
-
-# 1876250
-type=video
-name=GMM Sport Extra
-URL=rtmp://58.97.57.152/live playpath=ch78 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
-
-
-
-# 1876249
-type=video
-name=Chelsea Tv
-URL=rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
-
-
-
-# 1876248
-type=video
-name=DD SPORTS
-URL=rtsp://68.235.32.20:1935/server6/ddsports?tvonlinestream
-
-
-
-# 1876247
-type=video
-name=Redbul Sport
-URL=http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8
-
-
-
-# 1874151
-type=video
-name=Orf sport
-URL=http://194.232.200.128:1935/orfs_q6a/orf.sdp/playlist.m3u8
-
-
-
-# 1873967
-type=video
-name=Cartoon Network
-URL=rtmp://178.18.23.128/live playpath=cartoon98 swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=cartoon98&vw=600&vh=430 conn=S:OK live=1
-
-
-
-# 1873953
-type=video
-name=sportnet 1 HD
-URL=rtmp://nyc.zag.gs:1935/liveedge/ app=liveedge playpath=synx_sky_sports_news.stream pageUrl=http://synx.tv/
-
-
-
-# 1878870
-type=video
-name=Al hayat sport
-URL=http://37.46.199.34:1935/hls/mux-udp-576/playplist.m3u8
-
-
-
-# 1871303
-type=video
-name=FOX Sport HD
-URL=http://113.160.49.36/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8
-
-
-
-# 1878872
-type=video
-name=AD Sport 1
-URL=http://37.46.199.34:1935/hls/mux-udp-601/playplist.m3u8
-
-
-
-# 1878873
-type=video
-name=AD Sport 2
-URL=http://37.46.199.34:1935/hls/mux-udp-603/playplist.m3u8
-
-
-
-# 1878874
-type=video
-name=AD Sport Extra
-URL=http://37.46.199.34:1935/hls/mux-udp-604/playplist.m3u8
-
-
-
-# 1878458
-type=video
-name=Jsc Sport 1 fta
-URL=http://37.46.199.34:1935/hls/mux-udp-010/playplist.m3u8
-
-
-
-# 1878850
-type=video
-name=Jsc Sport 2 fta
-URL=http://37.46.199.34:1935/hls/mux-udp-574/playplist.m3u8
-
-
-
-# 1876894
-type=video
-name=Jsc+1 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-611/playplist.m3u8
-
-
-
-# 1876895
-type=video
-name=Jsc+2 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-612/playplist.m3u8
-
-
-
-# 1876896
-type=video
-name=Jsc+3 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-613/playplist.m3u8
-
-
-
-# 1876897
-type=video
-name=Jsc+4 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-614/playplist.m3u8
-
-
-
-# 1876899
-type=video
-name=Jsc+5 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-615/playplist.m3u8
-
-
-
-# 1876900
-type=video
-name=Jsc+6 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-616/playplist.m3u8
-
-
-
-# 1876901
-type=video
-name=Jsc+ 7 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-819/playplist.m3u8
-
-
-
-# 1876902
-type=video
-name=Jsc +8 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-820/playplist.m3u8
-
-
-
-# 1876903
-type=video
-name=Jsc+ 9 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-821/playplist.m3u8
-
-
-
-# 1876904
-type=video
-name=Jsc+10 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-822/playplist.m3u8
-
-
-
-# 1871108
-type=video
-name=Hbo Latino
-URL=rtmp://5.63.146.236/live playpath=tvplanethbo2?id=171386 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/tvplanethbo2/1/650/400 live=1 conn=S:OK
-
-
-
-# 1871107
-type=video
-name=Fox Sport Brazil
-URL=rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdn-br.com/swf/player.swf live=1 pageUrl=http://www.cdn-br.com/mastertv/FSB.htm --live
-
-
-
-# 1869744
-type=video
-name=Viasat Sport
-URL=http://tv.i-ghost.net/stream/TEST/102.m3u8
-
-
-
-# 1869743
-type=video
-name=NTV+ Tennis
-URL=http://tv.i-ghost.net/stream/TEST/141.m3u8
-
-
-
-# 1869742
-type=video
-name=Extreme Sport
-URL=http://tv.i-ghost.net/stream/TEST/148.m3u8
-
 
+# 1799717
+type=playlist
+name=News Channels
+URL=http://www.navixtreme.com/playlist/81914/news_channels.plx
 
-# 1869741
-type=video
-name=Sport +
-URL=http://tv.i-ghost.net/stream/TEST/143.m3u8
-
-
-
-# 1869740
-type=video
-name=NTV +2
-URL=http://tv.i-ghost.net/stream/TEST/142.m3u8
-
-
-
-# 1869739
-type=video
-name=NTV +
-URL=http://tv.i-ghost.net/stream/TEST/130.m3u8
-
-
-
-# 1869738
-type=video
-name=TRK Football
-URL=http://tv.i-ghost.net/stream/TEST/159.m3u8
-
-
-
-# 1839814
-type=video
-name=Sky Sport 1 HD
-URL=rtmp://85.17.73.7/live playpath=stream700?id=170190 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/stream700/1/600/420
-
-
-
-# 1839815
-type=video
-name=Sky Sport 1
-URL=rtmp://46.246.124.3:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23697&width=640&height=460 token=$Iwillkill%$wyou@#q5
-
-
-
-# 1839813
-type=video
-name=Sky Sport 2
-URL=rtmp://46.246.124.3:443/liverepeater playpath=23698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23698&width=640&height=460 token=$Iwillkill%$wyou@#q5
-
-
-
-# 1839812
-type=video
-name=Sky Sport 3
-URL=rtmp://46.246.124.3:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23699&width=640&height=460 token=$Iwillkill%$wyou@#q5
-
-
-
-# 1839811
-type=video
-name=Sky Sport 4
-URL=rtmp://46.246.124.3:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c0 pageUrl=http://featve.com/player2.php?id=23700&width=640&height=460 token=$Iwillkill%$wyou@#q5
-
-
-
-# 1835053
-type=video
-name=Nat Geo Arabic
-URL=http://mi6.gv.filmon.com/live/1763.high.stream/chunklist.m3u8
-
-
-
-# 1878455
-type=video
-name=Mbc Drama
-URL=http://37.46.199.34:1935/hls/mux-udp-023/playplist.m3u8
-
-
-
-# 1876907
-type=video
-name=Mbc1 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-013/playplist.m3u8
-
-
-
-# 1876908
-type=video
-name=Mbc2 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-828/playplist.m3u8
-
-
-
-# 1876909
-type=video
-name=Mbc 4 Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-829/playplist.m3u8
-
-
-
-# 1876910
-type=video
-name=Mbc Action Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-012/playplist.m3u8
-
-
-
-# 1746352
-type=video
-name=Al mayadeen
-URL=rtmp://almayadeen.fms-01.visionip.tv/live/ playpath=almayadeentv-almayadeen-live-16x9-SD
-
-
-
-# 1878950
-type=video
-name=Al maydeen alternative link
-URL=http://37.46.199.4:1935/hls/mux-udp-011/playplist.m3u8
-
-
-
-# 1876911
-type=video
-name=Futur tv Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-002/playplist.m3u8
-
-
-
-# 1746344
-type=video
-name=NBN
-URL=rtmp://198.101.225.247/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf live=true timeout=15  pageUrl=http://watchfomny.com/Video/Lebanon/NBN/NBN-Lebanon.htm
-
-
-
-# 1876912
-type=video
-name=Al manar tv Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-001/playplist.m3u8
-
-
-
-# 1746342
-type=video
-name=OTV
-URL=rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive_360p swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf  live=true timeout=15  pageUrl=http://www.otv.com.lb/otvent/live.php
-
-
-
-# 1677839
-type=video
-name=Al Jadeed
-URL=rtmp://aljadeedlive.itw-hosting.net/jadeedlive playpath=live_2 swfUrl=http://www.itworks-me.net/jadeed/player.swf pageUrl=http://www.itworks-me.net/jadeed live=1 swfvfy=1 timeout=15
-player=dvdplayer
-
-
-# 1672665
-type=video
-name=Mtv Lebanon
-URL=rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/485/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/704/485 live=1
-
-
-
-# 1878949
-type=video
-name=Mtv lebanon Alternative link
-URL=http://37.46.199.4:1935/hls/mux-udp-004/playplist.m3u8
-
-
-
-# 1876913
-type=video
-name=Al arabiya Alternative link
-URL=http://37.46.199.40:1935/hls/mux-udp-015/playplist.m3u8
-
-
-
-# 1501478
-type=video
-name=AL JAZEERA
-URL=mmsh://media5.lsops.net/aljazeer_ar?MSWMExt=.asf
-
-
-
-# 1501473
-type=video
-name=lbc
-URL=rtmp://lbclive.itworkscdn.com/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
-
-
-
-# 1839787
-type=video
-name=Suryoyo Sat
-URL=mms://130.89.163.47:34555
-
-
-
-# 1878875
-type=video
-name=Cartoon network arabia
-URL=http://37.46.199.34:1935/hls/mux-udp-605/playplist.m3u8
-
-
-
-# 1878568
-type=video
-name=Tele Liban
-URL=http://37.46.199.34:1935/hls/mux-udp-005/playplist.m3u8
-
-
-
-# 1878871
-type=video
-name=Al nahar +2
-URL=http://37.46.199.34:1935/hls/mux-udp-600/playplist.m3u8
-
-
-
-# 1832381
-type=video
-name=Al Jazzera Documentary
-URL=rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_doc_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" live=true
-
-
-
-# 1834574
-type=video
-name=Sama Dubai
-URL=rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivesamadubai_bb.stream
-
-
-
-# 1834572
-type=video
-name=Dubai Sport 1
-URL=rtmp://mi3.gv.filmon.com:1935/live/_definst_/79.high.stream
-
-
-
-# 1834573
-type=video
-name=Dubai Tv
-URL=rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivedubaitv_bb.stream
-
+# 1799721
+type=playlist
+name=Shopping Channels
+URL=http://www.navixtreme.com/playlist/81928/shopping_channels.plx
 
 
-# 1839790
-type=video
-name=Syria News
-URL=mmsh://video.rtv.gov.sy/snews
-
-
-
-# 1834571
-type=video
-name=2M
-URL=rtmp://10gb1.tulix.tv/2mmaroc/ playpath=2mmaroc swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=maroc_1&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/2m-maroc.php live=true swfVfy=true timeout=10
-
-
-
-# 1878712
-type=video
-name=Syria drama
-URL=http://37.46.199.34:1935/hls/mux-udp-064/playplist.m3u8
-
-
-
-# 1834577
-type=video
-name=Rotana Music
-URL=rtmp://livestreaming4.itworkscdn.net/rotanamousicalive playpath=rotanamousica_360p swfUrl=http://mousica.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://mousica.rotana.net/r/live-tv LIVE=1
-
-
-
-# 1834575
-type=video
-name=Rotana Cinema
-URL=rtmp://livestreaming4.itworkscdn.net/rotanacinemalive playpath=rotanacinema_360p swfUrl=http://cinema.rotana.net/it-works/jwplayer.flash.swf pageUrl=http://cinema.rotana.net/r/live-tv LIVE=1
-
-
-
-# 1818170
-type=video
-name=National Geo Adv HD
-URL=Http://fw01.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800
-
-
+# 1799715
+type=playlist
+name=TV Shows 24/7 High Quality Only
+URL=http://www.navixtreme.com/playlist/84246/tv_shows_247_high_quality_onl
 
-# 1672698
-type=video
-name=SVT1
-URL=http://webtv-aarh-8.stofa.dk/97_01.m3u8
-
-
-
-# 1672699
-type=video
-name=SVT2
-URL=http://webtv-aarh-8.stofa.dk:80/96_01.m3u8
 
+# 1799724
+type=playlist
+name=VEETLE
+URL=http://www.navixtreme.com/cgi-bin/json2plx.cgi?url=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3D70a37623f85b83d9e3c769a6a6463b13%26_render%3Djson
 
 
-# 1791420
+# 1909004
 type=video
-name=Discovery ID
-URL=http://94.242.221.141/hls/a-lo/stream138.m3u8
+name=9021GO Live US
+URL=rtmp://204.107.26.71:1935/battlecam/_definst_/bc_3211629
 
 
-
-# 1818169
-type=video
-name=Animal Planet HD
-URL=rtmp://s01.webport.tv/promo/mtv
-
-
-
-# 1832359
+# 1740310
 type=video
-name=HBO HD
-URL=http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8
-
+name=A&E US
+URL=rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-# 1832364
+# 1824674
 type=video
-name=Animal Planet HD
-URL=rtmp://s01.webport.tv/promo/mtv playpath=mtv pageURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv live=true
+name=ABC US
+URL=rtmp://edge.isearch.to/edge/aipujcyjcc27zvu swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to
 
 
-
-# 1832365
+# 1922436
 type=video
-name=Fashion Box HD
-URL=http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+name=The Africa Channel US
+URL=http://fw01.livem3u8.me.totiptv.com/live//eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8?bitrate=800
 
 
-
-# 1832366
+# 1661920
 type=video
-name=Fashion TV
-URL=http://fw01.livem3u8.me.totiptv.com/live//91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800
-
+name=AMC US
+URL=rtmp://edge.isearch.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-# 1832367
+# 1924408
 type=video
-name=Fox Movies
-URL=rtmp://edge.isearch.to/edge/hc992q7x7cz86t9 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+name=Animal Planet US
+URL=rtmp://edge.isearch.to/edge/fis2ac8g21uvb1t pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10
 
 
-
-# 1832368
+# 1721617
 type=video
-name=HBO Comedy
-URL=rtmp://edge.isearch.to/edge playpath=a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/38214/watch-live-HBO_comedy_moviestreaming-channel
+name=Animal Planet HD Russia
+URL=rtmp://s01.webport.tv/promo/mtv playpath=mtv pageURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv live=true[hide]
 
 
-
-# 1832374
+# 1924410
 type=video
-name=Showtime Hits
-URL=rtmp://edge.isearch.to/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
-
+name=Animal Planet Thailand
+URL=rtmp://edge.isearch.to/edge/41i3ymbmum28xfk swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10
 
 
-# 1832376
+# 1922978
 type=video
-name=Star Hits
-URL=rtmp://edge.isearch.to/edge/8g7x80ozu6hz2ds swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+name=AXN HD China
+URL=http://113.160.49.36/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
 
 
-
-# 1832377
+# 1686780
 type=video
-name=SYFY Us
-URL=http://fw01.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800
+name=AXN Portugal
+URL=rtmp://edge.isearch.to/edge/dw657dcdmdf0vap swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-
-# 1832378
+# 1686113
 type=video
-name=Eurosport HD
-URL=http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8
-
+name=AXN Black Portugal
+URL=rtmp://edge.isearch.to/edge/79fkf9ugubolnai swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-# 1832379
+# 1686112
 type=video
-name=Eurosport2 HD
-URL=http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8
+name=AXN White Portugal
+URL=rtmp://edge.isearch.to/edge/pe94wt2bo03n4rt swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-
-# 1832583
+# 1768857
 type=video
-name=Discovery Channel
-URL=rtsp://123.29.75.131:1935/live/cinemax.stream
+name=Baby TV Russia
+URL=http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800
 
 
-
-# 1835212
+# 1833143
 type=video
-name=Redbull TV HD
-URL=http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8
-
+name=BBC Entertainment UAE
+URL=http://goo.gl/GQByg
 
 
-# 1835214
+# 1769161
 type=video
-name=BIO HD
+name=Biography Channel Thailand
 URL=http://fw01.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800
 
 
-
-# 1835215
+# 1708099
 type=video
-name=wealth tv
-URL=http://fw01.livem3u8.me.totiptv.com/live//ce9a1585f45d4379970b95308df3f879.m3u8?bitrate=800
+name=Bravo US
+URL=rtmp://edge.isearch.to/edge playPath=sfg2m47pn3psaby swfUrl=http://player.ilive.to/ilive-plugin.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?channel=51149
 
 
-
-# 1835216
+# 1757685
 type=video
-name=MotorVision HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//4c2ebe80b19049deac5ad59b478a79ac.m3u8?bitrate=800
+name=CBS US
+URL=rtmp://edge.isearch.to/edge playPath=x8mo6neycf6wpvz swfUrl=http://player.ilive.to/ilive-plugin.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?channel=48475
 
 
-
-# 1835217
+# 1702399
 type=video
-name=Thril Movies Channels
-URL=http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800
+name=Cinemax India
+URL=rtmp://edge.isearch.to/edge/nl1yg9ant34fy93 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-
-# 1835218
+# 1396239
 type=video
-name=Star World HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800
+name=CNN US
+URL=rtmp://edge.isearch.to/edge playPath=pevmm1onhjyufpg swfUrl=http://player.ilive.to/ilive-plugin.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?channel=51440
 
 
-
-# 1835219
+# 1773617
 type=video
-name=M Channel HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//8237601ce3ea4bae8332ebb0d88dba87.m3u8?bitrate=800
+name=CNN US
+URL=rtmp://c.cdn.msnbclive.eu/edge/cnn_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1
 
 
-
-# 1835220
+# 1672636
 type=video
-name=Edge HD
-URL=http://fw01.livem3u8.me.totiptv.com/live/3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800
+name=Comedy Central US (Set Audio Offset Ahead By 0.550)
+URL=rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfUrl=http://yukons.net/yukplay.swf  pageUrl=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1
 
 
-
-# 1835223
+# 1769180
 type=video
-name=WE HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800
+name=Comedy Central HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?bitrate=800
 
 
-
-# 1835225
+# 1769162
 type=video
-name=ITV Choice HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//e36b99bcd26648af9db2261785c77b7a.m3u8?bitrate=800
+name=Crime & Investigation Network Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800
 
 
-
-# 1835227
+# 1824673
 type=video
-name=HD MEDIA 3D
-URL=rtmp://93.95.99.231/live/3d
+name=The CW US
+URL=rtmp://edge.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=48102&autoplay=true
 
 
-
-# 1835228
+# 1685600
 type=video
-name=Discovery HD
-URL=rtmp://88.190.52.107:80/liverepeater/49311 playpath=49311 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id=49311
+name=Discovery Channel US
+URL=rtmp://edge.isearch.to/edge playPath=pzzhl9914uivaxf swfUrl=http://player.ilive.to/ilive-plugin.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?channel=48210
 
 
-
-# 1835230
+# 1922960
 type=video
-name=AXN HD Polska
-URL=rtmp://88.190.52.107:80/liverepeater/47009 playpath=47009 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id=47009
+name=Discovery Channel Russia
+URL=http://goo.gl/9Hm3pw
 
 
-
-# 1835231
+# 1790547
 type=video
-name=HBO HD Polska
-URL=rtmp://94.242.253.139:80/liverepeater/48465 playpath=48465 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='48465
+name=Discovery Science Bangkok
+URL=rtsp://69.197.154.238/dssc.ujk
 
 
-
-# 1835232
+# 1909446
 type=video
-name=HBO2 HD Polska
-URL=rtmp://199.19.94.50:80/liverepeater/48466 playpath=48466 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='48466
+name=Discovery Science Russia
+URL=http://goo.gl/VZ7TU
 
 
-
-# 1835234
+# 1922959
 type=video
-name=HBO Comeday HD Polska
-URL=rtmp://88.190.52.107:80/liverepeater/48467 playpath=48467 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='48467
+name=Discovery World Russia
+URL=http://goo.gl/wN50WN
 
 
-
-# 1835235
+# 1905298
 type=video
-name=Canal + HD
-URL=rtmp://88.190.52.107:80/liverepeater/46190 playpath=46190 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id=46190
+name=Disney Channel US
+URL=rtmp://edge.isearch.to/edge/2tag4dzgwof5ma2 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
 
 
-
-# 1835236
+# 1924413
 type=video
-name=Canal + Film HD
-URL=rtmp://199.19.94.50:80/liverepeater/48468 playpath=48468 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='48468
+name=Disney Junior US
+URL=rtmp://edge.isearch.to/edge playpath=4zdvpukn7471xlh swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=51706&autoplay=true
 
 
-
-# 1835237
+# 1835060
 type=video
-name=Canal + Film 2 HD
-URL=rtmp://88.190.52.107:80/liverepeater/46762 playpath=46762 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id=46762
+name=Diva Universal Russia
+URL=http://goo.gl/jhE4y
 
 
-
-# 1835238
+# 1673914
 type=video
-name=Canal + Family HD
-URL=rtmp://94.242.253.139:80/liverepeater/46817 playpath=46817 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='46817
+name=Docu Box Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8
 
 
-
-# 1835239
+# 1390203
 type=video
-name=Canal + Family 2 HD
-URL=rtmp://199.19.94.50:80/liverepeater/46818 playpath=46818 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='46818
+name=DoughyGuy Broadcast System
+URL=http://65.60.19.42:8380/;stream.nsv
 
 
-
-# 1835240
+# 1769176
 type=video
-name=Canal + Sport HD
-URL=rtmp://94.242.253.139:80/liverepeater/46819 playpath=46819 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='46819
+name=Edge HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800
 
 
-
-# 1835241
+# 1805882
 type=video
-name=Polsat HD
-URL=rtmp://94.242.253.139:80/liverepeater/46823 playpath=46823 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='46823
+name=English Club TV Russia
+URL=http://94.242.221.141/hls/a-lo/stream132.m3u8
 
 
-
-# 1835242
+# 1348380
 type=video
-name=N Sport HD
-URL=rtmp://88.190.52.107:80/liverepeater/46831 playpath=46831 swfUrl=http://cdn.goodcast.org/player.swf live=1 pageUrl=http://goodcast.org/stream.php?id='46831
-
-
-
-# 1835243
-type=video
-name=Animal Planet  HD
-URL=rtmp://s01.webport.tv/promo/mtv live=2
-
-
-
-# 1835244
-type=video
-name=Nat Geo WIld HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800
-
-rating=5.00
-
-# 1835245
-type=video
-name=Nat Geo Adv HD
-URL=http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800
-
-
-
-# 1839788
-type=video
-name=Ten Sport
-URL=rtmp://188.122.91.6/app playpath=ten_sports_hq swfUrl=http://www.yocast.tv/player/player-licensed.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ten_sports_hq&vw=600&vh=450
-
-
-
-# 1839793
-type=video
-name=CW US
-URL=rtmp://edge.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48192/watch-live-CW-streaming-channel-for-free
-
-
-
-# 1839794
-type=video
-name=Espn US
+name=ESPN US
 URL=rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
 
 
-
-# 1839795
+# 1552454
 type=video
 name=ESPN 2 US
-URL=rtmp://edge.isearch.to/edge/r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+URL=rtmpe://live.univisionbrazil.com/modelo/espn2.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=espn2
 
 
-
-# 1839796
+# 1559787
 type=video
-name=HBO US
-URL=rtmpe://142.4.217.210/modelo/hboe/hboe.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=hboe
+name=ESPN Plus Brazil
+URL=rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html
 
 
-
-# 1839797
+# 1722791
 type=video
-name=HBO Hits US
+name=Fashion Box HD Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+
+
+# 1769167
+type=video
+name=Fashion TV HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800
+
+
+# 1909003
+type=video
+name=Fashion TV Russia
+URL=http://94.242.221.141/hls/a-lo/stream104.m3u8
+
+
+# 1689040
+type=video
+name=Fight Box HD Polska
+URL=http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8
+
+
+# 1834565
+type=video
+name=Food Network US
+URL=rtmp://edge.isearch.to/edge playpath=y60lx8lkyexxnry swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1685601
+type=video
+name=Food Television New Zealand
+URL=rtmp://edge.isearch.to/edge/r7oi6ylf755rcno swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1839837
+type=video
+name=FOX US
+URL=rtmp://edge.isearch.to/edge playpath=tzk4z1tgmhvuibv swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1790658
+type=video
+name=FOX Portugal
+URL=rtmp://edge.isearch.to/edge/g5244477x253rk4 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1790654
+type=video
+name=FOX Crime Portugal
+URL=rtmp://edge.isearch.to/edge/qe4ivz5egll49bx swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1595486
+type=video
+name=FOX Life Portugal
+URL=rtmp://edge.isearch.to/edge/zsykl0nvdr7xf0x pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1870024
+type=video
+name=FOX Life Russia
+URL=http://goo.gl/gFNpc
+
+
+# 1685693
+type=video
+name=FOX Movies
+URL=rtmp://edge.isearch.to/edge/hc992q7x7cz86t9 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1789657
+type=video
+name=FOX News US
+URL=http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800
+
+
+# 1540487
+type=video
+name=FOXNEWS.COM Live US
+URL=http://foxhdlive-f.akamaihd.net/DCL_1_600@6475?%20v=2.11.3&fp=WIN%2011,5,31,137&r=NSUNU&g=PRPGTWWACWEM
+
+
+# 1839838
+type=video
+name=FX US
+URL=rtmp://edge.isearch.to/edge playpath=xlawa3krny5pxjy swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1769179
+type=video
+name=FX HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800
+
+
+# 1791142
+type=video
+name=HBO Bangkok
+URL=rtsp://69.197.154.238/hbohd.uewhdfydsg
+
+
+# 1922979
+type=video
+name=HBO HD China
+URL=http://113.160.49.36/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
+
+
+# 1922980
+type=video
+name=HBO HD China
+URL=http://203.162.16.22/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
+
+
+# 1693472
+type=video
+name=HBO HD Thailand
+URL=rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:hbo.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/hbo-31326E61.html token=na^tu12%28aqw
+
+
+# 1685695
+type=video
+name=HBO Comedy
+URL=rtmp://edge.isearch.to/edge/a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685696
+type=video
+name=HBO Hits
 URL=rtmp://edge.isearch.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
+# 1830760
+type=video
+name=HGTV US
+URL=rtmp://edge.isearch.to/edge/1u2l3b0jop6e5ie swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
-# 1839798
+
+# 1707621
 type=video
 name=History Channel US
 URL=rtmp://edge.isearch.to/edge/cpurxuuwv3ljnji swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
+# 1840309
+type=video
+name=History Channel US
+URL=rtmp://edge.isearch.to/edge playpath=kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/48214/watch-livE-history_{HD}streaming-channel
 
-# 1839800
+
+# 1773618
+type=video
+name=HLN US
+URL=rtmp://a.cdn.msnbclive.eu/edge/hln_live swfurl=http://msnbclive.eu/getswf.php?name=player.swf live=1 pageurl=http://blog.livenewschat.tv/the-nancy-grace-room/
+
+
+# 1792087
+type=video
+name=Hollywood Portugal
+URL=rtmp://edge.isearch.to/edge/ak7qf6qh54qg8z8 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1923773
+type=video
+name=HOT 3 Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/40
+
+
+# 1925427
+type=video
+name=HOT 8 Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/11
+
+
+# 1923775
+type=video
+name=HOT Comedy Central Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/4
+
+
+# 1923776
+type=video
+name=HOT Family Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/3
+
+
+# 1923777
+type=video
+name=HOT Gold Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/41
+
+
+# 1868150
+type=video
+name=Hot Movies Premium Korea (Everyon.tv)
+URL=rtmp://lm02.everyon.tv:1935/ptv2/pld511
+
+
+# 1909984
+type=video
+name=ID Investigation Discovery Turkey
+URL=http://goo.gl/QqgD3o
+
+
+# 1875677
+type=video
+name=KDKZ 18
+URL=rtmp://fmsedge2.tikilive.com:1935/view/31830_291/ playpath=stream31830 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 live=1 pageUrl=http://www.tikilive.com/show/kdkz18
+
+
+# 1708103
 type=video
 name=Lifetime US
 URL=rtmp://edge.isearch.to/edge/cexop1sm47oqcrh swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
+# 1613079
+type=video
+name=Lotus Macau China
+URL=rtmp://58.97.57.152/live playpath=ch33 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 
-# 1839801
+
+# 1756844
+type=video
+name=MAX HD Brazil
+URL=rtmp://edge.isearch.to/edge/6st48zwie8fnzf9 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1805020
+type=video
+name=Max Prime Brazil
+URL=rtmp://edge.isearch.to/edge/61nqzf0q0sua42b swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685719
+type=video
+name=MGM Portugal
+URL=rtmp://edge.isearch.to/edge/b0fehgu27mjkcxu swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1914179
+type=video
+name=Motorvision TV HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//4c2ebe80b19049deac5ad59b478a79ac.m3u8?bitrate=800
+
+
+# 1766897
+type=video
+name=MSNBC US
+URL=http://fw01.livem3u8.me.totiptv.com/live//7f2989e3f87e4efdb36bac56b64dca62.m3u8?bitrate=800
+
+
+# 1773616
+type=video
+name=MSNBC US
+URL=rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1
+
+
+# 1687976
+type=video
+name=MTV Portugal
+URL=rtmp://edge.isearch.to/edge/pluifrgyd9hwij8 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1924414
+type=video
+name=MyTV US
+URL=rtmp://edge.isearch.to/edge playpath=vo6q1zm4ibi7zkc swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=48206&autoplay=true
+
+
+# 1769183
+type=video
+name=Nat Geo Adventure HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800
+
+
+# 1789248
+type=video
+name=Nat Geo Wild Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800
+
+# 1879720
+type=video
+name=National Geographic US
+URL=rtmp://edge.isearch.to/edge/0d7lqq5x84xdci3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to
+
+
+# 1922961
+type=video
+name=National Geographic Russia
+URL=http://goo.gl/wjfyzt
+
+
+# 1685717
+type=video
+name=National Geographic Thailand
+URL=rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:national.geographic.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/national-geographic-31356E61.html token=na^tu12%28aqw
+
+
+# 1348314
 type=video
 name=NBA TV US
 URL=rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV
 
 
-
-# 1839802
+# 1877646
 type=video
-name=Showtime US
-URL=rtmpe://142.4.217.210/modelo/showtime/showtime.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=starz
+name=NBC US
+URL=rtmp://edge.isearch.to/edge/cqhm3klmkzmbrez swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to
 
 
-
-# 1839803
+# 1879721
 type=video
-name=Showtime Hits US
+name=NBC US
+URL=rtmp://edge.isearch.to/edge/1bskugsv6mvbb3q pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf
+
+
+# 1348316
+type=video
+name=NFL Network US
+URL=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+
+
+# 1905299
+type=video
+name=Nick JR Russia
+URL=http://goo.gl/9ikS8
+
+
+# 1877560
+type=video
+name=Nickelodeon US
+URL=rtmp://edge.isearch.to/edge/ playpath=hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive.swf live=true pageUrl=http://www.ilive.to/view/48100/watch-live-Nickelodeon-streaming-channel-for-free
+
+
+# 1415031
+type=video
+name=OC16 Hawaii US
+URL=rtmp://24.165.45.209/oc16live/ swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ playpath=oc16 live=true
+
+
+# 1601903
+type=video
+name=Outdoor Channel Thailand
+URL=rtmp://lm02.everyon.tv:1935/ptv2/pld613
+
+# 1769175
+type=video
+name=Outdoor Channel Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800
+
+
+# 1925625
+type=video
+name=OWN US
+URL=rtmp://edge.isearch.to/edge playpath=vm7lbhcjxqscv0c swfUrl=http://player.ilive.to/player_ilive.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=27778&autoplay=true
+
+
+# 1794402
+type=video
+name=Oxygen US
+URL=rtmp://edge.isearch.to/edge/zmt2swezlswh9nz swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1348318
+type=video
+name=PBS US
+URL=http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf
+player=mplayer
+# 1348428
+type=video
+name=PBS 2 US
+URL=http://165.95.101.52:80/kamu-weather?MSWMExt=.asf
+
+
+# 1661926
+type=video
+name=The Pentagon Channel US
+URL=rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60
+
+
+# 1824672
+type=video
+name=Pro-Wrestling
+URL=rtmp://80.93.53.88:1935/live/wrestling.stream
+
+
+# 1348327
+type=video
+name=Redbull TV US
+URL=http://redbulwebtvhd-f.akamaihd.net/webtvhd_3_696@54840?videoId=1389549382001&lineUpId=&pubId=710858724001&playerId=1398061561001&affiliateId=&v=2.4.5&fp=WIN%2011,1,102,55&r=ZHTCA&g=UHGDLQSEJWXL
+
+
+# 1557146
+type=video
+name=Relax TV
+URL=rtmp://www.planeta-online.tv:1936/live/channel_3 swfUrl=http://www.planeta-online.tv/planeta_player.swf pageUrl=http://www.planeta-online.tv/?ch=3Vfy=true live=true tcUrl=rtmp://www.planeta-online.tv:1936/live/channel_3
+
+
+# 1592062
+type=video
+name=Showtime Hits
 URL=rtmp://edge.isearch.to/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-
-# 1839804
+# 1914178
 type=video
-name=TLC US
-URL=rtmp://edge.isearch.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+name=Smile Of A Child TV US
+URL=rtmp://cp114426.live.edgefcs.net:1935/live playpath=soac_mbr_300@101622 swfUrl="http://www.smileofachildtv.org/flash/liveplayer.swf" pageURL="http://www.smileofachildtv.org/watchOnline_big.php" swfVfy=true live=true
 
 
+# 1875234
+type=video
+name=Sony Entertainment TV Portugal
+URL=rtmp://85.12.5.147/edge playpath=fabxrdpvuds3bbj swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/49721/watch-live-Sony-streaming-channel-for-free
 
-# 1839805
+
+# 1791141
+type=video
+name=Sony Entertainment TV Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800
+
+
+# 1724903
+type=video
+name=Sony Spin Portugal
+URL=rtmp://edge.isearch.to/edge/ec8u5a2zb3pajzu swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1723184
+type=video
+name=Spike TV US
+URL=rtmp://edge.isearch.to/edge/m5bn1sv1r8644m6 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1922975
+type=video
+name=Star Movies HD China
+URL=http://113.160.49.36:80/lives/origin03/starmoviesd.isml/starmoviesd.m3u8
+
+
+# 1832615
+type=video
+name=Star Movies India
+URL=rtmp://edge.isearch.to/edge/kggplz5w9bpaaaj swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1751378
+type=video
+name=Star World HD Thailand
+URL=rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:star.world.360p swfUrl=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageUrl=http://www.hayhaytv.vn/livetv/star-world-hd-31386E61.html token=na^tu12%28aqw
+
+
+# 1685704
+type=video
+name=Starz Hits
+URL=rtmp://edge.isearch.to/edge/8g7x80ozu6hz2ds swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1685705
+type=video
+name=SYFY US
+URL=rtmp://edge.isearch.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1769178
+type=video
+name=SYFY Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800
+
+
+# 1791149
+type=video
+name=SYFY Universal Portugal
+URL=rtmp://edge.isearch.to/edge/ohabkpgn3e25r3v swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+
+
+# 1834564
+type=video
+name=TBS US
+URL=rtmp://edge.isearch.to/edge playpath=0is1gbnvkgqmpk3 swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to
+
+
+# 1685711
+type=video
+name=TC Premium Portugal
+URL=rtmp://31.204.128.75/live/master19 pageUrl=http://www.cdnbr.biz/mastertv/Telecine%20Premium.html swfUrl=http://www.cdnbr.biz/swf/player.swf swfVfy=true live=true / TELECINE PREMIUM
+
+
+# 1922955
+type=video
+name=Tera TV Russia
+URL=mms://62.162.58.55/TVTera
+
+
+# 1768859
+type=video
+name=Thrill Channel Indonesia
+URL=http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800
+
+
+# 1681205
 type=video
 name=TNT US
-URL=rtmp://edge.isearch.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
+URL=rtmp://edge.isearch.to/edge playPath=cicnt0lu5cy3sbu swfUrl=http://player.ilive.to/ilive-plugin.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?channel=48069
 
 
+# 1769181
+type=video
+name=Travel Channel HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800
 
-# 1839806
+
+# 1706447
 type=video
 name=TWiT US
 URL=http://bglive-a.bitgravity.com/twit/live/high
 
 
+# 1685709
+type=video
+name=Universal Channel Portugal
+URL=rtmp://edge.isearch.to/edge/u4yqa53fa15ct18 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
-# 1839807
+
+# 1769164
+type=video
+name=Universal Channel Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800
+
+
+# 1685708
 type=video
 name=USA Network US
 URL=rtmp://edge.isearch.to/edge/ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php
 
 
-
-# 1839808
+# 1922958
 type=video
-name=ZDF DE
-URL=http://webtv-aarh-9.stofa.dk:80/184_01.m3u8
+name=Viasat Explorer Russia
+URL=http://goo.gl/dwfLCt
 
 
-
-# 1839809
+# 1922957
 type=video
-name=RTL DE
-URL=http://webtv-aarh-8.stofa.dk:80/187_01.m3u8
+name=Viasat Nature Russia
+URL=http://goo.gl/orOagw
 
 
-
-# 1839810
+# 1702390
 type=video
-name=RTL 2 DE
-URL=http://webtv-aarh-8.stofa.dk:80/188_01.m3u8
+name=WB TV Portugal
+URL=rtmp://85.12.5.8/live/warner pageUrl=http://tvguarapa.net/canais/espn/warner.html swfUrl=http://tvguarapa.net/pl/player.swf swfVfy=true live=true /WARNER
 
 
-
-# 1839820
+# 1769166
 type=video
-name=4 Music UK
-URL=rtsp://mi5.gv.filmon.com:1935/live/_definst_/95.high.stream
+name=WE HD Thailand
+URL=http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800
 
 
-
-# 1839821
+# 1790501
 type=video
-name=4Fun Tv Polska
-URL=rtmp://gdansk.popler.tv:80/publishlive?play=123452 playpath=4funtv swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf live=1
+name=Wealth TV US
+URL=http://fw01.livem3u8.me.totiptv.com/live/ce9a1585f45d4379970b95308df3f879.m3u8?bitrate=800
 
 
-
-# 1839822
+# 1751377
 type=video
-name=A1 HipHop Russia
-URL=rtmp://a1tv.cdnvideo.ru/a1tv-live/ playpath=22 swfUrl=http://www.tvlizer.com/live47/player.swf live=1 pageUrl=http://www.tvlizer.com/a-one-hip-hop-rus/
+name=WeatherNation TV US
+URL=rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1
 
 
-
-# 1839823
+# 1878988
 type=video
-name=Capital TV UK
-URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+name=Weekly Wrestling Live - Raw - Monday@8pm Impact - Thursday@9pm Smackdown - Friday@8pm
+URL=rtmp://85.12.5.7/vl/_definst_ playpath=testup swfurl=http://www.veemi.com/player/player-licensed.swf live=1 pageurl=http://www.veemi.com/Impact Wrestling
 
 
-
-# 1839824
+# 1875676
 type=video
-name=Dance Tv Hungary
-URL=mms://onstreaming01.de.gtk.hu/dancetv
+name=WEYW 19
+URL=rtmp://fmsedge2.tikilive.com:1935/view/23237_051/ playpath=stream23237 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://www.tvchannel19.com/page38.html
 
 
-
-# 1839825
+# 1542658
 type=video
-name=Deluxe Music DE
-URL=rtsp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+name=World Fashion TV Italy
+URL=rtmp://83.229.210.89/WFC_EU/BTVwfceu0
 
 
-
-# 1839826
+# 1875675
 type=video
-name=Eska TV Polska
-URL=rtmp://stream.smcloud.net/live/eskatv
+name=WSFD 15
+URL=rtmp://fmsedge1.tikilive.com:1935/view/32434_292/ playpath=stream32434 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 live=1 pageUrl=http://www.tikilive.com/show/wsfd15
 
 
-
-# 1839827
+# 1923762
 type=video
-name=Heart Tv UK
-URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
+name=Yes Action Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/16
 
 
-
-# 1839828
+# 1923765
 type=video
-name=Kiss TV
-URL=rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live playpath=live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf
+name=Yes Doco Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/14
 
 
-
-# 1839829
+# 1923769
 type=video
-name=MTV Classic
-URL=rtmp://ev.mm.uol.com.br/liverepeater playpath=mtvcast_flash.sdp swfUrl=http://bgonline-tv.com/player1.swf?streamer=rtmp://ev.mm.uol.com.br/liverepeater&image=&file=mtvcast_flash.sdp&type=video&autostart=true&stretching=exactfit&backcolor=000000&frontcolor=FFFFFF&lightcolor=66FF66 live=1 pageUrl=http://bgonline-tv.com/player1.swf?streamer=rtmp://ev.mm.uol.com.br/liverepeater&image=&file=mtvcast_flash.sdp&type=video&autostart=true&stretching=exactfit&backcolor=000000&frontcolor=FFFFFF&lightcolor=66FF66
-
-
-
-# 1839830
-type=video
-name=MTV Live HD Polska
-URL=http://fw01.livem3u8.me.totiptv.com/live//8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800
-
-
-
-# 1839831
-type=video
-name=Vevo  TV US
-URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-
-
-
-# 1839832
-type=video
-name=VH1 Music Eu
-URL=http://94.242.221.141/hls/a-lo/stream44.m3u8
-
-
-
-# 1839833
-type=video
-name=VH1 Classik
-URL=http://94.242.221.141/hls/a-lo/stream79.m3u8
-
-
-
-# 1878942
-type=video
-name=Food+1
-URL=http://37.46.199.34:1935/hls/mux-udp-859/playplist.m3u8
-
-
-
-# 1878943
-type=video
-name=Cbs reality
-URL=http://37.46.199.34:1935/hls/mux-udp-860/playplist.m3u8
-
-
-
-
-
-
+name=Yes Drama Israel
+URL=rtsp://50.97.49.105:81/edge/_definst_/live/13
 # 1755053
